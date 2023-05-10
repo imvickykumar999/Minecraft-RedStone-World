@@ -8,7 +8,7 @@
 
 - https://www.reddit.com/r/redstone/
 - https://www.youtube.com/playlist?list=PLC2C7443BFF902E61
-
+- https://github.com/GuilhermeRossato/3D-Redstone-Simulator
 
 -----------------
 
@@ -16,4 +16,4 @@
 
 - https://scratch.mit.edu/projects/171834131/
 - https://mordritch.com/mc_rss/
-- https://github.com/GuilhermeRossato/3D-Redstone-Simulator
+- https://grossato.com.br/static/3D-Redstone-Simulator/frontend/index.html
