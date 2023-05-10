@@ -1,8 +1,8 @@
 ># `Minecraft RedStone Tutorial`
 >
->[![image](https://github.com/imvickykumar999/Minecraft-RedStone-Automation/assets/50515418/c53c415d-872a-4c3e-8a6a-69e28a205207)](https://www.youtube.com/playlist?list=PLC2C7443BFF902E61)
+>[![image](https://github.com/imvickykumar999/Minecraft-RedStone-Automation/assets/50515418/152f56ab-564c-403a-9920-bd8d1efe9848)](https://www.youtube.com/playlist?list=PLC2C7443BFF902E61)
 
-<br>
+-----------------------
 
 ## `Sources`
 
