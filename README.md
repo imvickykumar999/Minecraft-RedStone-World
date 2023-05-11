@@ -17,20 +17,29 @@
 
 -------------------
 
-## `YouTube Playlist Sources`
+## `YouTube Playlist`
 
 - https://www.youtube.com/playlist?list=PLC2C7443BFF902E61
 - https://www.youtube.com/playlist?list=PLsYWJNTsmPUX8nkFbGNuAXBmi9F8FrwvU
 
 ------------------
 
-## `YouTube Video Sources`
+## `YouTube Video : CPU Sources`
 
 - https://www.youtube.com/watch?v=IOoy_eG8efI
 - https://youtu.be/FDiapbD0Xfg
 - https://www.youtube.com/watch?v=wJi0xeNI6ho
 - https://www.youtube.com/watch?v=USH-PME_rls
 - https://www.youtube.com/watch?v=EvvWOaLgKVU
+
+---------------------
+
+## `YouTube Video : MIDI Machine`
+
+- https://www.youtube.com/watch?v=BW_bfNqctog
+- https://www.youtube.com/watch?v=pR-YJAeDP6Y
+- https://www.youtube.com/watch?v=d4xkgR8qj1A
+- https://www.youtube.com/watch?v=Wn02mzGRyzA
 
 ---------------
 
