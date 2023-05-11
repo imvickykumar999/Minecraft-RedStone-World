@@ -27,15 +27,16 @@ opt_texture = [
     'ursina_wink_0000',
     'ursina_wink_0001',
     'vertical_gradient',
-    'white_cube',
+    # 'white_cube',
 ]
 
 class Voxel(Button):
     def __init__(self, position=(0,0,0), 
-                 texture='grass',
-                 default_color=color.green,
+                 texture='white_cube',
+                 default_color=color.white,
                  ):
-        super().__init__(parent=scene,
+        super().__init__(
+            parent=scene,
             position=position,
             model='cube',
             origin_y=.5,
@@ -44,18 +45,23 @@ class Voxel(Button):
             color=default_color,
         )
 
-for y in range(0,101,50):
-    for z in range(12):
-        for x in range(12):
-            voxel = Voxel(position=(x,y,z))
+# for y in range(10,101,50):
+#     for z in range(12):
+#         for x in range(12):
+#             voxel = Voxel(position=(x,y,z))
 
 with open('input/UNIQUE.txt') as f:
     plain = f.read()
 
-for z in plain.split('\n'):
-    for x in z:
-        print(x)
-    print()
+for i, z in enumerate(plain.split('\n')):
+    for j, x in enumerate(list(z)):
+        if int(x):
+            Voxel(position=(i,0,j))
+        else:
+            Voxel(
+            position=(i,0,j),
+            default_color=color.black,
+            )
 
 def input(key):
     hit_info = raycast(camera.world_position, camera.forward, distance=100)
@@ -65,10 +71,10 @@ def input(key):
     if key == 'left mouse down':
         if hit_info.hit:
             Voxel(position=hit_info.entity.position + hit_info.normal, 
-                  texture='brick',
-                  default_color=color.orange,
-                #   texture=opt_texture[c%len(opt_texture)],
-                #   default_color=color.random_color(),
+                #   texture='brick',
+                #   default_color=color.orange,
+                  texture=opt_texture[c%len(opt_texture)],
+                  default_color=color.random_color(),
                   )
             
     if key == 'right mouse down' and mouse.hovered_entity:
@@ -86,9 +92,10 @@ def input(key):
         player.gravity *= -1
 
 window.fullscreen = 1
-player = FirstPersonController(gravity=.5)
+player = FirstPersonController(gravity=.1)
 
 def update():
+    # pass
     if player.y < -10 or player.y > 250:
         player.y = 150
 
