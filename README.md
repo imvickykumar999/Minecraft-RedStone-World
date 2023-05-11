@@ -23,6 +23,12 @@
 - https://www.youtube.com/watch?v=IOoy_eG8efI
 - https://youtu.be/FDiapbD0Xfg
 
+---------------
+
+## `Programming The CPU Architecture`
+
+[![image](https://github.com/imvickykumar999/Minecraft-RedStone-CPU/assets/50515418/34047f92-9b91-40c8-879c-a7e78521c4f0)](https://www.youtube.com/playlist?list=PLsYWJNTsmPUX8nkFbGNuAXBmi9F8FrwvU)
+
 -----------------
 
 ## `Redstone Simulator`
