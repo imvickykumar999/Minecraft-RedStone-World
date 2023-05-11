@@ -11,9 +11,15 @@
 
 -------------------
 
-## `Video Sources`
+## `YouTube Playlist Sources`
 
 - https://www.youtube.com/playlist?list=PLC2C7443BFF902E61
+- https://www.youtube.com/playlist?list=PLsYWJNTsmPUX8nkFbGNuAXBmi9F8FrwvU
+
+------------------
+
+## `YouTube Video Sources`
+
 - https://www.youtube.com/watch?v=IOoy_eG8efI
 - https://youtu.be/FDiapbD0Xfg
 
