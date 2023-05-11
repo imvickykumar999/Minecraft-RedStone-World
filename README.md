@@ -4,6 +4,12 @@
 
 -----------------------
 
+## `Walking on Data.csv` : [Binary Encoded File](https://github.com/imvickykumar999/Minecraft-RedStone-CPU/blob/a2fd964642773f1f76ced15a2260dec1974d04a0/static/data.csv.txt#L1)
+
+![image](https://github.com/imvickykumar999/Minecraft-RedStone-CPU/assets/50515418/5f7d52e6-8462-402b-a781-229083c11e95)
+
+-------------------
+
 ## `Minecraft Supercomputer`
     An 8-bit processor with a one hertz clock speed and 256 bytes of RAM
 
