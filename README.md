@@ -27,7 +27,7 @@
 ## `YouTube Video : CPU Architecture`
 
 - https://www.youtube.com/watch?v=IOoy_eG8efI
-- https://youtu.be/FDiapbD0Xfg
+- https://www.youtube.com/watch?v=FDiapbD0Xfg
 - https://www.youtube.com/watch?v=wJi0xeNI6ho
 - https://www.youtube.com/watch?v=USH-PME_rls
 - https://www.youtube.com/watch?v=EvvWOaLgKVU
@@ -40,6 +40,7 @@
 - https://www.youtube.com/watch?v=pR-YJAeDP6Y
 - https://www.youtube.com/watch?v=d4xkgR8qj1A
 - https://www.youtube.com/watch?v=puAPyLKC8IE
+- https://www.youtube.com/watch?v=8KBfhjDx274
 
 ---------------
 
