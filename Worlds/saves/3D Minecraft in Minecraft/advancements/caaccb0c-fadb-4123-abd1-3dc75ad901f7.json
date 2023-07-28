@@ -1,0 +1,9 @@
+{
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-09-06 18:25:38 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
