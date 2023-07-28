@@ -12,6 +12,7 @@ nbtfile["Data"]["GameRules"]['doMobSpawning'].value = 'false'
 nbtfile["Data"]["GameRules"]['fallDamage'].value = 'false'
 nbtfile["Data"]["GameRules"]['fireDamage'].value = 'false'
 nbtfile["Data"]["GameRules"]['freezeDamage'].value = 'false'
+nbtfile["Data"]["GameRules"]['drowningDamage'].value = 'false'
 nbtfile["Data"]['Player']['abilities']['walkSpeed'].value = 0.20000000298023224
 nbtfile["Data"]["Time"].value = -9223372036854623192
 
