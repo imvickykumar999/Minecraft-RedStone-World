@@ -3,13 +3,22 @@
 # pip install NBT
 
 from nbt import nbt
-nbtfile = nbt.NBTFile("Demo_World/level.dat", 'rb')
 
+# nbtfile = nbt.NBTFile("Demo_World/level.dat", 'rb')
+nbtfile = nbt.NBTFile("level.dat", 'rb') # test
+
+# making game easy
+nbtfile["Data"]["GameRules"]['doMobSpawning'].value = 'false'
+nbtfile["Data"]["GameRules"]['fallDamage'].value = 'false'
+nbtfile["Data"]["GameRules"]['fireDamage'].value = 'false'
+nbtfile["Data"]["GameRules"]['freezeDamage'].value = 'false'
+nbtfile["Data"]['Player']['abilities']['walkSpeed'].value = 0.20000000298023224
 nbtfile["Data"]["Time"].value = -9223372036854623192
-nbtfile.write_file("Demo_World/level.dat")
 
 for tag in nbtfile["Data"].tags:
     print(tag.tag_info())
+
+nbtfile.write_file("Demo_World/level.dat") # save
 
 
 '''
