@@ -1,0 +1,6 @@
+{
+    "values": [
+        "infinite_music_discs_dp:register_players_tick",
+        "infinite_music_discs_dp:jukebox_event_tick"
+    ]
+}

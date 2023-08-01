@@ -1,0 +1,10 @@
+{
+    "music_disc.onlyup": {
+        "sounds": [
+            {
+                "name": "records/onlyup",
+                "stream": true
+            }
+        ]
+    }
+}
