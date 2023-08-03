@@ -1,0 +1,55 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/end/1/main",
+	"north": 	"know2good/blocks/stone/end/1/north",
+	"east": 	"know2good/blocks/stone/end/1/east",
+	"south": 	"know2good/blocks/stone/end/1/south",
+	"west": 	"know2good/blocks/stone/end/1/west",
+	"sparkle": 	"know2good/blocks/decoration/ground/enderman_sparkle/0",
+	"particle": "know2good/blocks/stone/end/1/main"
+},
+"elements": [ 
+	{
+		"__comment":"Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":{	"texture":"#main","cullface":"down"},
+			"up":{		"texture":"#main","cullface":"up"},
+			"north":{	"texture":"#north","cullface":"north"},
+			"south":{	"texture":"#south","cullface":"south"},
+			"west":{	"texture":"#west","cullface":"west"},
+			"east":{	"texture":"#east","cullface":"east"}
+		}
+	},
+	{
+		"__comment": "Sparkle",
+		"from": [2,16,9],
+		"to": [3,17,10],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 22.5 },
+		"faces": {
+			"up":{"uv":		[3.01,3.01,3.99,3.99],"texture":"#sparkle","cullface":"up"},
+			"north":{"uv":	[3.01,3.01,3.99,3.99],"texture":"#sparkle","cullface":"up"},
+			"south":{"uv":	[3.01,3.01,3.99,3.99],"texture":"#sparkle","cullface":"up"},
+			"west":{"uv":	[3.01,3.01,3.99,3.99],"texture":"#sparkle","cullface":"up"},
+			"east":{"uv":	[3.01,3.01,3.99,3.99],"texture":"#sparkle","cullface":"up"}
+		}
+	},
+	{
+		"__comment": "Sparkle",
+		"from": [3,16,10],
+		"to": [4,17,11],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 22.5 },
+		"faces": {
+			"up":{"uv":		[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"north":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"south":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"west":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"east":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"}
+            }
+        }
+    ]
+}

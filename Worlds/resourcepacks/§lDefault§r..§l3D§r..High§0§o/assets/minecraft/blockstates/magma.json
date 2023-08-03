@@ -1,0 +1,23 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/magma", "weight": 590 },
+            { "model": "block/magma", "y": 90, "weight": 620 },
+            { "model": "block/magma", "y": 180, "weight": 600 },
+			{ "model": "block/magma", "y": 270, "weight": 610 },
+			{ "model": "block/magma", "x": 90, "weight": 590 },
+            { "model": "block/magma", "x": 90, "y": 90, "weight": 620 },
+            { "model": "block/magma", "x": 90, "y": 180, "weight": 600 },
+			{ "model": "block/magma", "x": 90, "y": 270, "weight": 610 },
+			{ "model": "block/magma", "x": 180, "weight": 590 },
+            { "model": "block/magma", "x": 180, "y": 90, "weight": 620 },
+            { "model": "block/magma", "x": 180, "y": 180, "weight": 600 },
+			{ "model": "block/magma", "x": 180, "y": 270, "weight": 610 },
+			{ "model": "block/magma", "x": 270, "weight": 590 },
+            { "model": "block/magma", "x": 270, "y": 90, "weight": 620 },
+            { "model": "block/magma", "x": 270, "y": 180, "weight": 600 },
+			{ "model": "block/magma", "x": 270, "y": 270, "weight": 610 }
+        ]
+    }
+}

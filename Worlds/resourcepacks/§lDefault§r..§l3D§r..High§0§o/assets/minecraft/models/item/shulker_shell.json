@@ -1,0 +1,199 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+
+"textures": {
+	"top": 		"custom/shulker_shell_top",
+	"side": 	"custom/shulker_shell_side"
+},
+"elements": [ 
+	{
+		"__comment":"Top",
+		"from":[0,15,0],
+		"to":[16,16,16],
+		"faces": {
+			"down":{"uv":	[15.99,0.01,0.01,15.99],"texture":"#top","cullface":"Know2Good"},
+			"up":{"uv":		[0.01,0.01,15.99,15.99],"texture":"#top","cullface":"Know2Good"},
+			"north":{"uv":	[0.01,0.01,15.99,0.99],"texture":"#top","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[0.01,15,15.99,15.99],"texture":"#top","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,0.01,0.99,15.99],"texture":"#top","cullface":"Know2Good","rotation":270},
+			"east":{"uv":	[15.01,0.01,15.99,15.99],"texture":"#top","cullface":"Know2Good","rotation":90}
+		}
+	},
+	{
+		"__comment":"North",
+		"from":[0,8,0],
+		"to":[16,15,1],
+		"faces": {
+			"down":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#side","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[0.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[15.99,1.01,0.01,7.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[15.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[0.01,1.01,0.99,7.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"North left",
+		"from":[12,4,0],
+		"to":[16,8,1],
+		"faces": {
+			"down":{"uv":	[0.01,11.01,3.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[0.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[3.99,8.01,0.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[3.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[0.01,8.01,0.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"North right",
+		"from":[0,4,0],
+		"to":[4,8,1],
+		"faces": {
+			"down":{"uv":	[12.01,11.01,15.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[12.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[15.99,8.01,12.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[15.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[12.01,8.01,12.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"East",
+		"from":[15,8,0],
+		"to":[16,15,16],
+		"faces": {
+			"down":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#side","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[0.01,1.01,0.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[15.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[15.99,1.01,0.01,7.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"East left",
+		"from":[15,4,12],
+		"to":[16,8,16],
+		"faces": {
+			"down":{"uv":	[12.01,11.01,15.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[12.01,8.01,12.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[15.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[12.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[15.99,8.01,12.01,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"East right",
+		"from":[15,4,0],
+		"to":[16,8,4],
+		"faces": {
+			"down":{"uv":	[0.01,11.01,3.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[0.01,8.01,0.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[3.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[3.99,8.01,0.01,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"South",
+		"from":[0,8,15],
+		"to":[16,15,16],
+		"faces": {
+			"down":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"north":{"uv":	[15.99,1.01,0.01,7.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[0.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,1.01,0.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[15.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"South left",
+		"from":[12,4,15],
+		"to":[16,8,16],
+		"faces": {
+			"down":{"uv":	[12.01,11.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"north":{"uv":	[15.99,8.01,12.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[12.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[12.01,8.01,12.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[15.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"South right",
+		"from":[0,4,15],
+		"to":[4,8,16],
+		"faces": {
+			"down":{"uv":	[0.01,11.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"north":{"uv":	[3.99,8.01,0.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[0.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,8.01,0.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[3.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"West",
+		"from":[0,8,0],
+		"to":[1,15,16],
+		"faces": {
+			"down":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#side","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[15.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[0.01,1.01,0.99,7.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[15.99,1.01,0.01,7.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[0.01,1.01,15.99,7.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"West left",
+		"from":[0,4,12],
+		"to":[1,8,16],
+		"faces": {
+			"down":{"uv":	[0.01,11.01,3.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[3.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[0.01,8.01,0.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[3.99,8.01,0.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[0.01,8.01,3.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"West right",
+		"from":[0,4,0],
+		"to":[1,8,4],
+		"faces": {
+			"down":{"uv":	[12.01,11.01,15.99,11.99],"texture":"#side","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[15.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"south":{"uv":	[12.01,8.01,12.99,11.99],"texture":"#side","cullface":"Know2Good"},
+			"west":{"uv":	[15.99,8.01,12.01,11.99],"texture":"#side","cullface":"Know2Good"},
+			"east":{"uv":	[12.01,8.01,15.99,11.99],"texture":"#side","cullface":"Know2Good"}
+		}
+	}
+],
+    "display": {
+        "gui": {
+            "rotation": 	[ 30, 225, 0 ],
+            "translation": 	[ 0, -1.25, 0],
+            "scale":		[ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": 	[ 0, 0, 0 ],
+            "translation": 	[ 0, 3, 0],
+            "scale":		[ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": 	[ 0, 0, 0 ],
+            "translation": 	[ 0, 0, 0],
+            "scale":		[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": 	[ 75, 45, 0 ],
+            "translation": 	[ 0, 2.5, 0],
+            "scale": 		[ 0.375, 0.375, 0.375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": 	[ 0, 45, 0 ],
+            "translation":	[ 0, 0, 0 ],
+            "scale": 		[ 0.40, 0.40, 0.40 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": 	[ 0, 225, 0 ],
+            "translation": 	[ 0, 0, 0 ],
+            "scale": 		[ 0.40, 0.40, 0.40 ]
+        }
+    }
+}

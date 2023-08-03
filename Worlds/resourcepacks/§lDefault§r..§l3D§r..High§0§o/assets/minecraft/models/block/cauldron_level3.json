@@ -1,0 +1,180 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"top": 		"block/cauldron_top",
+    "bottom": 	"block/cauldron_bottom",
+    "side": 	"block/cauldron_side",
+    "inside": 	"block/cauldron_inner",
+	"water": 	"block/water_still",
+	"particle": "block/cauldron_side"
+},
+"elements":[
+	{
+		"__comment":"Fluid",
+		"from":	[2,15,2],
+		"to":	[14,15,14],
+		"faces": {
+			"up":	 { "texture":"#water",	"cullface":"up","tintindex":0}
+		}
+	},
+	{
+		"__comment":"Main bottom",
+		"from":	[2,3,2],
+		"to":	[14,4,14],
+		"faces": {
+			"down":	 { "texture":"#inside",	"cullface":"Know2Good"},
+			"up":	 { "texture":"#inside",	"cullface":"up"},
+			"north": { "texture":"#side",	"cullface":"north"},
+			"south": { "texture":"#side",	"cullface":"south"},
+			"west":	 { "texture":"#side",	"cullface":"west"},
+			"east":	 { "texture":"#side",	"cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Main north",
+		"from":	[2,3,0],
+		"to":	[14,16,2],
+		"faces": {
+			"down":	 { "texture":"#inside",	"cullface":	"Know2Good"},
+			"up":	 { "texture":"#top",	"cullface":	"up"},
+			"north": { "texture":"#side",	"cullface":	"north"},
+			"south": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Main east",
+		"from":	[14,3,0],
+		"to":	[16,16,16],
+		"faces": {
+			"down":	 { "texture":"#inside",	"cullface":	"Know2Good"},
+			"up":	 { "texture":"#top",	"cullface":	"up"},
+			"north": { "texture":"#side",	"cullface":	"north"},
+			"south": { "texture":"#side",	"cullface":	"south"},
+			"west":	 { "texture":"#side",	"cullface":	"Know2Good"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Main south",
+		"from":	[2,3,14],
+		"to":	[14,16,16],
+		"faces": {
+			"down":	 { "texture":"#inside",	"cullface":	"Know2Good"},
+			"up":	 { "texture":"#top",	"cullface":	"up"},
+			"north": { "texture":"#side",	"cullface":	"Know2Good"},
+			"south": { "texture":"#side",	"cullface":	"south"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Main west",
+		"from":	[0,3,0],
+		"to":	[2,16,16],
+		"faces": {
+			"down":	 { "texture":"#inside",	"cullface":"Know2Good"},
+			"up":	 { "texture":"#top",	"cullface":"up"},
+			"north": { "texture":"#side",	"cullface":"north"},
+			"south": { "texture":"#side",	"cullface":"south"},
+			"west":	 { "texture":"#side",	"cullface":"west"},
+			"east":	 { "texture":"#side",	"cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Leg north-west",
+		"from":	[0,0,0],
+		"to":	[4,3,2],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"north"},
+			"south": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Leg north-west",
+		"from":	[0,0,2],
+		"to":	[2,3,4],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"south": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Leg north-east",
+		"from":	[12,0,0],
+		"to":	[16,3,2],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"north"},
+			"south": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"Know2Good"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Leg north-east",
+		"from":	[14,0,2],
+		"to":	[16,3,4],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"south": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"Know2Good"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Leg south-east",
+		"from":	[12,0,14],
+		"to":	[16,3,16],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"Know2Good"},
+			"south": { "texture":"#side",	"cullface":	"south"},
+			"west":	 { "texture":"#side",	"cullface":	"Know2Good"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Leg south-east",
+		"from":	[14,0,12],
+		"to":	[16,3,14],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"Know2Good"},
+			"east":	 { "texture":"#side",	"cullface":	"east"}
+		}
+	},
+	{
+		"__comment":"Leg south-west",
+		"from":	[0,0,14],
+		"to":	[4,3,16],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"Know2Good"},
+			"south": { "texture":"#side",	"cullface":	"south"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Leg south-west",
+		"from":	[0,0,12],
+		"to":	[2,3,14],
+		"faces": {
+			"down":	 { "texture":"#bottom",	"cullface":	"down"},
+			"north": { "texture":"#side",	"cullface":	"Know2Good"},
+			"west":	 { "texture":"#side",	"cullface":	"west"},
+			"east":	 { "texture":"#side",	"cullface":	"Know2Good"}
+            }
+        }
+    ]
+}

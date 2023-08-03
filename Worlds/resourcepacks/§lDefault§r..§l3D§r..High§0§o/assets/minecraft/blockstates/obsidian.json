@@ -1,0 +1,79 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/glass/obsidian/0", "weight": 59 },
+            { "model": "block/glass/obsidian/0", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/0", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/0", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/1", "weight": 59 },
+            { "model": "block/glass/obsidian/1", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/1", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/1", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/2", "weight": 59 },
+            { "model": "block/glass/obsidian/2", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/2", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/2", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/3", "weight": 59 },
+            { "model": "block/glass/obsidian/3", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/3", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/3", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/4", "weight": 59 },
+            { "model": "block/glass/obsidian/4", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/4", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/4", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/5", "weight": 59 },
+            { "model": "block/glass/obsidian/5", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/5", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/5", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/6", "weight": 59 },
+            { "model": "block/glass/obsidian/6", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/6", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/6", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/7", "weight": 59 },
+            { "model": "block/glass/obsidian/7", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/7", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/7", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/8", "weight": 59 },
+            { "model": "block/glass/obsidian/8", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/8", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/8", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/9", "weight": 59 },
+            { "model": "block/glass/obsidian/9", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/9", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/9", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/10", "weight": 59 },
+            { "model": "block/glass/obsidian/10", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/10", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/10", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/11", "weight": 59 },
+            { "model": "block/glass/obsidian/11", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/11", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/11", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/12", "weight": 59 },
+            { "model": "block/glass/obsidian/12", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/12", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/12", "y": 270, "weight": 61 },
+			
+			{ "model": "block/glass/obsidian/13", "weight": 59 },
+            { "model": "block/glass/obsidian/13", "y": 90, "weight": 62 },
+            { "model": "block/glass/obsidian/13", "y": 180, "weight": 60 },
+			{ "model": "block/glass/obsidian/13", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

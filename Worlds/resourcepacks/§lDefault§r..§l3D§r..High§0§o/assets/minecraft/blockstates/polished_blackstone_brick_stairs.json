@@ -1,0 +1,405 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=east,half=bottom,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/n/7", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/e/7", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/s/7", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/straight/w/7", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/7", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/7", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/7", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/7", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/w/7", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/n/7", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/e/7", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/outer/s/7", "weight": 1 }
+		],
+         "facing=east,half=bottom,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/7", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/7", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/7", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/7", "weight": 1 }
+		],
+          "facing=east,half=bottom,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/e/7", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/s/7", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/w/7", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/bottom/inner/n/7", "weight": 1 }
+		],
+        "facing=east,half=top,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/n/7", "weight": 1 }
+		],
+        "facing=south,half=top,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/e/7", "weight": 1 }
+		],
+        "facing=west,half=top,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/s/7", "weight": 1 }
+		],
+        "facing=north,half=top,shape=straight":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/straight/w/7", "weight": 1 }
+        ],
+        "facing=east,half=top,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/7", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/7", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/7", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/7", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/w/7", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/n/7", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/e/7", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/outer/s/7", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/7", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/7", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/7", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_right":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/7", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/n/7", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/e/7", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/s/7", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_left":[
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/stairs/brick/top/inner/w/7", "weight": 1 }
+		]
+    }
+}

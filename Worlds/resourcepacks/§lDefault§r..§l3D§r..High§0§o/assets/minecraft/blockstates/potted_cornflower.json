@@ -1,0 +1,26 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/plant/potted/cornflower/blue/cornflower", "weight": 4 },
+            { "model": "block/plant/potted/cornflower/blue/cornflower", "y": 90, "weight": 4 },
+            { "model": "block/plant/potted/cornflower/blue/cornflower", "y": 180, "weight": 4 },
+            { "model": "block/plant/potted/cornflower/blue/cornflower", "y": 270, "weight": 4 },
+			
+			{ "model": "block/plant/potted/cornflower/white/cornflower", "weight": 4 },
+            { "model": "block/plant/potted/cornflower/white/cornflower", "y": 90, "weight": 4 },
+            { "model": "block/plant/potted/cornflower/white/cornflower", "y": 180, "weight": 4 },
+            { "model": "block/plant/potted/cornflower/white/cornflower", "y": 270, "weight": 4 },
+			
+			{ "model": "block/plant/potted/cornflower/purple/cornflower", "weight": 3 },
+            { "model": "block/plant/potted/cornflower/purple/cornflower", "y": 90, "weight": 30 },
+            { "model": "block/plant/potted/cornflower/purple/cornflower", "y": 180, "weight": 30 },
+            { "model": "block/plant/potted/cornflower/purple/cornflower", "y": 270, "weight": 30 },
+			
+			{ "model": "block/plant/potted/cornflower/pink/cornflower", "weight": 3 },
+            { "model": "block/plant/potted/cornflower/pink/cornflower", "y": 90, "weight": 3 },
+            { "model": "block/plant/potted/cornflower/pink/cornflower", "y": 180, "weight": 3 },
+            { "model": "block/plant/potted/cornflower/pink/cornflower", "y": 270, "weight": 3 }
+        ]
+    }
+}

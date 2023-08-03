@@ -1,0 +1,100 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"block": 	"know2good/blocks/plant/mushroom/red/mushroom",
+	"particle":	"know2good/blocks/plant/mushroom/red/mushroom"
+},
+"elements":[
+	{
+		"__comment": "Stalk",
+        "from": [7,0,7],
+        "to": [9,6,9],
+		"faces": {
+			"north":{"uv":	[0,6,2,12],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[0,6,2,12],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[2,6,0,12],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[2,6,0,12],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment": "Cap north",
+        "from": [5,2,4],
+        "to": [11,6,5],
+		"faces": {
+			"up":{"uv":		[0,1,6,2],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"down":{"uv":	[0,4,6,5],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[0,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[6,1,0,5],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[5,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[0,1,1,5],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment": "Cap east",
+        "from": [11,2,5],
+        "to": [12,6,11],
+		"faces": {
+			"up":{"uv":		[0,1,6,2],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"down":{"uv":	[0,4,6,5],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[5,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[0,1,1,5],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[6,1,0,5],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[0,1,6,5],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment": "Cap south",
+        "from": [5,2,11],
+        "to": [11,6,12],
+		"faces": {
+			"up":{"uv":		[0,1,6,2],"texture":"#block","cullface":"Know2Good"},
+			"down":{"uv":	[0,4,6,5],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[6,1,0,5],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[0,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[0,1,1,5],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[5,1,6,5],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment": "Cap west",
+        "from": [4,2,5],
+        "to": [5,6,11],
+		"faces": {
+			"up":{"uv":		[0,1,6,2],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"down":{"uv":	[0,4,6,5],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[0,1,1,5],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[5,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[0,1,6,5],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[6,1,0,5],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment": "Middle",
+        "from": [5,6,5],
+        "to": [11,7,11],
+		"faces": {
+			"down":{"uv":	[0,6,6,0],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[0,0,6,6],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[0,0,6,1],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[0,5,6,6],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[0,0,1,6],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"east":{"uv":	[5,0,6,6],"texture":"#block","cullface":"Know2Good","rotation":90}
+		}
+	},
+	{
+		"__comment": "Top",
+        "from": [5.98,7,5.98],
+        "to": [10.02,8,10.02],
+		"faces": {
+			"down":{"uv":	[1,5,5,1],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[1,1,5,5],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[1,1,5,2],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[1,4,5,5],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[1,1,2,5],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"east":{"uv":	[4,1,5,5],"texture":"#block","cullface":"Know2Good","rotation":90}
+            }
+        }
+    ]
+}

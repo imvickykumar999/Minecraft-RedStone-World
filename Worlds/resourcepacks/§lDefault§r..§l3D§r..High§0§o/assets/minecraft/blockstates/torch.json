@@ -1,0 +1,12 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wood/torch/torch/floor", "weight": 1 },
+            { "model": "block/wood/torch/torch/floor", "y": 90, "weight": 1 },
+            { "model": "block/wood/torch/torch/floor", "y": 180, "weight": 1 },
+            { "model": "block/wood/torch/torch/floor", "y": 270, "weight": 1 }
+        ]
+    }
+}
+

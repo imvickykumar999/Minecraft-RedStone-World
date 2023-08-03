@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/slab/bottom",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/stone/block/normal/49/main",
+	"north": 	"know2good/blocks/stone/stone/slab/normal/49/north",
+	"east": 	"know2good/blocks/stone/stone/slab/normal/49/east",
+	"south": 	"know2good/blocks/stone/stone/slab/normal/49/south",
+	"west": 	"know2good/blocks/stone/stone/slab/normal/49/west",
+	"particle": "know2good/blocks/stone/stone/block/normal/49/main"
+    }
+}

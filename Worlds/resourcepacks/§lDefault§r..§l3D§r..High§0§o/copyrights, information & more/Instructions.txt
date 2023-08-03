@@ -1,0 +1,7 @@
+How to install Default 3D:
+	
+	* Make sure you're using 14w30a or a future version of Minecraft.
+	* Open your resource pack folder.
+	* Download the resource pack.
+	* Put the download inside your resource pack folder.
+	* Unpack the resource pack.

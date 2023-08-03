@@ -1,0 +1,66 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/block_display",
+
+"elements": [ 
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":		{"texture":"#bottom","cullface":"down"},
+			"up":		{"texture":"#top","cullface":"up"},
+			"north":	{"texture":"#north","cullface":"north"},
+			"south":	{"texture":"#south","cullface":"south"},
+			"west":		{"texture":"#west","cullface":"west"},
+			"east":		{"texture":"#east","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "North",
+		"from": [0,5,-1.65685],
+		"to": [16,12,-1.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[0,0,16,7],"texture":"#north_side","cullface":"north"},
+			"south":{"uv":	[16,0,0,7],"texture":"#north_side","cullface":"north"}
+        }
+    },
+	{
+		"__comment": "East",
+		"from": [17.65685,5,0],
+		"to": [17.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[16,0,0,7],"texture":"#east_side","cullface":"east"},
+			"east":{"uv":	[0,0,16,7],"texture":"#east_side","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "South",
+		"from": [0,5,17.65685],
+		"to": [16,12,17.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[16,0,0,7],"texture":"#south_side","cullface":"south"},
+			"south":{"uv":	[0,0,16,7],"texture":"#south_side","cullface":"south"}
+        }
+    },
+	{
+		"__comment": "West",
+		"from": [-1.65685,5,0],
+		"to": [-1.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[0,0,16,7],"texture":"#west_side","cullface":"west"},
+			"east":{"uv":	[16,0,0,7],"texture":"#west_side","cullface":"west"}
+             }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+    "facing=north,attachment=floor": 		{ "model": "block/stone/bell/floor/0" },
+    "facing=south,attachment=floor": 		{ "model": "block/stone/bell/floor/0", "y": 180 },
+    "facing=east,attachment=floor":  		{ "model": "block/stone/bell/floor/0", "y": 90 },
+    "facing=west,attachment=floor":  		{ "model": "block/stone/bell/floor/0", "y": 270 },
+    "facing=north,attachment=ceiling": 		{ "model": "block/stone/bell/ceiling/0" },
+    "facing=south,attachment=ceiling": 		{ "model": "block/stone/bell/ceiling/0", "y": 180 },
+    "facing=east,attachment=ceiling":  		{ "model": "block/stone/bell/ceiling/0", "y": 90 },
+    "facing=west,attachment=ceiling":  		{ "model": "block/stone/bell/ceiling/0", "y": 270 },
+    "facing=east,attachment=single_wall": 	{ "model": "block/stone/bell/wall/single/0" },
+    "facing=west,attachment=single_wall": 	{ "model": "block/stone/bell/wall/single/0", "y": 180 },
+    "facing=south,attachment=single_wall":  { "model": "block/stone/bell/wall/single/0", "y": 90 },
+    "facing=north,attachment=single_wall":  { "model": "block/stone/bell/wall/single/0", "y": 270 },
+    "facing=east,attachment=double_wall": 	{ "model": "block/stone/bell/wall/double/0" },
+    "facing=west,attachment=double_wall":	 { "model": "block/stone/bell/wall/double/0", "y": 180 },
+    "facing=north,attachment=double_wall":  { "model": "block/stone/bell/wall/double/0", "y": 90 },
+    "facing=south,attachment=double_wall":  { "model": "block/stone/bell/wall/double/0", "y": 270 }
+  }
+}

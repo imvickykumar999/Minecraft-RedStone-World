@@ -1,0 +1,23 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/white_tulip", "weight": 40 },
+            { "model": "block/white_tulip", "y": 90, "weight": 40 },
+            { "model": "block/white_tulip", "y": 180, "weight": 40 },
+            { "model": "block/white_tulip", "y": 270, "weight": 40 },
+			{ "model": "block/white_tulip_orange", "weight": 40 },
+            { "model": "block/white_tulip_orange", "y": 90, "weight": 40 },
+            { "model": "block/white_tulip_orange", "y": 180, "weight": 40 },
+            { "model": "block/white_tulip_orange", "y": 270, "weight": 40 },
+			{ "model": "block/white_tulip_pink", "weight": 40 },
+            { "model": "block/white_tulip_pink", "y": 90, "weight": 40 },
+            { "model": "block/white_tulip_pink", "y": 180, "weight": 40 },
+            { "model": "block/white_tulip_pink", "y": 270, "weight": 40 },
+			{ "model": "block/white_tulip_red", "weight": 40 },
+            { "model": "block/white_tulip_red", "y": 90, "weight": 40 },
+            { "model": "block/white_tulip_red", "y": 180, "weight": 40 },
+            { "model": "block/white_tulip_red", "y": 270, "weight": 40 }
+        ]
+    }
+}

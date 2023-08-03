@@ -1,0 +1,66 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/block_display",
+
+"elements": [ 
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":		{"texture":"#main","cullface":"down"},
+			"up":		{"texture":"#main","cullface":"up"},
+			"north":	{"texture":"#north","cullface":"north"},
+			"south":	{"texture":"#south","cullface":"south"},
+			"west":		{"texture":"#west","cullface":"west"},
+			"east":		{"texture":"#east","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "Grass side north",
+		"from": [0,6,-1.65685],
+		"to": [16,12,-1.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[16,0,0,6],"texture":"#sides_ns","cullface":"north"},
+			"south":{"uv":	[0,0,16,6],"texture":"#sides_ns","cullface":"north"}
+        }
+    },
+	{
+		"__comment": "Grass side east",
+		"from": [17.65685,6,0],
+		"to": [17.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[0,0,16,6],"texture":"#sides_ew","cullface":"east"},
+			"east":{"uv":	[16,0,0,6],"texture":"#sides_ew","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "Grass side south",
+		"from": [0,6,17.65685],
+		"to": [16,12,17.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[0,8,16,14],"texture":"#sides_ns","cullface":"south"},
+			"south":{"uv":	[16,8,0,14],"texture":"#sides_ns","cullface":"south"}
+        }
+    },
+	{
+		"__comment": "Grass side west",
+		"from": [-1.65685,6,0],
+		"to": [-1.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[16,8,0,14],"texture":"#sides_ew","cullface":"west"},
+			"east":{"uv":	[0,8,16,14],"texture":"#sides_ew","cullface":"west"}
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/wood/planks/slab/bottom/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/warped/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/warped/15", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/wood/planks/slab/top/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/warped/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/warped/15", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/wood/planks/block/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/warped/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/warped/15", "weight": 1 }
+        ]
+    }
+}
+

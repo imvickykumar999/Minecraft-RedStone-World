@@ -1,0 +1,27 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/wood/planks/block/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/15", "weight": 1 }
+        ]
+    }
+}

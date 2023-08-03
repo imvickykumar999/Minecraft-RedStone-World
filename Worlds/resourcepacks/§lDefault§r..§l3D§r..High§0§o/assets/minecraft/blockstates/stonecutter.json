@@ -1,0 +1,11 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+   "variants": {
+        "facing=south": { "model": "block/gui/stonecutter/stonecutter" },
+        "facing=west": { "model": "block/gui/stonecutter/stonecutter", "y": 90 },
+        "facing=north": { "model": "block/gui/stonecutter/stonecutter", "y": 180 },
+        "facing=east": { "model": "block/gui/stonecutter/stonecutter", "y": 270 }
+    }
+}

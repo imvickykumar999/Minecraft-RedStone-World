@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_block",
+
+"textures": {
+	"main": 	"know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart",
+	"north": 	"know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart_north",
+	"east": 	"know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart_east",
+	"south": 	"know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart_south",
+	"west": 	"know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart_west",
+	"particle": "know2good/blocks/plant/nether_wart/nether_wart_block/nether_wart_alt1/nether_wart"
+    }
+}

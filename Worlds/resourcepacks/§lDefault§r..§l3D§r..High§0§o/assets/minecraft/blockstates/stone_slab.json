@@ -1,0 +1,768 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "type=bottom": [
+            { "model": "block/stone/stone/slab/normal/bottom/0", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/1", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/2", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/3", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/4", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/5", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/stone/slab/normal/bottom/6", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/7", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/8", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/9", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/10", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/11", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/stone/slab/normal/bottom/12", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/13", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/13", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/14", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/14", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/15", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/15", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/16", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/16", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/17", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/17", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/18", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/18", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/19", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/19", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/20", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/20", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/21", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/21", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/22", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/22", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/23", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/23", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/24", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/24", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/25", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/25", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/26", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/26", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/27", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/27", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/28", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/28", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/29", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/29", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/30", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/30", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/31", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/31", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/32", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/32", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/33", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/33", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/34", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/34", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/35", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/35", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/36", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/36", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/37", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/37", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/38", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/38", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/39", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/39", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/40", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/40", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/41", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/41", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/42", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/42", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/43", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/43", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/44", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/44", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/45", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/45", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/46", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/46", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/47", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/47", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/48", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/48", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/49", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/49", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/50", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/50", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/51", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/51", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/52", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/52", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/53", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/53", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/54", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/54", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/55", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/55", "y": 180, "weight": 1 },
+
+			{ "model": "block/stone/stone/slab/normal/bottom/56", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/56", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/57", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/57", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/58", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/58", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/59", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/59", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/60", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/60", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/61", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/61", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/62", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/62", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/63", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/63", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/64", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/64", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/65", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/65", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/66", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/66", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/67", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/67", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/68", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/68", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/69", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/69", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/70", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/70", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/71", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/71", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/72", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/72", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/73", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/73", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/74", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/74", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/75", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/75", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/76", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/76", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/77", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/77", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/78", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/78", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/79", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/79", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/80", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/80", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/81", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/81", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/82", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/82", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/bottom/83", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/bottom/83", "y": 180, "weight": 1 }
+        ],
+		
+        "type=top": [
+            { "model": "block/stone/stone/slab/normal/top/0", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/1", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/2", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/3", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/4", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/5", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/stone/slab/normal/top/6", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/7", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/8", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/9", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/10", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/11", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/stone/slab/normal/top/12", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/13", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/13", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/14", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/14", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/15", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/15", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/16", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/16", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/17", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/17", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/18", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/18", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/19", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/19", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/20", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/20", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/21", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/21", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/22", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/22", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/23", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/23", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/24", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/24", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/25", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/25", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/26", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/26", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/27", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/27", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/28", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/28", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/29", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/29", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/30", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/30", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/31", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/31", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/32", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/32", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/33", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/33", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/34", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/34", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/35", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/35", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/36", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/36", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/37", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/37", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/38", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/38", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/39", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/39", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/40", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/40", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/41", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/41", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/42", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/42", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/43", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/43", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/44", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/44", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/45", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/45", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/46", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/46", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/47", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/47", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/48", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/48", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/49", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/49", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/50", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/50", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/51", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/51", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/52", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/52", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/53", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/53", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/54", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/54", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/55", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/55", "y": 180, "weight": 1 },
+
+			{ "model": "block/stone/stone/slab/normal/top/56", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/56", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/57", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/57", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/58", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/58", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/59", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/59", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/60", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/60", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/61", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/61", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/62", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/62", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/63", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/63", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/64", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/64", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/65", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/65", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/66", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/66", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/67", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/67", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/68", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/68", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/69", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/69", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/70", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/70", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/71", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/71", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/72", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/72", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/73", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/73", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/74", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/74", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/75", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/75", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/76", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/76", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/77", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/77", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/78", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/78", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/79", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/79", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/80", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/80", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/81", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/81", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/82", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/82", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/slab/normal/top/83", "weight": 1 },
+            { "model": "block/stone/stone/slab/normal/top/83", "y": 180, "weight": 1 }
+        ],
+		
+        "type=double": [
+            { "model": "block/stone/stone/block/normal/0", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/1", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/2", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/3", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/4", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/5", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/stone/block/normal/6", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/7", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/8", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/9", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/10", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/11", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/stone/block/normal/12", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/13", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/13", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/14", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/14", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/15", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/15", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/16", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/16", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/17", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/17", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/18", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/18", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/19", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/19", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/20", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/20", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/21", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/21", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/22", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/22", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/23", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/23", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/24", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/24", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/25", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/25", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/26", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/26", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/27", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/27", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/28", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/28", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/29", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/29", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/30", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/30", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/31", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/31", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/32", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/32", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/33", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/33", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/34", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/34", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/35", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/35", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/36", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/36", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/37", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/37", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/38", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/38", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/39", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/39", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/40", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/40", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/41", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/41", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/42", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/42", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/43", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/43", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/44", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/44", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/45", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/45", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/46", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/46", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/47", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/47", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/48", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/48", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/49", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/49", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/50", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/50", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/51", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/51", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/52", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/52", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/53", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/53", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/54", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/54", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/55", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/55", "y": 180, "weight": 1 },
+
+			{ "model": "block/stone/stone/block/normal/56", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/56", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/57", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/57", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/58", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/58", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/59", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/59", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/60", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/60", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/61", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/61", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/62", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/62", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/63", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/63", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/64", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/64", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/65", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/65", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/66", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/66", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/67", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/67", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/68", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/68", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/69", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/69", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/70", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/70", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/71", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/71", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/72", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/72", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/73", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/73", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/74", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/74", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/75", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/75", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/76", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/76", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/77", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/77", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/78", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/78", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/79", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/79", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/80", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/80", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/81", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/81", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/82", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/82", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/stone/block/normal/83", "weight": 1 },
+            { "model": "block/stone/stone/block/normal/83", "y": 180, "weight": 1 }
+        ]
+    }
+}

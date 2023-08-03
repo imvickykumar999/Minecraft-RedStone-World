@@ -1,0 +1,21 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=south,in_wall=false,open=false": { 	"model": "block/wood/planks/fence/oak/gate/high/closed/0" },
+        "facing=west,in_wall=false,open=false":  { 	"model": "block/wood/planks/fence/oak/gate/high/closed/0", "y": 90 },
+        "facing=north,in_wall=false,open=false": { 	"model": "block/wood/planks/fence/oak/gate/high/closed/0", "y": 180 },
+        "facing=east,in_wall=false,open=false":  { 	"model": "block/wood/planks/fence/oak/gate/high/closed/0", "y": 270 },
+        "facing=south,in_wall=false,open=true": { 	"model": "block/wood/planks/fence/oak/gate/high/open/0" },
+        "facing=west,in_wall=false,open=true":  { 	"model": "block/wood/planks/fence/oak/gate/high/open/0", "y": 90 },
+        "facing=north,in_wall=false,open=true": { 	"model": "block/wood/planks/fence/oak/gate/high/open/0", "y": 180 },
+        "facing=east,in_wall=false,open=true":  { 	"model": "block/wood/planks/fence/oak/gate/high/open/0", "y": 270 },
+        "facing=south,in_wall=true,open=false": { 	"model": "block/wood/planks/fence/oak/gate/low/closed/0" },
+        "facing=west,in_wall=true,open=false":  { 	"model": "block/wood/planks/fence/oak/gate/low/closed/0", "y": 90 },
+        "facing=north,in_wall=true,open=false": { 	"model": "block/wood/planks/fence/oak/gate/low/closed/0", "y": 180 },
+        "facing=east,in_wall=true,open=false":  { 	"model": "block/wood/planks/fence/oak/gate/low/closed/0", "y": 270 },
+        "facing=south,in_wall=true,open=true": { 	"model": "block/wood/planks/fence/oak/gate/low/open/0" },
+        "facing=west,in_wall=true,open=true":  { 	"model": "block/wood/planks/fence/oak/gate/low/open/0", "y": 90 },
+        "facing=north,in_wall=true,open=true": { 	"model": "block/wood/planks/fence/oak/gate/low/open/0", "y": 180 },
+        "facing=east,in_wall=true,open=true":  { 	"model": "block/wood/planks/fence/oak/gate/low/open/0", "y": 270 }
+    }
+}

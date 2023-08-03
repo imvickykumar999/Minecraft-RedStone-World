@@ -1,0 +1,105 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"No UV-bleed, OK coordinate, OK texture, OK cullface",
+
+"textures": {
+	"wood": 	"block/birch_planks",
+	"frame": 	"block/item_frame",
+	"particle":	"block/birch_planks"
+},
+"elements":[
+	{
+		"__comment":"The inner block",
+		"from":[3,3,15],
+		"to":[13,13,16],
+		"faces": {
+			"north":{"uv":	[3.01,3.01,12.99,12.99],"texture":"#frame","cullface":"Know2Good"},
+			"south":{"uv":	[3.01,3.01,12.99,12.99],"texture":"#frame","cullface":"south"}
+		}
+	},
+	{
+		"__comment":"Top",
+		"from":[2,13,14.5],
+		"to":[14,14,16],
+		"faces": {
+			"down":{"uv":	[2.01,2.01,13.99,2.99],"texture":"#wood","cullface":"Know2Good"},
+			"up":{"uv":		[2.01,2.01,13.99,2.99],"texture":"#wood","cullface":"Know2Good"},
+			"north":{"uv":	[2.01,2.01,13.99,2.99],"texture":"#wood","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[2.01,2.01,13.99,2.99],"texture":"#wood","cullface":"Know2Good"},
+			"west":{"uv":	[13.01,2.01,13.99,2.99],"texture":"#wood","cullface":"Know2Good","rotation":90},
+			"east":{"uv":	[2.01,2.01,2.99,2.99],"texture":"#wood","cullface":"Know2Good","rotation":270}
+		}
+	},
+	{
+		"__comment":"Right",
+		"from":[2,3,14.5],
+		"to":[3,13,16],
+		"faces": {
+			"down":{"uv":	[13.01,12.01,13.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"up":{"uv":		[13.01,3.01,13.99,3.99],"texture":"#wood","cullface":"Know2Good"},
+			"north":{"uv":	[13.01,3.01,13.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"south":{"uv":	[13.01,3.01,13.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"west":{"uv":	[13.01,3.01,13.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"east":{"uv":	[13.01,3.01,13.99,12.99],"texture":"#wood","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Left",
+		"from":[13,3,14.5],
+		"to":[14,13,16],
+		"faces": {
+			"down":{"uv":	[2.01,12.01,2.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"up":{"uv":		[2.01,3.01,2.99,3.99],"texture":"#wood","cullface":"Know2Good"},
+			"north":{"uv":	[2.01,3.01,2.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"south":{"uv":	[2.01,3.01,2.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"west":{"uv":	[2.01,3.01,2.99,12.99],"texture":"#wood","cullface":"Know2Good"},
+			"east":{"uv":	[2.01,3.01,2.99,12.99],"texture":"#wood","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Bottom",
+		"from":[2,2,14.5],
+		"to":[14,3,16],
+		"faces": {
+			"down":{"uv":	[2.01,13.01,13.99,13.99],"texture":"#wood","cullface":"Know2Good"},
+			"up":{"uv":		[2.01,13.01,13.99,13.99],"texture":"#wood","cullface":"Know2Good"},
+			"north":{"uv":	[2.01,13.01,13.99,13.99],"texture":"#wood","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[2.01,13.01,13.99,13.99],"texture":"#wood","cullface":"Know2Good"},
+			"west":{"uv":	[13.01,13.01,13.99,13.99],"texture":"#wood","cullface":"Know2Good","rotation":90},
+			"east":{"uv":	[2.01,13.01,2.99,13.99],"texture":"#wood","cullface":"Know2Good","rotation":270}
+		}
+	}
+],
+    "display": {
+        "gui": {
+            "rotation": 	[ 30, 225, 0 ],
+            "translation": 	[ 4.5, -2.5, 0],
+            "scale":		[ 0.95, 0.95, 0.95 ]
+        },
+        "ground": {
+            "rotation": 	[ 0, 0, 0 ],
+            "translation": 	[ 0, 3, -2.5],
+            "scale":		[ 0.35, 0.35, 0.35 ]
+        },
+        "fixed": {
+            "rotation": 	[ -20, 0, 0 ],
+            "translation": 	[ 0, -2, -8.5],
+            "scale":		[ 0.95, 0.95, 0.95 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": 	[ 75, -90, 0 ],
+            "translation": 	[ 4.5, 0, -2],
+            "scale": 		[ 0.625, 0.625, 0.625 ]
+        },
+        "firstperson_righthand": {
+            "rotation": 	[ 0, 135, 0 ],
+            "translation":	[ -4, 2.75, 5 ],
+            "scale": 		[ 0.40, 0.40, 0.40 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": 	[ 0, 135, 0 ],
+            "translation":	[ -4, 2.75, 5 ],
+            "scale": 		[ 0.40, 0.40, 0.40 ]
+        }
+    }
+}

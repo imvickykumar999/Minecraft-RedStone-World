@@ -1,0 +1,845 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=east,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/jungle/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/jungle/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/jungle/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/jungle/15", "weight": 1 }
+		]
+    }
+}

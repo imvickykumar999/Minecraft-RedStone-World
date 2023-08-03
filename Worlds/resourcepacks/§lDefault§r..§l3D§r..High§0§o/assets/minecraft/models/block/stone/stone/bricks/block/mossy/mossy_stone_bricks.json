@@ -1,0 +1,13 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/block/stone/bricks/0",
+
+"textures": {
+	"main": 	"block/mossy_stone_bricks",
+	"north": 	"block/mossy_stone_bricks",
+	"east": 	"block/mossy_stone_bricks",
+	"particle": "block/mossy_stone_bricks"
+    }
+}

@@ -1,0 +1,16 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_ore_0",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/ore/stone/generic/81/main",
+	"north": 	"know2good/blocks/stone/ore/stone/generic/81/north",
+	"east": 	"know2good/blocks/stone/ore/stone/generic/81/east",
+	"south": 	"know2good/blocks/stone/ore/stone/generic/81/south",
+	"west": 	"know2good/blocks/stone/ore/stone/generic/81/west",
+	"ore": 		"know2good/blocks/stone/ore/ore/diamond/0/main",
+	"particle": "know2good/blocks/stone/ore/stone/generic/81/main"
+    }
+}

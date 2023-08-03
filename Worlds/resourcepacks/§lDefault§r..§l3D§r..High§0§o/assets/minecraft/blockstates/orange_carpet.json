@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/carpet/orange/0", "weight": 8 },
+            { "model": "block/wool/carpet/orange/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/orange/1", "weight": 8 },
+            { "model": "block/wool/carpet/orange/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/orange/2", "weight": 8 },
+            { "model": "block/wool/carpet/orange/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/orange/3", "weight": 8 },
+            { "model": "block/wool/carpet/orange/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/orange/4", "weight": 8 },
+            { "model": "block/wool/carpet/orange/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/orange/5", "weight": 8 },
+            { "model": "block/wool/carpet/orange/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/carpet/orange/6", "weight": 8 },
+            { "model": "block/wool/carpet/orange/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/7", "weight": 8 },
+            { "model": "block/wool/carpet/orange/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/8", "weight": 8 },
+            { "model": "block/wool/carpet/orange/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/9", "weight": 8 },
+            { "model": "block/wool/carpet/orange/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/10", "weight": 8 },
+            { "model": "block/wool/carpet/orange/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/11", "weight": 8 },
+            { "model": "block/wool/carpet/orange/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/12", "weight": 8 },
+            { "model": "block/wool/carpet/orange/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/orange/13", "weight": 8 },
+			{ "model": "block/wool/carpet/orange/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

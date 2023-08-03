@@ -1,0 +1,54 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+
+"textures": {
+	"block": 	"block/red_mushroom_block",
+	"particle": "block/red_mushroom_block"
+},
+"elements": [ 
+	{
+		"__comment":"Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"north":{"texture":"#block","cullface":"north"}
+		}
+	},
+	{
+		"__comment":"North detail 1",
+		"from": [10.9925,10.9925,-0.5],
+		"to": [13.0075,13.0075,0],
+		"faces": {
+			"down":{"uv":	[3.01,4.01,4.99,4.99],"texture":"#block","cullface":"north","rotation":180},
+			"up":{"uv":		[3.01,3.01,4.99,3.99],"texture":"#block","cullface":"north","rotation":180},
+			"north":{"uv":	[3.01,3.01,4.99,4.99],"texture":"#block","cullface":"north"},
+			"west":{"uv":	[4.01,3.01,4.99,4.99],"texture":"#block","cullface":"north"},
+			"east":{"uv":	[3.01,3.01,3.99,4.99],"texture":"#block","cullface":"north"}
+		}
+	},
+	{
+		"__comment":"North detail 2",
+		"from": [1.9925,6.9925,-0.5],
+		"to": [4.0075,9.0075,0],
+		"faces": {
+			"down":{"uv":	[12.01,8.01,13.99,8.99],"texture":"#block","cullface":"north","rotation":180},
+			"up":{"uv":		[12.01,7.01,13.99,7.99],"texture":"#block","cullface":"north","rotation":180},
+			"north":{"uv":	[12.01,7.01,13.99,8.99],"texture":"#block","cullface":"north"},
+			"west":{"uv":	[13.01,7.01,13.99,8.99],"texture":"#block","cullface":"north"},
+			"east":{"uv":	[12.01,7.01,12.99,8.99],"texture":"#block","cullface":"north"}
+		}
+	},
+	{
+		"__comment":"North detail 3",
+		"from": [6.9925,1.9925,-0.5],
+		"to": [9.0075,4.0075,0],
+		"faces": {
+			"down":{"uv":	[7.01,13.01,8.99,13.99],"texture":"#block","cullface":"north","rotation":180},
+			"up":{"uv":		[7.01,12.01,8.99,12.99],"texture":"#block","cullface":"north","rotation":180},
+			"north":{"uv":	[7.01,12.01,8.99,13.99],"texture":"#block","cullface":"north"},
+			"west":{"uv":	[8.01,12.01,8.99,13.99],"texture":"#block","cullface":"north"},
+			"east":{"uv":	[7.01,12.01,7.99,13.99],"texture":"#block","cullface":"north"}
+            }
+        }
+    ]
+}

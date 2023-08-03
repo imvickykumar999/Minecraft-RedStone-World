@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_block",
+
+"textures": {
+	"main": 	"know2good/blocks/wool/lime_alt3/wool",
+	"north": 	"know2good/blocks/wool/lime_alt3/wool_north",
+	"east": 	"know2good/blocks/wool/lime_alt3/wool_east",
+	"south": 	"know2good/blocks/wool/lime_alt3/wool_south",
+	"west": 	"know2good/blocks/wool/lime_alt3/wool_west",
+	"particle": "know2good/blocks/wool/lime_alt3/wool"
+    }
+}

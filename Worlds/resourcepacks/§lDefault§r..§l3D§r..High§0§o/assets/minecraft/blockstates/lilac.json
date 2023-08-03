@@ -1,0 +1,48 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "half=lower":[ { "model": "block/plant/unpotted/lilac/purple/bottom", "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/bottom", "y": 90, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/bottom", "y": 180, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/bottom", "y": 270, "weight": 4 },
+							
+							{ "model": "block/plant/unpotted/lilac/white/bottom", "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/bottom", "y": 90, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/bottom", "y": 180, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/bottom", "y": 270, "weight": 3 },
+							
+							{ "model": "block/plant/unpotted/lilac/blue/bottom", "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/bottom", "y": 90, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/bottom", "y": 180, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/bottom", "y": 270, "weight": 3 },
+							
+							{ "model": "block/plant/unpotted/lilac/pink/bottom", "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/bottom", "y": 90, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/bottom", "y": 180, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/bottom", "y": 270, "weight": 4 }],
+							
+        "half=upper":[ { "model": "block/plant/unpotted/lilac/purple/top", "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/top", "y": 90, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/top", "y": 180, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/purple/top", "y": 270, "weight": 4 },
+							
+							{ "model": "block/plant/unpotted/lilac/white/top", "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/top", "y": 90, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/top", "y": 180, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/white/top", "y": 270, "weight": 3 },
+							
+							{ "model": "block/plant/unpotted/lilac/blue/top", "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/top", "y": 90, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/top", "y": 180, "weight": 3 },
+							{ "model": "block/plant/unpotted/lilac/blue/top", "y": 270, "weight": 3 },
+							
+							{ "model": "block/plant/unpotted/lilac/pink/top", "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/top", "y": 90, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/top", "y": 180, "weight": 4 },
+							{ "model": "block/plant/unpotted/lilac/pink/top", "y": 270, "weight": 4 }]
+    }
+}
+
+

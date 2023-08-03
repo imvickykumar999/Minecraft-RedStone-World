@@ -1,0 +1,138 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "type=bottom": [
+            { "model": "block/stone/andesite/slab/normal/bottom/0", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/1", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/2", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/3", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/4", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/5", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/andesite/slab/normal/bottom/6", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/7", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/8", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/9", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/10", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/11", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/andesite/slab/normal/bottom/12", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/bottom/13", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/bottom/13", "y": 180, "weight": 1 }
+        ],
+		
+        "type=top": [
+            { "model": "block/stone/andesite/slab/normal/top/0", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/1", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/2", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/3", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/4", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/5", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/andesite/slab/normal/top/6", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/7", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/8", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/9", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/10", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/11", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/andesite/slab/normal/top/12", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/slab/normal/top/13", "weight": 1 },
+            { "model": "block/stone/andesite/slab/normal/top/13", "y": 180, "weight": 1 }
+        ],
+		
+        "type=double": [
+            { "model": "block/stone/andesite/block/normal/0", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/0", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/1", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/1", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/2", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/2", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/3", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/3", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/4", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/4", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/5", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/5", "y": 180, "weight": 1 },
+
+            { "model": "block/stone/andesite/block/normal/6", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/6", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/7", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/7", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/8", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/8", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/9", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/9", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/10", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/10", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/11", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/11", "y": 180, "weight": 1 },
+			
+            { "model": "block/stone/andesite/block/normal/12", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/12", "y": 180, "weight": 1 },
+			
+			{ "model": "block/stone/andesite/block/normal/13", "weight": 1 },
+            { "model": "block/stone/andesite/block/normal/13", "y": 180, "weight": 1 }
+        ]
+    }
+}

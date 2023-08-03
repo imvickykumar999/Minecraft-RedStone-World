@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http:/0/www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/stairs/planks/bottom/inner/0/w",
+
+"textures": {
+	"main": 		"know2good/blocks/wood/planks/block/warped/10/main",
+	"north": 		"know2good/blocks/wood/planks/slab/warped/10/north",
+	"east": 		"know2good/blocks/wood/planks/slab/warped/10/east",
+	"south": 		"know2good/blocks/wood/planks/slab/warped/10/south",
+	"west": 		"know2good/blocks/wood/planks/slab/warped/10/west",
+	"particle": 	"know2good/blocks/wood/planks/block/warped/10/main"
+    }
+}

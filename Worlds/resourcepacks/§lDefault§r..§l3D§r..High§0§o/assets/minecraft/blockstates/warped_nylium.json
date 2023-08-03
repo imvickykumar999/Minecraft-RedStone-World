@@ -1,0 +1,76 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/stone/netherrack/block/nylium/warped/0", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/0", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/0", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/0", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/1", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/1", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/1", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/1", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/2", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/2", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/2", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/2", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/3", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/3", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/3", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/3", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/4", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/4", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/4", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/4", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/5", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/5", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/5", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/5", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/6", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/6", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/6", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/6", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/7", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/7", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/7", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/7", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/8", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/8", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/8", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/8", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/9", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/9", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/9", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/9", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/10", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/10", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/10", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/10", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/11", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/11", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/11", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/11", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/12", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/12", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/12", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/12", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/netherrack/block/nylium/warped/13", "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/13", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/nylium/warped/13", "y": 180, "weight": 1 },
+			{ "model": "block/stone/netherrack/block/nylium/warped/13", "y": 270, "weight": 1 }
+        ]
+    }
+}

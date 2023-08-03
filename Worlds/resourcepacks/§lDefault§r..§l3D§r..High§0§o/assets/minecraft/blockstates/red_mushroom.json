@@ -1,0 +1,46 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/plant/unpotted/mushroom/red/center/0", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/0", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/0", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/0", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/center/1", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/1", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/1", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/1", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/center/2", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/2", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/2", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/2", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/center/3", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/3", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/3", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/center/3", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/off-center/0", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/0", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/0", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/0", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/off-center/1", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/1", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/1", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/1", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/off-center/2", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/2", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/2", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/2", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/unpotted/mushroom/red/off-center/3", "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/3", "y": 90, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/3", "y": 180, "weight": 40 },
+            { "model": "block/plant/unpotted/mushroom/red/off-center/3", "y": 270, "weight": 40 }
+        ]
+    }
+}

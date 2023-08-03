@@ -1,0 +1,72 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"elements": [ 
+	{
+		"__comment": "Flower",
+		"from": [0,16.75,0],
+		"to": [16,16.75,16],
+		"faces": {
+			"up":		{"texture":"#flower","cullface":"up"}
+        }
+    },
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":		{"texture":"#bottom","cullface":"down"},
+			"up":		{"texture":"#top","cullface":"up","tintindex":0},
+			"north":	{"texture":"#north","cullface":"north"},
+			"south":	{"texture":"#south","cullface":"south"},
+			"west":		{"texture":"#west","cullface":"west"},
+			"east":		{"texture":"#east","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "North",
+		"from": [0,6,-1.65685],
+		"to": [16,12,-1.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[0,0,16,6],"texture":"#north_side","cullface":"north","tintindex":0},
+			"south":{"uv":	[16,0,0,6],"texture":"#north_side","cullface":"north","tintindex":0}
+        }
+    },
+	{
+		"__comment": "East",
+		"from": [17.65685,6,0],
+		"to": [17.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[16,0,0,6],"texture":"#east_side","cullface":"east","tintindex":0},
+			"east":{"uv":	[0,0,16,6],"texture":"#east_side","cullface":"east","tintindex":0}
+        }
+    },
+	{
+		"__comment": "South",
+		"from": [0,6,17.65685],
+		"to": [16,12,17.65685],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"north":{"uv":	[16,0,0,6],"texture":"#south_side","cullface":"south","tintindex":0},
+			"south":{"uv":	[0,0,16,6],"texture":"#south_side","cullface":"south","tintindex":0}
+        }
+    },
+	{
+		"__comment": "West",
+		"from": [-1.65685,6,0],
+		"to": [-1.65685,12,16],
+		"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": true },
+		"shade": false,
+		"faces": {
+			"west":{"uv":	[0,0,16,6],"texture":"#west_side","cullface":"west","tintindex":0},
+			"east":{"uv":	[16,0,0,6],"texture":"#west_side","cullface":"west","tintindex":0}
+            }
+        }
+    ]
+}

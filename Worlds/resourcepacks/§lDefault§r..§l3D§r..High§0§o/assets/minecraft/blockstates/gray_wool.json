@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/block/gray/0", "weight": 8 },
+            { "model": "block/wool/block/gray/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/gray/1", "weight": 8 },
+            { "model": "block/wool/block/gray/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/gray/2", "weight": 8 },
+            { "model": "block/wool/block/gray/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/gray/3", "weight": 8 },
+            { "model": "block/wool/block/gray/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/gray/4", "weight": 8 },
+            { "model": "block/wool/block/gray/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/gray/5", "weight": 8 },
+            { "model": "block/wool/block/gray/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/block/gray/6", "weight": 8 },
+            { "model": "block/wool/block/gray/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/7", "weight": 8 },
+            { "model": "block/wool/block/gray/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/8", "weight": 8 },
+            { "model": "block/wool/block/gray/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/9", "weight": 8 },
+            { "model": "block/wool/block/gray/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/10", "weight": 8 },
+            { "model": "block/wool/block/gray/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/11", "weight": 8 },
+            { "model": "block/wool/block/gray/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/12", "weight": 8 },
+            { "model": "block/wool/block/gray/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/gray/13", "weight": 8 },
+			{ "model": "block/wool/block/gray/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

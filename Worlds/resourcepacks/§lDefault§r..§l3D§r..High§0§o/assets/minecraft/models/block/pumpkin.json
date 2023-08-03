@@ -1,0 +1,116 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/pumpkin_display",
+
+"textures": {
+    "top": 		"block/pumpkin_top",
+    "side": 	"block/pumpkin_side",
+	"particle":	"block/pumpkin_side"
+},
+"elements":[
+	{
+		"__comment":"Block",
+		"from":[0,0,0],
+		"to":[16,16,16],
+		"faces": {
+			"down":{"uv":	[0,0,16,16],"texture":"#top","cullface":"down","rotation":270},
+			"up":{"uv":		[0,0,16,16],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[0,0,16,16],"texture":"#side","cullface":"north"},
+			"south":{"uv":	[0,0,16,16],"texture":"#side","cullface":"south"},
+			"west":{"uv":	[0,0,16,16],"texture":"#side","cullface":"west"},
+			"east":{"uv":	[0,0,16,16],"texture":"#side","cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[7,16,9],
+		"to":[8,16.5,10],
+		"faces": {
+			"up":{"uv":		[7.01,9.01,7.99,9.99],"texture":"#top","cullface":"up"},
+			"south":{"uv":	[7.01,9.01,7.99,9.99],"texture":"#top","cullface":"up"},
+			"west":{"uv":	[7.01,9.01,7.99,9.99],"texture":"#top","cullface":"up"},
+			"east":{"uv":	[7.01,9.01,7.99,9.99],"texture":"#top","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[6,16,8],
+		"to":[7,16.5,9],
+		"faces": {
+			"up":{"uv":		[6.01,8.01,6.99,8.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[6.01,8.01,6.99,8.99],"texture":"#top","cullface":"up"},
+			"south":{"uv":	[6.01,8.01,6.99,8.99],"texture":"#top","cullface":"up"},
+			"west":{"uv":	[6.01,8.01,6.99,8.99],"texture":"#top","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[5,16,6],
+		"to":[6,16.5,8],
+		"faces": {
+			"up":{"uv":		[5.01,6.01,5.99,7.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[5.01,6.01,5.99,6.99],"texture":"#top","cullface":"up"},
+			"south":{"uv":	[5.01,7.01,5.99,7.99],"texture":"#top","cullface":"up"},
+			"west":{"uv":	[5.01,6.01,5.99,7.99],"texture":"#top","cullface":"up","rotation":270}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[6,16,5],
+		"to":[8,16.5,6],
+		"faces": {
+			"up":{"uv":		[6.01,5.01,7.99,5.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[6.01,5.01,7.99,5.99],"texture":"#top","cullface":"up","rotation":180},
+			"west":{"uv":	[6.01,5.01,6.99,5.99],"texture":"#top","cullface":"up"},
+			"east":{"uv":	[7.01,5.01,7.99,5.99],"texture":"#top","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[8,16,6],
+		"to":[9,16.5,7],
+		"faces": {
+			"up":{"uv":		[8.01,6.01,8.99,6.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[8.01,6.01,8.99,6.99],"texture":"#top","cullface":"up"},
+			"east":{"uv":	[8.01,6.01,8.99,6.99],"texture":"#top","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[9,16,7],
+		"to":[10,16.5,8],
+		"faces": {
+			"up":{"uv":		[9.01,7.01,9.99,7.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[9.01,7.01,9.99,7.99],"texture":"#top","cullface":"up"},
+			"south":{"uv":	[9.01,7.01,9.99,7.99],"texture":"#top","cullface":"up"},
+			"east":{"uv":	[9.01,7.01,9.99,7.99],"texture":"#top","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[6,16,6],
+		"to":[8,17.5,8],
+		"faces": {
+			"up":{"uv":		[6.01,6.01,7.99,7.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[6.01,6.01,7.99,6.99],"texture":"#top","cullface":"up","rotation":180},
+			"south":{"uv":	[6.01,7.01,7.99,7.99],"texture":"#top","cullface":"up"},
+			"west":{"uv":	[6.01,6.01,6.99,7.99],"texture":"#top","cullface":"up","rotation":270},
+			"east":{"uv":	[7.01,6.01,7.99,7.99],"texture":"#top","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Stem top",
+		"from":[7,16,7],
+		"to":[9,17,9],
+		"faces": {
+			"up":{"uv":		[7.01,7.01,8.99,8.99],"texture":"#top","cullface":"up"},
+			"north":{"uv":	[7.01,7.01,8.99,7.99],"texture":"#top","cullface":"up","rotation":180},
+			"south":{"uv":	[7.01,8.01,8.99,8.99],"texture":"#top","cullface":"up"},
+			"west":{"uv":	[7.01,7.01,7.99,8.99],"texture":"#top","cullface":"up","rotation":270},
+			"east":{"uv":	[8.01,7.01,8.99,8.99],"texture":"#top","cullface":"up","rotation":90}
+            }
+        }
+    ]
+}

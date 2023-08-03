@@ -1,0 +1,187 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/block_display",
+
+"textures": {
+	"head": 	"know2good/blocks/stone/piston/head",
+    "north": 	"know2good/blocks/stone/piston/north",
+	"east": 	"know2good/blocks/stone/piston/east",
+	"south": 	"know2good/blocks/stone/piston/south",
+	"west": 	"know2good/blocks/stone/piston/west",
+	"bottom": 	"know2good/blocks/stone/piston/bottom",
+	"particle": "know2good/blocks/stone/piston/north"
+},
+"elements": [ 
+	{
+		"__comment":"Platform top detail north-west",
+		"from": [0,16,0],
+		"to": [2,16.5,2],
+		"faces": {
+			"up":{"uv":		[0.01,0.01,1.99,1.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[0.01,0.01,1.99,0.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[0.01,1.01,1.99,1.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[0.01,0.01,0.99,1.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[1.01,0.01,1.99,1.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail north",
+		"from": [6.99,16,0],
+		"to": [9.01,16.5,2],
+		"faces": {
+			"up":{"uv":		[7.01,0.01,8.99,1.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[7.01,0.01,8.99,0.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[7.01,1.01,8.99,1.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[7.01,0.01,7.99,1.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[8.01,0.01,8.99,1.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail north-east",
+		"from": [14,16,0],
+		"to": [16,16.5,2],
+		"faces": {
+			"up":{"uv":		[14.01,0.01,15.99,1.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[14.01,0.01,15.99,0.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[14.01,1.01,15.99,1.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[14.01,0.01,14.99,1.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[15.01,0.01,15.99,1.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail east",
+		"from": [14,16,6.99],
+		"to": [16,16.5,9.01],
+		"faces": {
+			"up":{"uv":		[14.01,7.01,15.99,8.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[14.01,7.01,15.99,7.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[14.01,8.01,15.99,8.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[14.01,7.01,14.99,8.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[15.01,7.01,15.99,8.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail south-east",
+		"from": [14,16,14],
+		"to": [16,16.5,16],
+		"faces": {
+			"up":{"uv":		[14.01,14.01,15.99,15.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[14.01,14.01,15.99,14.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[14.01,15.01,15.99,15.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[14.01,14.01,14.99,15.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[15.01,14.01,15.99,15.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail south",
+		"from": [6.99,16,14],
+		"to": [9.01,16.5,16],
+		"faces": {
+			"up":{"uv":		[7.01,14.01,8.99,15.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[7.01,14.01,8.99,14.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[7.01,15.01,8.99,15.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[7.01,14.01,7.99,15.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[8.01,14.01,8.99,15.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail south-west",
+		"from": [0,16,14],
+		"to": [2,16.5,16],
+		"faces": {
+			"up":{"uv":		[0.01,14.01,1.99,15.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[0.01,14.01,1.99,14.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[0.01,15.01,1.99,15.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[0.01,14.01,0.99,15.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[1.01,14.01,1.99,15.99],"texture":"#head","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Platform top detail west",
+		"from": [0,16,6.99],
+		"to": [2,16.5,9.01],
+		"faces": {
+			"up":{"uv":		[0.01,7.01,1.99,8.99],"texture":"#head","cullface":"up"},
+			"north":{"uv":	[0.01,7.01,1.99,7.99],"texture":"#head","cullface":"up","rotation":180},
+			"south":{"uv":	[0.01,8.01,1.99,8.99],"texture":"#head","cullface":"up"},
+			"west":{"uv":	[0.01,7.01,0.99,8.99],"texture":"#head","cullface":"up","rotation":270},
+			"east":{"uv":	[1.01,7.01,1.99,8.99],"texture":"#head","cullface":"up"}
+		}
+	},
+	{
+		"__comment":"Base",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":{	"texture":"#bottom","cullface":"down"},
+			"up":{		"texture":"#head","cullface":"up"},
+			"north":{	"texture":"#north","cullface":"north"},
+			"south":{	"texture":"#south","cullface":"south"},
+			"west":{	"texture":"#west","cullface":"west"},
+			"east":{	"texture":"#east","cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Base north",
+		"from": [0.98,0.98,-0.5],
+		"to": [15.02,11.02,0],
+		"faces": {
+			"down":{"uv":	[1.01,14.01,14.99,14.99],"texture":"#north","cullface":"north","rotation":180},
+			"up":{"uv":		[1.01,5.01,14.99,5.99],"texture":"#north","cullface":"north","rotation":180},
+			"north":{"uv":	[1.01,5.01,14.99,14.99],"texture":"#north","cullface":"north"},
+			"west":{"uv":	[14.01,5.01,14.99,14.99],"texture":"#north","cullface":"north"},
+			"east":{"uv":	[1.01,5.01,1.99,14.99],"texture":"#north","cullface":"north"}
+		}
+	},
+	{
+		"__comment":"Base east",
+		"from": [16,0.98,0.98],
+		"to": [16.5,11.02,15.02],
+		"faces": {
+			"down":{"uv":	[1.01,14.01,14.99,14.99],"texture":"#east","cullface":"east","rotation":90},
+			"up":{"uv":		[1.01,5.01,14.99,5.99],"texture":"#east","cullface":"east","rotation":270},
+			"north":{"uv":	[14.01,5.01,14.99,14.99],"texture":"#east","cullface":"east"},
+			"south":{"uv":	[1.01,5.01,1.99,14.99],"texture":"#east","cullface":"east"},
+			"east":{"uv":	[1.01,5.01,14.99,14.99],"texture":"#east","cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Base south",
+		"from": [0.98,0.98,16],
+		"to": [15.02,11.02,16.5],
+		"faces": {
+			"down":{"uv":	[1.01,14.01,14.99,14.99],"texture":"#south","cullface":"south"},
+			"up":{"uv":		[1.01,5.01,14.99,5.99],"texture":"#south","cullface":"south"},
+			"south":{"uv":	[1.01,5.01,14.99,14.99],"texture":"#south","cullface":"south"},
+			"west":{"uv":	[1.01,5.01,1.99,14.99],"texture":"#south","cullface":"south"},
+			"east":{"uv":	[14.01,5.01,14.99,14.99],"texture":"#south","cullface":"south"}
+		}
+	},
+	{
+		"__comment":"Base west",
+		"from": [-0.5,0.98,0.98],
+		"to": [0,11.02,15.02],
+		"faces": {
+			"down":{"uv":	[1.01,14.01,14.99,14.99],"texture":"#west","cullface":"west","rotation":270},
+			"up":{"uv":		[1.01,5.01,14.99,5.99],"texture":"#west","cullface":"west","rotation":90},
+			"north":{"uv":	[1.01,5.01,1.99,14.99],"texture":"#west","cullface":"west"},
+			"south":{"uv":	[14.01,5.01,14.99,14.99],"texture":"#west","cullface":"west"},
+			"west":{"uv":	[1.01,5.01,14.99,14.99],"texture":"#west","cullface":"west"}
+		}
+	},
+	{
+		"__comment":"Base bottom",
+		"from": [0.98,-0.5,0.98],
+		"to": [15.02,0,15.02],
+		"faces": {
+			"down":{"uv":	[1.01,1.01,14.99,14.99],"texture":"#bottom","cullface":"down"},
+			"north":{"uv":	[1.01,1.01,14.99,1.99],"texture":"#bottom","cullface":"down","rotation":180},
+			"south":{"uv":	[1.01,14.01,14.99,14.99],"texture":"#bottom","cullface":"down"},
+			"west":{"uv":	[1.01,1.01,1.99,14.99],"texture":"#bottom","cullface":"down","rotation":90},
+			"east":{"uv":	[14.01,1.01,14.99,14.99],"texture":"#bottom","cullface":"down","rotation":270}
+            }
+        }
+    ]
+}

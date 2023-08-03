@@ -1,0 +1,72 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/wood/planks/slab/bottom/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/jungle/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/jungle/15", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/wood/planks/slab/top/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/jungle/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/jungle/15", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/wood/planks/block/jungle/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/jungle/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/jungle/15", "weight": 1 }
+        ]
+    }
+}
+

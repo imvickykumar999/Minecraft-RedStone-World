@@ -1,0 +1,10 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/prismarine_dark", "weight": 40 },
+            { "model": "block/prismarine_dark_depth_1", "weight": 40 },
+            { "model": "block/prismarine_dark_depth_2", "weight": 40 }
+        ]
+    }
+}

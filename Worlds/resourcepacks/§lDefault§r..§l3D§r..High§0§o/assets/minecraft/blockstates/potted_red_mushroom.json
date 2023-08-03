@@ -1,0 +1,26 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/plant/potted/mushroom/red/0", "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/0", "y": 90, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/0", "y": 180, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/0", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/potted/mushroom/red/1", "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/1", "y": 90, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/1", "y": 180, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/1", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/potted/mushroom/red/2", "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/2", "y": 90, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/2", "y": 180, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/2", "y": 270, "weight": 40 },
+			
+			{ "model": "block/plant/potted/mushroom/red/3", "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/3", "y": 90, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/3", "y": 180, "weight": 40 },
+            { "model": "block/plant/potted/mushroom/red/3", "y": 270, "weight": 40 }
+        ]
+    }
+}

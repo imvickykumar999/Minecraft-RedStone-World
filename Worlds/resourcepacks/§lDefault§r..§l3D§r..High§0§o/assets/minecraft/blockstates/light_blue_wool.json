@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/block/light_blue/0", "weight": 8 },
+            { "model": "block/wool/block/light_blue/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/light_blue/1", "weight": 8 },
+            { "model": "block/wool/block/light_blue/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/light_blue/2", "weight": 8 },
+            { "model": "block/wool/block/light_blue/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/light_blue/3", "weight": 8 },
+            { "model": "block/wool/block/light_blue/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/light_blue/4", "weight": 8 },
+            { "model": "block/wool/block/light_blue/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/light_blue/5", "weight": 8 },
+            { "model": "block/wool/block/light_blue/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/block/light_blue/6", "weight": 8 },
+            { "model": "block/wool/block/light_blue/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/7", "weight": 8 },
+            { "model": "block/wool/block/light_blue/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/8", "weight": 8 },
+            { "model": "block/wool/block/light_blue/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/9", "weight": 8 },
+            { "model": "block/wool/block/light_blue/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/10", "weight": 8 },
+            { "model": "block/wool/block/light_blue/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/11", "weight": 8 },
+            { "model": "block/wool/block/light_blue/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/12", "weight": 8 },
+            { "model": "block/wool/block/light_blue/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/light_blue/13", "weight": 8 },
+			{ "model": "block/wool/block/light_blue/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

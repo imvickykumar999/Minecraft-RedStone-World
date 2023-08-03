@@ -1,0 +1,18 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "multipart": [
+        {   "apply": { "model": "block/wood/planks/fence/warped/fence/post/0" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/wood/planks/fence/warped/fence/n/0" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/wood/planks/fence/warped/fence/n/0", "y": 90  }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/wood/planks/fence/warped/fence/s/0" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/wood/planks/fence/warped/fence/s/0", "y": 90 }
+        }
+    ]
+}

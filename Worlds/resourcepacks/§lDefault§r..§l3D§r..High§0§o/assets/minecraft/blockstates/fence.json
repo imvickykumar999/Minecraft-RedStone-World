@@ -1,0 +1,18 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "multipart": [
+        {   "apply": { "model": "block/oak_fence_post" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/oak_fence_n" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/oak_fence_e" }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/oak_fence_s" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/oak_fence_w" }
+        }
+    ]
+}

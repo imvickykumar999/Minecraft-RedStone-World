@@ -1,0 +1,20 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985728/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/path",
+
+"textures": {
+	"top": 			"know2good/blocks/dirt/path/0/main",
+	"north": 		"know2good/blocks/dirt/dirt/28/north",
+	"east": 		"know2good/blocks/dirt/dirt/28/east",
+	"south": 		"know2good/blocks/dirt/dirt/28/south",
+	"west": 		"know2good/blocks/dirt/dirt/28/west",
+	"bottom": 		"know2good/blocks/dirt/dirt/28/main",
+	"north_side": 	"know2good/blocks/dirt/path/0/north",
+	"east_side": 	"know2good/blocks/dirt/path/0/east",
+	"south_side": 	"know2good/blocks/dirt/path/0/south",
+	"west_side": 	"know2good/blocks/dirt/path/0/west",
+	"particle": 	"know2good/blocks/dirt/path/0/main"
+    }
+}

@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/carpet/red/0", "weight": 8 },
+            { "model": "block/wool/carpet/red/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/red/1", "weight": 8 },
+            { "model": "block/wool/carpet/red/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/red/2", "weight": 8 },
+            { "model": "block/wool/carpet/red/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/red/3", "weight": 8 },
+            { "model": "block/wool/carpet/red/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/red/4", "weight": 8 },
+            { "model": "block/wool/carpet/red/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/red/5", "weight": 8 },
+            { "model": "block/wool/carpet/red/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/carpet/red/6", "weight": 8 },
+            { "model": "block/wool/carpet/red/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/7", "weight": 8 },
+            { "model": "block/wool/carpet/red/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/8", "weight": 8 },
+            { "model": "block/wool/carpet/red/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/9", "weight": 8 },
+            { "model": "block/wool/carpet/red/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/10", "weight": 8 },
+            { "model": "block/wool/carpet/red/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/11", "weight": 8 },
+            { "model": "block/wool/carpet/red/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/12", "weight": 8 },
+            { "model": "block/wool/carpet/red/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/red/13", "weight": 8 },
+			{ "model": "block/wool/carpet/red/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

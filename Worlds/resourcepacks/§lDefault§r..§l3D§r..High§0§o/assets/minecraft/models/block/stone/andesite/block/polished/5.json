@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_polished_stone",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/andesite/block/polished/5/main",
+	"north": 	"know2good/blocks/stone/andesite/block/polished/5/main",
+	"east": 	"know2good/blocks/stone/andesite/block/polished/5/east",
+	"south": 	"know2good/blocks/stone/andesite/block/polished/5/main",
+	"west": 	"know2good/blocks/stone/andesite/block/polished/5/main",
+	"particle": "know2good/blocks/stone/andesite/block/polished/5/main"
+    }
+}

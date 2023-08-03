@@ -1,0 +1,14 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "stage=0":[	{ "model": "block/oak_sapling", "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 90, "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 180, "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 270, "weight": 40 }],
+        "stage=1":[	{ "model": "block/oak_sapling", "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 90, "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 180, "weight": 40 },
+					{ "model": "block/oak_sapling", "y": 270, "weight": 40 }]
+    }
+}
+

@@ -1,0 +1,72 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/wood/planks/slab/bottom/oak/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/oak/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/oak/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/oak/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/oak/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/oak/15", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/wood/planks/slab/top/oak/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/oak/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/oak/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/oak/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/oak/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/oak/15", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/wood/planks/block/oak/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/oak/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/oak/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/oak/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/oak/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/oak/15", "weight": 1 }
+        ]
+    }
+}
+

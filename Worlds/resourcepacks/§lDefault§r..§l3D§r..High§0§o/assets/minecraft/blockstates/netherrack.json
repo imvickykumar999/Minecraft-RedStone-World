@@ -1,0 +1,210 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/stone/netherrack/block/normal/0", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/0", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/0", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/0", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/1", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/1", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/1", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/1", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/2", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/2", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/2", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/2", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/3", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/3", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/3", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/3", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/4", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/4", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/4", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/4", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/5", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/5", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/5", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/5", "y": 270, "weight": 30 },
+
+            { "model": "block/stone/netherrack/block/normal/6", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/6", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/6", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/6", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/7", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/7", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/7", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/7", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/8", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/8", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/8", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/8", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/9", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/9", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/9", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/9", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/10", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/10", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/10", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/10", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/11", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/11", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/11", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/11", "y": 270, "weight": 30 },
+			
+            { "model": "block/stone/netherrack/block/normal/12", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/12", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/12", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/12", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/13", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/13", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/13", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/13", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/14", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/14", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/14", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/14", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/15", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/15", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/15", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/15", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/16", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/16", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/16", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/16", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/17", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/17", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/17", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/17", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/18", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/18", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/18", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/18", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/19", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/19", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/19", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/19", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/20", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/20", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/20", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/20", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/21", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/21", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/21", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/21", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/22", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/22", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/22", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/22", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/23", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/23", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/23", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/23", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/24", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/24", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/24", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/24", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/25", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/25", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/25", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/25", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/26", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/26", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/26", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/26", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/normal/27", "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/27", "y": 90, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/27", "y": 180, "weight": 30 },
+            { "model": "block/stone/netherrack/block/normal/27", "y": 270, "weight": 30 },
+			
+			{ "model": "block/stone/netherrack/block/bone/black/0", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/0", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/0", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/0", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/black/1", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/1", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/1", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/1", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/black/2", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/2", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/2", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/2", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/black/3", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/3", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/3", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/3", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/black/4", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/4", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/4", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/4", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/black/5", "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/5", "y": 90, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/5", "y": 180, "weight": 2 },
+            { "model": "block/stone/netherrack/block/bone/black/5", "y": 270, "weight": 2 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/0", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/0", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/0", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/0", "y": 270, "weight": 1 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/1", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/1", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/1", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/1", "y": 270, "weight": 1 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/2", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/2", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/2", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/2", "y": 270, "weight": 1 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/3", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/3", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/3", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/3", "y": 270, "weight": 1 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/4", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/4", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/4", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/4", "y": 270, "weight": 1 },
+						
+			{ "model": "block/stone/netherrack/block/bone/white/5", "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/5", "y": 90, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/5", "y": 180, "weight": 1 },
+            { "model": "block/stone/netherrack/block/bone/white/5", "y": 270, "weight": 1 }
+			
+        ]
+    }
+}
+

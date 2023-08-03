@@ -1,0 +1,40 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "type=bottom": [
+            { "model": "block/stone/blackstone/slab/brick/bottom/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/5", "weight": 1 },
+            { "model": "block/stone/blackstone/slab/brick/bottom/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/bottom/7", "weight": 1 }
+        ],
+		
+        "type=top": [
+            { "model": "block/stone/blackstone/slab/brick/top/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/5", "weight": 1 },
+            { "model": "block/stone/blackstone/slab/brick/top/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/slab/brick/top/7", "weight": 1 }
+        ],
+		
+        "type=double": [
+            { "model": "block/stone/blackstone/block/brick/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/6", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/brick/7", "weight": 1 }
+        ]
+    }
+}
+

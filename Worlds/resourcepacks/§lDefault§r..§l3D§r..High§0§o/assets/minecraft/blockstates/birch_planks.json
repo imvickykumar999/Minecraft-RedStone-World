@@ -1,0 +1,27 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/wood/planks/block/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/birch/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/birch/15", "weight": 1 }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "item/-/tool/axe/4",
+
+"textures": {
+	"block": 	"item/stone_axe",
+	"particle":	"item/stone_axe"
+    }
+}

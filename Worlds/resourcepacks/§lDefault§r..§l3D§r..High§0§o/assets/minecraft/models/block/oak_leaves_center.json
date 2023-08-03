@@ -1,0 +1,73 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"No UV-bleed, OK coordinate, OK texture, OK cullface",
+
+"textures": {
+    "texture": 	"block/oak_leaves",
+	"cap": 		"block/oak_log",
+	"color": 	"block/birch_leaves",
+    "particle": "block/oak_leaves"
+},
+"elements":[
+	{
+		"__comment":"Acorn peduncle",
+		"from":[7.5,-1,7.5],
+		"to":[8.5,0,8.5],
+		"faces": {
+			"up":{"uv":		[7.01,8.01,7.99,8.99],"texture":"#cap","cullface":"down"},
+			"north":{"uv":	[7.01,8.01,7.99,8.99],"texture":"#cap","cullface":"down"},
+			"south":{"uv":	[7.01,8.01,7.99,8.99],"texture":"#cap","cullface":"down"},
+			"west":{"uv":	[7.01,8.01,7.99,8.99],"texture":"#cap","cullface":"down"},
+			"east":{"uv":	[7.01,8.01,7.99,8.99],"texture":"#cap","cullface":"down"}
+		}
+	},
+	{
+		"__comment":"Acorn cap",
+		"from":[6.5,-2,6.5],
+		"to":[9.5,-1,9.5],
+		"faces": {
+			"down":{"uv":	[11.99,5.01,10.01,6.99],"texture":"#cap","cullface":"down","rotation":180},
+			"up":{"uv":		[10.01,5.01,11.99,6.99],"texture":"#cap","cullface":"down"},
+			"north":{"uv":	[10.01,5.01,11.99,5.99],"texture":"#cap","cullface":"down"},
+			"south":{"uv":	[10.01,6.01,11.99,6.99],"texture":"#cap","cullface":"down"},
+			"west":{"uv":	[10.01,5.01,10.99,6.99],"texture":"#cap","cullface":"down","rotation":270},
+			"east":{"uv":	[11.01,5.01,11.99,6.99],"texture":"#cap","cullface":"down","rotation":90}
+		}
+	},
+	{
+		"__comment":"Acorn north half",
+		"from":[7,-4,7],
+		"to":[9,-2,8],
+		"faces": {
+			"down":{"uv":	[3.01,8.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0,"rotation":180},
+			"north":{"uv":	[3.01,7.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0},
+			"west":{"uv":	[4.01,7.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0},
+			"east":{"uv":	[3.01,7.01,3.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0}
+		}
+	},
+	{
+		"__comment":"Acorn south half",
+		"from":[7,-4,8],
+		"to":[9,-2,9],
+		"faces": {
+			"down":{"uv":	[3.01,8.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0},
+			"south":{"uv":	[3.01,7.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0},
+			"west":{"uv":	[4.01,7.01,4.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0},
+			"east":{"uv":	[3.01,7.01,3.99,8.99],"texture":"#cap","cullface":"down","tintindex": 0}
+		}
+	},
+	{
+		"__comment":"Block",
+		"from":[0,0,0],
+		"to":[16,16,16],
+		"faces": {
+			"down":{"uv":	[0,0,16,16],"texture":"#texture","cullface":"down","tintindex": 0},
+			"up":{"uv":		[0,0,16,16],"texture":"#texture","cullface":"up","tintindex": 0},
+			"north":{"uv":	[0,0,16,16],"texture":"#texture","cullface":"north","tintindex": 0},
+			"south":{"uv":	[0,0,16,16],"texture":"#texture","cullface":"south","tintindex": 0},
+			"west":{"uv":	[0,0,16,16],"texture":"#texture","cullface":"west","tintindex": 0},
+			"east":{"uv":	[0,0,16,16],"texture":"#texture","cullface":"east","tintindex": 0}
+            }
+        }
+    ]
+}

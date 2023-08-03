@@ -1,0 +1,23 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "minecraft:block/stone/ore/gold/nether/0/0/0", "weight": 1 },
+				{ "model": "minecraft:block/stone/ore/gold/nether/0/1/0", "weight": 1 },
+					{ "model": "minecraft:block/stone/ore/gold/nether/0/2/0", "weight": 1 },
+					
+			{ "model": "minecraft:block/stone/ore/gold/nether/1/0/0", "weight": 1 },
+				{ "model": "minecraft:block/stone/ore/gold/nether/1/1/0", "weight": 1 },
+					{ "model": "minecraft:block/stone/ore/gold/nether/1/2/0", "weight": 1 },
+					
+			{ "model": "minecraft:block/stone/ore/gold/nether/2/0/0", "weight": 1 },
+				{ "model": "minecraft:block/stone/ore/gold/nether/2/1/0", "weight": 1 },
+					{ "model": "minecraft:block/stone/ore/gold/nether/2/2/0", "weight": 1 },
+					
+			{ "model": "minecraft:block/stone/ore/gold/nether/3/0/0", "weight": 1 },
+				{ "model": "minecraft:block/stone/ore/gold/nether/3/1/0", "weight": 1 },
+					{ "model": "minecraft:block/stone/ore/gold/nether/3/2/0", "weight": 1 }
+        ]
+    }
+}
+

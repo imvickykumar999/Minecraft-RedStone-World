@@ -1,0 +1,24 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/stone/end/brick/block/0", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/1", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/2", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/3", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/4", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/5", "weight": 1 },
+            { "model": "block/stone/end/brick/block/6", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/7", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/8", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/9", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/10", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/11", "weight": 1 },
+            { "model": "block/stone/end/brick/block/12", "weight": 1 },
+			{ "model": "block/stone/end/brick/block/13", "weight": 1 }
+        ]
+    }
+}
+

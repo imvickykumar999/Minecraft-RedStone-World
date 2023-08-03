@@ -1,0 +1,42 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/end/0/main",
+	"north": 	"know2good/blocks/stone/end/0/north",
+	"east": 	"know2good/blocks/stone/end/0/east",
+	"south": 	"know2good/blocks/stone/end/0/south",
+	"west": 	"know2good/blocks/stone/end/0/west",
+	"sparkle": 	"know2good/blocks/decoration/ground/enderman_sparkle/0",
+	"particle": "know2good/blocks/stone/end/0/main"
+},
+"elements": [ 
+	{
+		"__comment":"Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":{	"texture":"#main","cullface":"down"},
+			"up":{		"texture":"#main","cullface":"up"},
+			"north":{	"texture":"#north","cullface":"north"},
+			"south":{	"texture":"#south","cullface":"south"},
+			"west":{	"texture":"#west","cullface":"west"},
+			"east":{	"texture":"#east","cullface":"east"}
+		}
+	},
+	{
+		"__comment": "Sparkle",
+		"from": [12,16,4],
+		"to": [13,17,5],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 45 },
+		"faces": {
+			"up":{"uv":		[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"north":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"south":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"west":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"},
+			"east":{"uv":	[4.01,4.01,4.99,4.99],"texture":"#sparkle","cullface":"up"}
+            }
+        }
+    ]
+}

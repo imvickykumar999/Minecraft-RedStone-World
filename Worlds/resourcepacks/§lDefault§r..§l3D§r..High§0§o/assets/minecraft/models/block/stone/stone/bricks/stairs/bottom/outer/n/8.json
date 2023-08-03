@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985841/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/stairs/stone/bricks/bottom/outer/0/n",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/stone/bricks/block/8/main",
+	"north": 	"know2good/blocks/stone/stone/bricks/slab/8/north",
+	"east": 	"know2good/blocks/stone/stone/bricks/slab/8/east",
+	"south": 	"know2good/blocks/stone/stone/bricks/slab/8/south",
+	"west": 	"know2good/blocks/stone/stone/bricks/slab/8/west",
+	"particle": "know2good/blocks/stone/stone/bricks/block/8/main"
+    }
+}

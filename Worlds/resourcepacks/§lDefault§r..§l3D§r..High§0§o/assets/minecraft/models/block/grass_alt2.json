@@ -1,0 +1,11 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_tinted_cross",
+
+"textures": {
+	"block": 	"know2good/blocks/grass/tallgrass_alt2/tall_grass",
+	"particle":	"know2good/blocks/grass/tallgrass_alt2/tall_grass"
+    }
+}

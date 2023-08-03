@@ -1,0 +1,32 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"multipart": [
+        {   "apply": { "model": "block/glass/white/pane/post" }},
+        {   "when": { "north": true },
+            "apply": { "model": "block/glass/white/pane/true_x" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "block/glass/white/pane/true_x", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "block/glass/white/pane/true_y" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "block/glass/white/pane/true_y", "y": 90 }
+        },
+        {   "when": { "north": false },
+            "apply": { "model": "block/glass/white/pane/false_x" }
+        },
+        {   "when": { "east": false },
+            "apply": { "model": "block/glass/white/pane/false_y" }
+        },
+        {   "when": { "south": false },
+            "apply": { "model": "block/glass/white/pane/false_y", "y": 90 }
+        },
+        {   "when": { "west": false },
+            "apply": { "model": "block/glass/white/pane/false_x", "y": 270 }
+        }
+    ]
+}

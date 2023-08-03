@@ -1,0 +1,252 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/dirt/path/path/0", "weight": 64 },
+            { "model": "block/dirt/path/path/0", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/0", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/0", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/1", "weight": 64 },
+            { "model": "block/dirt/path/path/1", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/1", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/1", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/2", "weight": 64 },
+            { "model": "block/dirt/path/path/2", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/2", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/2", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/3", "weight": 64 },
+            { "model": "block/dirt/path/path/3", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/3", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/3", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/4", "weight": 64 },
+            { "model": "block/dirt/path/path/4", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/4", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/4", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/5", "weight": 64 },
+            { "model": "block/dirt/path/path/5", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/5", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/5", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/6", "weight": 64 },
+            { "model": "block/dirt/path/path/6", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/6", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/6", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/7", "weight": 64 },
+            { "model": "block/dirt/path/path/7", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/7", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/7", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/8", "weight": 64 },
+            { "model": "block/dirt/path/path/8", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/8", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/8", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/9", "weight": 64 },
+            { "model": "block/dirt/path/path/9", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/9", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/9", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/10", "weight": 64 },
+            { "model": "block/dirt/path/path/10", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/10", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/10", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/11", "weight": 64 },
+            { "model": "block/dirt/path/path/11", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/11", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/11", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/12", "weight": 64 },
+            { "model": "block/dirt/path/path/12", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/12", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/12", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/13", "weight": 64 },
+            { "model": "block/dirt/path/path/13", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/13", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/13", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/14", "weight": 64 },
+            { "model": "block/dirt/path/path/14", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/14", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/14", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/15", "weight": 64 },
+            { "model": "block/dirt/path/path/15", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/15", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/15", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/16", "weight": 64 },
+            { "model": "block/dirt/path/path/16", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/16", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/16", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/17", "weight": 64 },
+            { "model": "block/dirt/path/path/17", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/17", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/17", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/18", "weight": 64 },
+            { "model": "block/dirt/path/path/18", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/18", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/18", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/19", "weight": 64 },
+            { "model": "block/dirt/path/path/19", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/19", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/19", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/20", "weight": 64 },
+            { "model": "block/dirt/path/path/20", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/20", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/20", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/21", "weight": 64 },
+            { "model": "block/dirt/path/path/21", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/21", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/21", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/22", "weight": 64 },
+            { "model": "block/dirt/path/path/22", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/22", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/22", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/23", "weight": 64 },
+            { "model": "block/dirt/path/path/23", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/23", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/23", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/24", "weight": 64 },
+            { "model": "block/dirt/path/path/24", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/24", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/24", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/25", "weight": 64 },
+            { "model": "block/dirt/path/path/25", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/25", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/25", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/26", "weight": 64 },
+            { "model": "block/dirt/path/path/26", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/26", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/26", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/27", "weight": 64 },
+            { "model": "block/dirt/path/path/27", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/27", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/27", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/28", "weight": 64 },
+            { "model": "block/dirt/path/path/28", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/28", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/28", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/29", "weight": 64 },
+            { "model": "block/dirt/path/path/29", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/29", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/29", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/30", "weight": 64 },
+            { "model": "block/dirt/path/path/30", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/30", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/30", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/31", "weight": 64 },
+            { "model": "block/dirt/path/path/31", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/31", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/31", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/32", "weight": 64 },
+            { "model": "block/dirt/path/path/32", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/32", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/32", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/33", "weight": 64 },
+            { "model": "block/dirt/path/path/33", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/33", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/33", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/34", "weight": 64 },
+            { "model": "block/dirt/path/path/34", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/34", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/34", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/35", "weight": 64 },
+            { "model": "block/dirt/path/path/35", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/35", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/35", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/36", "weight": 64 },
+            { "model": "block/dirt/path/path/36", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/36", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/36", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/37", "weight": 64 },
+            { "model": "block/dirt/path/path/37", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/37", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/37", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/38", "weight": 64 },
+            { "model": "block/dirt/path/path/38", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/38", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/38", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/39", "weight": 64 },
+            { "model": "block/dirt/path/path/39", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/39", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/39", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/40", "weight": 64 },
+            { "model": "block/dirt/path/path/40", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/40", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/40", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/path/41", "weight": 64 },
+            { "model": "block/dirt/path/path/41", "y": 90, "weight": 64 },
+            { "model": "block/dirt/path/path/41", "y": 180, "weight": 64 },
+			{ "model": "block/dirt/path/path/41", "y": 270, "weight": 64 },
+			
+			{ "model": "block/dirt/path/pebble/0", "weight": 10 },
+            { "model": "block/dirt/path/pebble/0", "y": 90, "weight": 10 },
+            { "model": "block/dirt/path/pebble/0", "y": 180, "weight": 10 },
+			{ "model": "block/dirt/path/pebble/0", "y": 270, "weight": 10 },
+			
+			{ "model": "block/dirt/path/pebble/1", "weight": 9 },
+            { "model": "block/dirt/path/pebble/1", "y": 90, "weight": 9 },
+            { "model": "block/dirt/path/pebble/1", "y": 180, "weight": 9 },
+			{ "model": "block/dirt/path/pebble/1", "y": 270, "weight": 9 },
+			
+			{ "model": "block/dirt/path/pebble/2", "weight": 10 },
+            { "model": "block/dirt/path/pebble/2", "y": 90, "weight": 10 },
+            { "model": "block/dirt/path/pebble/2", "y": 180, "weight": 10 },
+			{ "model": "block/dirt/path/pebble/2", "y": 270, "weight": 10 },
+			
+			{ "model": "block/dirt/path/pebble/3", "weight": 10 },
+            { "model": "block/dirt/path/pebble/3", "y": 90, "weight": 10 },
+            { "model": "block/dirt/path/pebble/3", "y": 180, "weight": 10 },
+			{ "model": "block/dirt/path/pebble/3", "y": 270, "weight": 10 },
+			
+			{ "model": "block/dirt/path/pebble/4", "weight": 9 },
+            { "model": "block/dirt/path/pebble/4", "y": 90, "weight": 9 },
+            { "model": "block/dirt/path/pebble/4", "y": 180, "weight": 9 },
+			{ "model": "block/dirt/path/pebble/4", "y": 270, "weight": 9 },
+			
+			{ "model": "block/dirt/path/pebble/5", "weight": 9 },
+            { "model": "block/dirt/path/pebble/5", "y": 90, "weight": 9 },
+            { "model": "block/dirt/path/pebble/5", "y": 180, "weight": 9 },
+			{ "model": "block/dirt/path/pebble/5", "y": 270, "weight": 9 },
+			
+			{ "model": "block/dirt/path/pebble/6", "weight": 9 },
+            { "model": "block/dirt/path/pebble/6", "y": 90, "weight": 9 },
+            { "model": "block/dirt/path/pebble/6", "y": 180, "weight": 9 },
+			{ "model": "block/dirt/path/pebble/6", "y": 270, "weight": 9 }
+        ]
+    }
+}
+

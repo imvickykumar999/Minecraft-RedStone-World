@@ -1,0 +1,137 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/stone/end/block/0", "weight": 45 },
+            { "model": "block/stone/end/block/0", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/0", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/0", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/1", "weight": 45 },
+            { "model": "block/stone/end/block/1", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/1", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/1", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/2", "weight": 45 },
+            { "model": "block/stone/end/block/2", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/2", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/2", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/3", "weight": 45 },
+            { "model": "block/stone/end/block/3", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/3", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/3", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/4", "weight": 45 },
+            { "model": "block/stone/end/block/4", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/4", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/4", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/5", "weight": 45 },
+            { "model": "block/stone/end/block/5", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/5", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/5", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/6", "weight": 45 },
+            { "model": "block/stone/end/block/6", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/6", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/6", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/7", "weight": 45 },
+            { "model": "block/stone/end/block/7", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/7", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/7", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/8", "weight": 45 },
+            { "model": "block/stone/end/block/8", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/8", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/8", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/9", "weight": 45 },
+            { "model": "block/stone/end/block/9", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/9", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/9", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/10", "weight": 45 },
+            { "model": "block/stone/end/block/10", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/10", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/10", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/11", "weight": 45 },
+            { "model": "block/stone/end/block/11", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/11", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/11", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/12", "weight": 45 },
+            { "model": "block/stone/end/block/12", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/12", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/12", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/block/13", "weight": 45 },
+            { "model": "block/stone/end/block/13", "y": 90, "weight": 45 },
+            { "model": "block/stone/end/block/13", "y": 180, "weight": 45 },
+			{ "model": "block/stone/end/block/13", "y": 270, "weight": 45 },
+			
+			{ "model": "block/stone/end/pebble/0", "weight": 10 },
+            { "model": "block/stone/end/pebble/0", "y": 90, "weight": 10 },
+            { "model": "block/stone/end/pebble/0", "y": 180, "weight": 10 },
+			{ "model": "block/stone/end/pebble/0", "y": 270, "weight": 10 },
+			
+			{ "model": "block/stone/end/pebble/1", "weight": 10 },
+            { "model": "block/stone/end/pebble/1", "y": 90, "weight": 10 },
+            { "model": "block/stone/end/pebble/1", "y": 180, "weight": 10 },
+			{ "model": "block/stone/end/pebble/1", "y": 270, "weight": 10 },
+			
+			{ "model": "block/stone/end/pebble/2", "weight": 10 },
+            { "model": "block/stone/end/pebble/2", "y": 90, "weight": 10 },
+            { "model": "block/stone/end/pebble/2", "y": 180, "weight": 10 },
+			{ "model": "block/stone/end/pebble/2", "y": 270, "weight": 10 },
+			
+			{ "model": "block/stone/end/pebble/3", "weight": 10 },
+            { "model": "block/stone/end/pebble/3", "y": 90, "weight": 10 },
+            { "model": "block/stone/end/pebble/3", "y": 180, "weight": 10 },
+			{ "model": "block/stone/end/pebble/3", "y": 270, "weight": 10 },
+			
+			{ "model": "block/stone/end/sparkle/0", "weight": 2 },
+            { "model": "block/stone/end/sparkle/0", "y": 90, "weight": 2 },
+            { "model": "block/stone/end/sparkle/0", "y": 180, "weight": 2 },
+			{ "model": "block/stone/end/sparkle/0", "y": 270, "weight": 2 },	
+			
+			{ "model": "block/stone/end/sparkle/1", "weight": 2 },
+            { "model": "block/stone/end/sparkle/1", "y": 90, "weight": 2 },
+            { "model": "block/stone/end/sparkle/1", "y": 180, "weight": 2 },
+			{ "model": "block/stone/end/sparkle/1", "y": 270, "weight": 2 },	
+			
+			{ "model": "block/stone/end/sparkle/2", "weight": 1 },
+            { "model": "block/stone/end/sparkle/2", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/2", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/2", "y": 270, "weight": 1 },	
+			
+			{ "model": "block/stone/end/sparkle/3", "weight": 1 },
+            { "model": "block/stone/end/sparkle/3", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/3", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/3", "y": 270, "weight": 1 },	
+			
+			{ "model": "block/stone/end/sparkle/4", "weight": 1 },
+            { "model": "block/stone/end/sparkle/4", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/4", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/4", "y": 270, "weight": 1 },	
+			
+			{ "model": "block/stone/end/sparkle/5", "weight": 1 },
+            { "model": "block/stone/end/sparkle/5", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/5", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/5", "y": 270, "weight": 1 },	
+			
+			{ "model": "block/stone/end/sparkle/6", "weight": 1 },
+            { "model": "block/stone/end/sparkle/6", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/6", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/6", "y": 270, "weight": 1 },
+			
+			{ "model": "block/stone/end/sparkle/7", "weight": 1 },
+            { "model": "block/stone/end/sparkle/7", "y": 90, "weight": 1 },
+            { "model": "block/stone/end/sparkle/7", "y": 180, "weight": 1 },
+			{ "model": "block/stone/end/sparkle/7", "y": 270, "weight": 1 }
+        ]
+    }
+}
+

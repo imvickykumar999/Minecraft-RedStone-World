@@ -1,0 +1,79 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/wood/leaves/spruce/0", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/0", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/0", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/0", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/1", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/1", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/1", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/1", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/2", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/2", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/2", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/2", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/3", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/3", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/3", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/3", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/4", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/4", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/4", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/4", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/5", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/5", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/5", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/5", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/6", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/6", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/6", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/6", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/7", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/7", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/7", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/7", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/8", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/8", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/8", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/8", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/9", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/9", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/9", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/9", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/10", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/10", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/10", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/10", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/11", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/11", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/11", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/11", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/12", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/12", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/12", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/12", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/spruce/13", "weight": 59 },
+            { "model": "block/wood/leaves/spruce/13", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/spruce/13", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/spruce/13", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

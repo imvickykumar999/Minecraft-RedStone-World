@@ -1,0 +1,63 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+
+"textures": {
+	"block": 	"block/dirt",
+	"stone": 	"custom/gravel_old",
+	"particle": "block/dirt"
+},
+"elements": [ 
+	{
+		"__comment":"Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":{"uv":	[0,0,16,16],"texture":"#block","cullface":"down"},
+			"up":{"uv":		[0,0,16,16],"texture":"#block","cullface":"up"},
+			"north":{"uv":	[0,0,16,16],"texture":"#block","cullface":"north"},
+			"south":{"uv":	[0,0,16,16],"texture":"#block","cullface":"south"},
+			"west":{"uv":	[0,0,16,16],"texture":"#block","cullface":"west"},
+			"east":{"uv":	[0,0,16,16],"texture":"#block","cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Stone 1",
+		"from": [8,16,9],
+		"to": [11,17,12],
+		"shade": false,
+		"faces": {
+			"up":{"uv":		[8.01,9.01,10.99,11.99],"texture":"#stone","cullface":"up"},
+			"north":{"uv":	[8.01,9.01,10.99,9.99],"texture":"#stone","cullface":"up","rotation":180},
+			"south":{"uv":	[8.01,11.01,10.99,11.99],"texture":"#stone","cullface":"up"},
+			"west":{"uv":	[8.01,9.01,8.99,11.99],"texture":"#stone","cullface":"up","rotation":270},
+			"east":{"uv":	[10.01,9.01,10.99,11.99],"texture":"#stone","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Stone 2",
+		"from": [8.99,17,8.99],
+		"to": [11.01,18,11.01],
+		"shade": false,
+		"faces": {
+			"up":{"uv":		[9.01,9.01,10.99,10.99],"texture":"#stone","cullface":"up"},
+			"north":{"uv":	[9.01,9.01,10.99,9.99],"texture":"#stone","cullface":"up","rotation":180},
+			"south":{"uv":	[9.01,10.01,10.99,10.99],"texture":"#stone","cullface":"up"},
+			"west":{"uv":	[9.01,9.01,9.99,10.99],"texture":"#stone","cullface":"up","rotation":270},
+			"east":{"uv":	[10.01,9.01,10.99,10.99],"texture":"#stone","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Stone 3",
+		"from": [10,16,8],
+		"to": [12,17,10],
+		"shade": false,
+		"faces": {
+			"up":{"uv":		[10.01,8.01,11.99,9.99],"texture":"#stone","cullface":"up"},
+			"north":{"uv":	[10.01,8.01,11.99,8.99],"texture":"#stone","cullface":"up","rotation":180},
+			"south":{"uv":	[10.01,9.01,11.99,9.99],"texture":"#stone","cullface":"up"},
+			"west":{"uv":	[10.01,8.01,10.99,9.99],"texture":"#stone","cullface":"up","rotation":270},
+			"east":{"uv":	[11.01,8.01,11.99,9.99],"texture":"#stone","cullface":"up","rotation":90}
+            }
+        }
+    ]
+}

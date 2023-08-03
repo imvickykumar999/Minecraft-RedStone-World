@@ -1,0 +1,15 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-29851041/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/stairs/stone/bricks/bottom/outer/0/w",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/blackstone/block/brick/10/main",
+	"north": 	"know2good/blocks/stone/blackstone/slab/brick/10/north",
+	"east": 	"know2good/blocks/stone/blackstone/slab/brick/10/east",
+	"south": 	"know2good/blocks/stone/blackstone/slab/brick/10/south",
+	"west": 	"know2good/blocks/stone/blackstone/slab/brick/10/west",
+	"particle": "know2good/blocks/stone/blackstone/block/brick/10/main"
+    }
+}

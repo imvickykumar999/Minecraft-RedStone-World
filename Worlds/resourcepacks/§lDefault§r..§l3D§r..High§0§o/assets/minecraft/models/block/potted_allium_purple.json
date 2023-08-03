@@ -1,0 +1,13 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_potted_allium",
+
+"textures": {
+    "flower":	"know2good/blocks/plant/allium/purple",
+	"pot": 		"block/flower_pot",
+	"soil": 	"know2good/blocks/dirt/dirt/0/main",
+	"particle":	"block/flower_pot"
+    }
+}

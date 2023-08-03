@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/carpet/cyan/0", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/cyan/1", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/cyan/2", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/cyan/3", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/cyan/4", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/cyan/5", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/carpet/cyan/6", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/7", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/8", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/9", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/10", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/11", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/12", "weight": 8 },
+            { "model": "block/wool/carpet/cyan/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/cyan/13", "weight": 8 },
+			{ "model": "block/wool/carpet/cyan/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

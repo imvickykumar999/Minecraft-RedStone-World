@@ -1,0 +1,37 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+        "main": 	"know2good/blocks/stone/bell/0/main",
+		"particle": "know2good/blocks/stone/bell/0/bell"
+},
+"elements":[
+	{
+		"__comment":"Bar",
+		"from":[0,13,7],
+		"to":[16,15,9],
+		"faces": {
+			"down":{"uv":	[5,16,7,0],"texture":"#main","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[4,0,6,16],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[4,16,6,0],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"south":{"uv":	[5,0,7,16],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"west":{"uv":	[7,4,9,6],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"east":{"uv":	[7,2,9,4],"texture":"#main","cullface":"Know2Good","rotation":90}
+		}
+	},
+	{
+		"__comment":"Clapper",
+		"from":[7,3,7],
+		"to":[9,5,9],
+		"faces": {
+			"down":{"uv":	[2,0,4,2],"texture":"#main","cullface":"Know2Good"},
+			"up":{"uv":		[0,0,2,2],"texture":"#main","cullface":"up"},
+			"north":{"uv":	[2,1,4,2],"texture":"#main","cullface":"Know2Good","rotation":180},
+			"south":{"uv":	[2,0,4,1],"texture":"#main","cullface":"Know2Good"},
+			"west":{"uv":	[2,0,3,2],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"east":{"uv":	[3,0,4,2],"texture":"#main","cullface":"Know2Good","rotation":270}
+            }
+        }
+    ]
+}

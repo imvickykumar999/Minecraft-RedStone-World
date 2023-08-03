@@ -1,0 +1,130 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/block_display",
+
+"elements": [ 
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":{"uv":		[0,16,16,0],"texture":"#main","cullface":"down"},
+			"up":		{"texture":"#main","cullface":"up"},
+			"north":	{"texture":"#north","cullface":"north"},
+			"south":	{"texture":"#south","cullface":"south"},
+			"west":		{"texture":"#west","cullface":"west"},
+			"east":		{"texture":"#east","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "Ribbon top north south",
+		"from": [8,16,0],
+		"to": [9,16.5,16],
+		"faces": {
+			"up":{"uv":		[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up"},
+			"north":{"uv":	[8.01,0.01,8.99,0.99],"texture":"#main","cullface":"up"},
+			"south":{"uv":	[8.01,15.01,8.99,15.99],"texture":"#main","cullface":"up"},
+			"west":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up","rotation":270},
+			"east":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up","rotation":90}
+        }
+    },
+	{
+		"__comment": "Ribbon top east west",
+		"from": [0,16,7],
+		"to": [16,16.5,8],
+		"faces": {
+			"up":{"uv":		[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"up"},
+			"north":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"up","rotation":180},
+			"south":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"up"},
+			"west":{"uv":	[0.01,7.01,0.99,7.99],"texture":"#main","cullface":"up"},
+			"east":{"uv":	[15.01,7.01,15.99,7.99],"texture":"#main","cullface":"up"}
+        }
+    },
+	{
+		"__comment": "Ribbon bottom north south",
+		"from": [8,-0.5,0],
+		"to": [9,0,16],
+		"faces": {
+			"down":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"down","rotation":180},
+			"north":{"uv":	[8.01,15.01,8.99,15.99],"texture":"#main","cullface":"down"},
+			"south":{"uv":	[8.01,0.01,8.99,0.99],"texture":"#main","cullface":"down"},
+			"west":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"down","rotation":90},
+			"east":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"down","rotation":270}
+        }
+    },
+	{
+		"__comment": "Ribbon bottom east west",
+		"from": [0,-0.5,7],
+		"to": [16,0,8],
+		"faces": {
+			"down":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"down"},
+			"north":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"down","rotation":180},
+			"south":{"uv":	[0.01,7.01,15.99,7.99],"texture":"#main","cullface":"down"},
+			"west":{"uv":	[0.01,7.01,0.99,7.99],"texture":"#main","cullface":"down"},
+			"east":{"uv":	[15.01,7.01,15.99,7.99],"texture":"#main","cullface":"down"}
+        }
+    },
+	{
+		"__comment": "Ribbon north",
+		"from": [8,0,-0.5],
+		"to": [9,16,0],
+		"faces": {
+			"down":{"uv":	[7.01,15.01,7.99,15.99],"texture":"#north","cullface":"north"},
+			"up":{"uv":		[7.01,0.01,7.99,0.99],"texture":"#north","cullface":"north"},
+			"north":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#north","cullface":"north"},
+			"west":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#north","cullface":"north"},
+			"east":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#north","cullface":"north"}
+        }
+    },
+	{
+		"__comment": "Ribbon east",
+		"from": [16,0,7],
+		"to": [16.5,16,8],
+		"faces": {
+			"down":{"uv":	[8.01,15.01,8.99,15.99],"texture":"#east","cullface":"east"},
+			"up":{"uv":		[8.01,0.01,8.99,0.99],"texture":"#east","cullface":"east"},
+			"north":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#east","cullface":"east"},
+			"south":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#east","cullface":"east"},
+			"east":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#east","cullface":"east"}
+        }
+    },
+	{
+		"__comment": "Ribbon south",
+		"from": [8,0,16],
+		"to": [9,16,16.5],
+		"faces": {
+			"down":{"uv":	[8.01,15.01,8.99,15.99],"texture":"#south","cullface":"south"},
+			"up":{"uv":		[8.01,0.01,8.99,0.99],"texture":"#south","cullface":"south"},
+			"south":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#south","cullface":"south"},
+			"west":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#south","cullface":"south"},
+			"east":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#south","cullface":"south"}
+        }
+    },
+	{
+		"__comment": "Ribbon west",
+		"from": [-0.5,0,7],
+		"to": [0,16,8],
+		"faces": {
+			"down":{"uv":	[7.01,15.01,7.99,15.99],"texture":"#west","cullface":"west"},
+			"up":{"uv":		[7.01,0.01,7.99,0.99],"texture":"#west","cullface":"west"},
+			"north":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#west","cullface":"west"},
+			"south":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#west","cullface":"west"},
+			"west":{"uv":	[7.01,0.01,7.99,15.99],"texture":"#west","cullface":"west"}
+        }
+    },
+	{
+		"__comment": "Ribon top north south",
+		"from": [0,0,0],
+		"to": [0,0,0],
+		"faces": {
+			"up":{"uv":		[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up"},
+			"north":{"uv":	[8.01,0.01,8.99,0.99],"texture":"#main","cullface":"up"},
+			"south":{"uv":	[8.01,15.01,8.99,15.99],"texture":"#main","cullface":"up"},
+			"west":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up","rotation":270},
+			"east":{"uv":	[8.01,0.01,8.99,15.99],"texture":"#main","cullface":"up","rotation":90}
+             }
+        }
+    ]
+}

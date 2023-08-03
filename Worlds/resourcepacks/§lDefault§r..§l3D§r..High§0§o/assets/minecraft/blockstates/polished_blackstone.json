@@ -1,0 +1,17 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/stone/blackstone/block/polished/0", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/1", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/2", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/3", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/4", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/5", "weight": 1 },
+			{ "model": "block/stone/blackstone/block/polished/6", "weight": 1 }
+        ]
+    }
+}
+

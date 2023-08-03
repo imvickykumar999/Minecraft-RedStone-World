@@ -1,0 +1,72 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/wood/planks/slab/bottom/crimson/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/crimson/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/crimson/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/crimson/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/bottom/crimson/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/bottom/crimson/15", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/wood/planks/slab/top/crimson/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/crimson/1", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/2", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/3", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/crimson/5", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/6", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/7", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/8", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/9", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/crimson/11", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/12", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/13", "weight": 1 },
+			{ "model": "block/wood/planks/slab/top/crimson/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/slab/top/crimson/15", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/wood/planks/block/crimson/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/crimson/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/crimson/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/crimson/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/crimson/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/crimson/15", "weight": 1 }
+        ]
+    }
+}
+

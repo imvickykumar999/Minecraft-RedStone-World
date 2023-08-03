@@ -1,0 +1,14 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/beacon",
+
+"textures": {
+    "glass": 	"know2good/blocks/gui/beacon/0/glass",
+    "obsidian": "know2good/blocks/glass/obsidian/12/main",
+    "beacon": 	"know2good/blocks/gui/beacon/0/beacon",
+    "star": 	"know2good/blocks/gui/beacon/12/star",
+    "particle": "know2good/blocks/gui/beacon/0/glass"
+    }
+}

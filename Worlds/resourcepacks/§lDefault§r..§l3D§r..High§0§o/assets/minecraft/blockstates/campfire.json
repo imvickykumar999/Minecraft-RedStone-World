@@ -1,0 +1,16 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+   "variants": {
+        "facing=north,lit=false": { "model": "block/gui/campfire/off/0" },
+		"facing=east,lit=false":  { "model": "block/gui/campfire/off/0", "y": 90 },
+        "facing=south,lit=false": { "model": "block/gui/campfire/off/0", "y": 180 },
+        "facing=west,lit=false":  { "model": "block/gui/campfire/off/0", "y": 270 },
+
+        "facing=north,lit=true": { "model": "block/gui/campfire/on/campfire/0" },
+		"facing=east,lit=true":  { "model": "block/gui/campfire/on/campfire/0", "y": 90 },
+        "facing=south,lit=true": { "model": "block/gui/campfire/on/campfire/0", "y": 180 },
+        "facing=west,lit=true":  { "model": "block/gui/campfire/on/campfire/0", "y": 270 }
+    }
+}

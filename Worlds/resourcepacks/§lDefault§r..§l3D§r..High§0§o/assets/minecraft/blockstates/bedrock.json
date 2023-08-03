@@ -1,0 +1,79 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/stone/bedrock/0", "weight": 59 },
+            { "model": "block/stone/bedrock/0", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/0", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/0", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/1", "weight": 59 },
+            { "model": "block/stone/bedrock/1", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/1", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/1", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/2", "weight": 59 },
+            { "model": "block/stone/bedrock/2", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/2", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/2", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/3", "weight": 59 },
+            { "model": "block/stone/bedrock/3", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/3", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/3", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/4", "weight": 59 },
+            { "model": "block/stone/bedrock/4", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/4", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/4", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/5", "weight": 59 },
+            { "model": "block/stone/bedrock/5", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/5", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/5", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/6", "weight": 59 },
+            { "model": "block/stone/bedrock/6", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/6", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/6", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/7", "weight": 59 },
+            { "model": "block/stone/bedrock/7", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/7", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/7", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/8", "weight": 59 },
+            { "model": "block/stone/bedrock/8", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/8", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/8", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/9", "weight": 59 },
+            { "model": "block/stone/bedrock/9", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/9", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/9", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/10", "weight": 59 },
+            { "model": "block/stone/bedrock/10", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/10", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/10", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/11", "weight": 59 },
+            { "model": "block/stone/bedrock/11", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/11", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/11", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/12", "weight": 59 },
+            { "model": "block/stone/bedrock/12", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/12", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/12", "y": 270, "weight": 61 },
+			
+			{ "model": "block/stone/bedrock/13", "weight": 59 },
+            { "model": "block/stone/bedrock/13", "y": 90, "weight": 62 },
+            { "model": "block/stone/bedrock/13", "y": 180, "weight": 60 },
+			{ "model": "block/stone/bedrock/13", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

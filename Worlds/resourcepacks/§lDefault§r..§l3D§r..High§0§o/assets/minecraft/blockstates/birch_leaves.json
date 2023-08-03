@@ -1,0 +1,79 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/wood/leaves/birch/0", "weight": 59 },
+            { "model": "block/wood/leaves/birch/0", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/0", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/0", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/1", "weight": 59 },
+            { "model": "block/wood/leaves/birch/1", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/1", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/1", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/2", "weight": 59 },
+            { "model": "block/wood/leaves/birch/2", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/2", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/2", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/3", "weight": 59 },
+            { "model": "block/wood/leaves/birch/3", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/3", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/3", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/4", "weight": 59 },
+            { "model": "block/wood/leaves/birch/4", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/4", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/4", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/5", "weight": 59 },
+            { "model": "block/wood/leaves/birch/5", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/5", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/5", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/6", "weight": 59 },
+            { "model": "block/wood/leaves/birch/6", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/6", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/6", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/7", "weight": 59 },
+            { "model": "block/wood/leaves/birch/7", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/7", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/7", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/8", "weight": 59 },
+            { "model": "block/wood/leaves/birch/8", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/8", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/8", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/9", "weight": 59 },
+            { "model": "block/wood/leaves/birch/9", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/9", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/9", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/10", "weight": 59 },
+            { "model": "block/wood/leaves/birch/10", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/10", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/10", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/11", "weight": 59 },
+            { "model": "block/wood/leaves/birch/11", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/11", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/11", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/12", "weight": 59 },
+            { "model": "block/wood/leaves/birch/12", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/12", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/12", "y": 270, "weight": 61 },
+			
+			{ "model": "block/wood/leaves/birch/13", "weight": 59 },
+            { "model": "block/wood/leaves/birch/13", "y": 90, "weight": 62 },
+            { "model": "block/wood/leaves/birch/13", "y": 180, "weight": 60 },
+			{ "model": "block/wood/leaves/birch/13", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

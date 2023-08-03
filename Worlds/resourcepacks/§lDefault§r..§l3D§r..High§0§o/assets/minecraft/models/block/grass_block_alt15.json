@@ -1,0 +1,18 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/generic_grass_block",
+
+"textures": {
+	"sides_ns": "know2good/blocks/grass/grass_alt15/grass_sides_north_south",
+	"sides_ew": "know2good/blocks/grass/grass_alt15/grass_sides_east_west",
+	"grass": 	"know2good/blocks/grass/grass_alt15/grass_top",
+	"main": 	"know2good/blocks/dirt/dirt_alt15/dirt",
+	"north": 	"know2good/blocks/dirt/dirt_alt15/dirt_north",
+	"east": 	"know2good/blocks/dirt/dirt_alt15/dirt_east",
+	"south": 	"know2good/blocks/dirt/dirt_alt15/dirt_south",
+	"west": 	"know2good/blocks/dirt/dirt_alt15/dirt_west",
+	"particle": "know2good/blocks/dirt/dirt_alt15/dirt"
+    }
+}

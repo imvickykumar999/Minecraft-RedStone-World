@@ -1,0 +1,25 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+            "facing=north":[ { "model": "block/carved_pumpkin_angry", "weight": 40 },
+								{ "model": "block/carved_pumpkin_happy", "weight": 40 },
+								{ "model": "block/carved_pumpkin_silly", "weight": 40 },
+								{ "model": "block/carved_pumpkin_worried", "weight": 40 },
+								{ "model": "block/carved_pumpkin_shocked", "weight": 40 }],
+			"facing=east":[ { "model": "block/carved_pumpkin_angry", "y": 90, "weight": 40 },
+								{ "model": "block/carved_pumpkin_happy", "y": 90, "weight": 40 },
+								{ "model": "block/carved_pumpkin_silly", "y": 90, "weight": 40 },
+								{ "model": "block/carved_pumpkin_worried", "y": 90, "weight": 40 },
+								{ "model": "block/carved_pumpkin_shocked", "y": 90, "weight": 40 }],
+			"facing=south":[ { "model": "block/carved_pumpkin_angry", "y": 180, "weight": 40 },
+								{ "model": "block/carved_pumpkin_happy", "y": 180, "weight": 40 },
+								{ "model": "block/carved_pumpkin_silly", "y": 180, "weight": 40 },
+								{ "model": "block/carved_pumpkin_worried", "y": 180, "weight": 40 },
+								{ "model": "block/carved_pumpkin_shocked", "y": 180, "weight": 40 }],
+			"facing=west":[ { "model": "block/carved_pumpkin_angry", "y": 270, "weight": 40 },
+								{ "model": "block/carved_pumpkin_happy", "y": 270, "weight": 40 },
+								{ "model": "block/carved_pumpkin_silly", "y": 270, "weight": 40 },
+								{ "model": "block/carved_pumpkin_worried", "y": 270, "weight": 40 },
+								{ "model": "block/carved_pumpkin_shocked", "y": 270, "weight": 40 }]
+    }
+}

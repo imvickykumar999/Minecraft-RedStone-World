@@ -1,0 +1,14 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/plant/unpotted/cactus/cactus", "weight": 59 },
+            { "model": "block/plant/unpotted/cactus/cactus", "y": 90, "weight": 62 },
+            { "model": "block/plant/unpotted/cactus/cactus", "y": 180, "weight": 60 },
+			{ "model": "block/plant/unpotted/cactus/cactus", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

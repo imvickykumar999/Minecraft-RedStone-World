@@ -1,0 +1,14 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http:/www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/rail/powered/on/raised/sw/0",
+
+"textures": {
+	"rail": 	"know2good/blocks/rail/activator/on/17/rail",
+	"tie": 		"know2good/blocks/rail/activator/on/17/tie",
+	"redstone": "know2good/blocks/rail/activator/on/17/redstone",
+	"golden": 	"know2good/blocks/rail/powered/17/rail",
+	"particle":	"know2good/blocks/rail/normal/17/rail"
+    }
+}

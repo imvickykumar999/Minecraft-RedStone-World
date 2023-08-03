@@ -1,0 +1,234 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"No UV-bleed, OK coordinate, OK texture, OK cullface",
+
+"textures": {
+    "block": 	"block/nether_wart_stage0",
+    "particle": "block/nether_wart_stage0"
+
+},
+"elements":[
+	{
+		"__comment":"Wart north bottom left to top right",
+		"from": [6.98,0,2.5],
+		"to": [10.02,5,3.5],
+		"faces": {
+			"up":{"uv":		[3.01,11.01,5.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[3.01,11.01,5.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[5.99,11.01,3.01,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[5.01,11.01,5.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[3.01,11.01,3.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart north bottom left to top right",
+		"from": [7.98,0,2],
+		"to": [9.02,2,4],
+		"faces": {
+			"north":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart north bottom left to top right",
+		"from": [6,2,2.5],
+		"to": [11,4,3.5],
+		"faces": {
+			"down":{"uv":	[2.01,13.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[2.01,12.01,6.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[2.01,12.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[6.99,12.01,2.01,13.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[6.01,12.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[2.01,12.01,2.99,13.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart north bottom left to top right",
+		"from": [6.98,2,2],
+		"to": [10.02,4,4],
+		"faces": {
+			"down":{"uv":	[3.01,13.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[3.01,12.01,5.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":180},
+			"north":{"uv":	[3.01,12.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[5.99,12.01,3.01,13.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[5.01,12.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[3.01,12.01,3.99,13.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart east bottom left to top right",
+		"from": [12.5,0,6.98],
+		"to": [13.5,6,10.02],
+		"faces": {
+			"up":{"uv":		[10.01,10.01,12.99,10.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[12.01,10.01,12.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[10.01,10.01,10.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[12.99,10.01,10.01,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[10.01,10.01,12.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart east bottom left to top right",
+		"from": [12,0,7.98],
+		"to": [14,3,9.02],
+		"faces": {
+			"north":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart east bottom left to top right",
+		"from": [12.5,3,6],
+		"to": [13.5,5,11],
+		"faces": {
+			"down":{"uv":	[9.01,12.01,13.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"up":{"uv":		[9.01,11.01,13.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[13.01,11.01,13.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[9.01,11.01,9.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[13.99,11.01,9.01,12.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[9.01,11.01,13.99,12.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart east bottom left to top right",
+		"from": [12,3,6.98],
+		"to": [14,5,10.02],
+		"faces": {
+			"down":{"uv":	[10.01,12.01,12.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"up":{"uv":		[10.01,11.01,12.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[12.01,11.01,12.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[10.01,11.01,10.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[12.99,11.01,10.01,12.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[10.01,11.01,12.99,12.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart east bottom left to top right",
+		"from": [11.75,4,7.98],
+		"to": [14.25,5,9.02],
+		"faces": {
+			"down":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart south bottom left to top right",
+		"from": [5.98,0,12.5],
+		"to": [9.02,5,13.5],
+		"faces": {
+			"up":{"uv":		[3.01,11.01,5.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[5.99,11.01,3.01,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[3.01,11.01,5.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[3.01,11.01,3.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[5.01,11.01,5.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart south bottom left to top right",
+		"from": [6.98,0,12],
+		"to": [8.02,2,14],
+		"faces": {
+			"north":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[4.01,14.01,4.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart south bottom left to top right",
+		"from": [5,2,12.5],
+		"to": [10,4,13.5],
+		"faces": {
+			"down":{"uv":	[2.01,13.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[2.01,12.01,6.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[6.99,12.01,2.01,13.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[2.01,12.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[2.01,12.01,2.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[6.01,12.01,6.99,13.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart south bottom left to top right",
+		"from": [5.98,2,12],
+		"to": [9.02,4,14],
+		"faces": {
+			"down":{"uv":	[3.01,13.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"up":{"uv":		[3.01,12.01,5.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"north":{"uv":	[5.99,12.01,3.01,13.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[3.01,12.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[3.01,12.01,3.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[5.01,12.01,5.99,13.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart west bottom left to top right",
+		"from": [2.5,0,5.98],
+		"to": [3.5,6,9.02],
+		"faces": {
+			"up":{"uv":		[10.01,10.01,12.99,10.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[10.01,10.01,10.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[12.01,10.01,12.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[10.01,10.01,12.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[12.99,10.01,10.01,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart west bottom left to top right",
+		"from": [2,0,6.98],
+		"to": [4,3,8.02],
+		"faces": {
+			"north":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[11.01,12.01,11.99,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart west bottom left to top right",
+		"from": [2.5,3,5],
+		"to": [3.5,5,10],
+		"faces": {
+			"down":{"uv":	[9.01,12.01,13.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[9.01,11.01,13.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[9.01,11.01,9.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[13.01,11.01,13.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[9.01,11.01,13.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[13.99,11.01,9.01,12.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart west bottom left to top right",
+		"from": [2,3,5.98],
+		"to": [4,5,9.02],
+		"faces": {
+			"down":{"uv":	[10.01,12.01,12.99,12.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[10.01,11.01,12.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[10.01,11.01,10.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[12.01,11.01,12.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[10.01,11.01,12.99,12.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[12.99,11.01,10.01,12.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Wart west bottom left to top right",
+		"from": [1.75,4,6.98],
+		"to": [4.25,5,8.02],
+		"faces": {
+			"down":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good","rotation":270},
+			"north":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[11.01,11.01,11.99,11.99],"texture":"#block","cullface":"Know2Good"}
+            }
+        }
+    ]
+}

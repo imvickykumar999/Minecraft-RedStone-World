@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/block/lime/0", "weight": 8 },
+            { "model": "block/wool/block/lime/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/lime/1", "weight": 8 },
+            { "model": "block/wool/block/lime/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/lime/2", "weight": 8 },
+            { "model": "block/wool/block/lime/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/lime/3", "weight": 8 },
+            { "model": "block/wool/block/lime/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/lime/4", "weight": 8 },
+            { "model": "block/wool/block/lime/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/lime/5", "weight": 8 },
+            { "model": "block/wool/block/lime/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/block/lime/6", "weight": 8 },
+            { "model": "block/wool/block/lime/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/7", "weight": 8 },
+            { "model": "block/wool/block/lime/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/8", "weight": 8 },
+            { "model": "block/wool/block/lime/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/9", "weight": 8 },
+            { "model": "block/wool/block/lime/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/10", "weight": 8 },
+            { "model": "block/wool/block/lime/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/11", "weight": 8 },
+            { "model": "block/wool/block/lime/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/12", "weight": 8 },
+            { "model": "block/wool/block/lime/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/lime/13", "weight": 8 },
+			{ "model": "block/wool/block/lime/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

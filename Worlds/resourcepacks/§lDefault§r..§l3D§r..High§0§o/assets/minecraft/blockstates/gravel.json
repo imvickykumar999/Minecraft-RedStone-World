@@ -1,0 +1,79 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "": [
+            { "model": "block/gravel/block/0", "weight": 59 },
+            { "model": "block/gravel/block/0", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/0", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/0", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/1", "weight": 59 },
+            { "model": "block/gravel/block/1", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/1", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/1", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/2", "weight": 59 },
+            { "model": "block/gravel/block/2", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/2", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/2", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/3", "weight": 59 },
+            { "model": "block/gravel/block/3", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/3", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/3", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/4", "weight": 59 },
+            { "model": "block/gravel/block/4", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/4", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/4", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/5", "weight": 59 },
+            { "model": "block/gravel/block/5", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/5", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/5", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/6", "weight": 59 },
+            { "model": "block/gravel/block/6", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/6", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/6", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/7", "weight": 59 },
+            { "model": "block/gravel/block/7", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/7", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/7", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/8", "weight": 59 },
+            { "model": "block/gravel/block/8", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/8", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/8", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/9", "weight": 59 },
+            { "model": "block/gravel/block/9", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/9", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/9", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/10", "weight": 59 },
+            { "model": "block/gravel/block/10", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/10", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/10", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/11", "weight": 59 },
+            { "model": "block/gravel/block/11", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/11", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/11", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/12", "weight": 59 },
+            { "model": "block/gravel/block/12", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/12", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/12", "y": 270, "weight": 61 },
+			
+			{ "model": "block/gravel/block/13", "weight": 59 },
+            { "model": "block/gravel/block/13", "y": 90, "weight": 62 },
+            { "model": "block/gravel/block/13", "y": 180, "weight": 60 },
+			{ "model": "block/gravel/block/13", "y": 270, "weight": 61 }
+        ]
+    }
+}
+

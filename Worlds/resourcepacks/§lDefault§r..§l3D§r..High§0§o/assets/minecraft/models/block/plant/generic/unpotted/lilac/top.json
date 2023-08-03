@@ -1,0 +1,17 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"ambientocclusion": false,
+
+"elements":[
+	{
+		"__comment": "Dummy",
+		"from": [0,0,0],
+		"to": [0,0,0],
+		"faces": {
+			"down":{"uv":	[0,0,0,0],"texture":"#particle","cullface":"Know2Good"}
+            }
+        }
+    ]
+}

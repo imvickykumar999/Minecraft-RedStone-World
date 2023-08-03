@@ -1,0 +1,30 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+            "type=bottom": 	[ { "model": "block/stone/cobblestone/slab/bottom/0", "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/bottom/0", "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/bottom/0", "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/bottom/0", "y": 270, "weight": 1 }],
+			"type=top": 	[ { "model": "block/stone/cobblestone/slab/top/0", "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/top/0", "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/top/0", "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/slab/top/0", "y": 270, "weight": 1 }],
+			"type=double": 	[ { "model": "block/stone/cobblestone/block/0", "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "y": 270, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 90, "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 90, "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 90, "y": 270, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 180, "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 180, "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 180, "y": 270, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 270, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 270, "y": 90, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 270, "y": 180, "weight": 1 },
+								{ "model": "block/stone/cobblestone/block/0", "x": 270, "y": 270, "weight": 1 }]
+    }
+}
+

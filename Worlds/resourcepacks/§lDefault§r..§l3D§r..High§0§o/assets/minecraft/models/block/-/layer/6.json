@@ -1,0 +1,22 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/block_display",
+
+"elements": [ 
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,12,16],
+		"faces": {
+			"down":		{"texture":"#main","cullface":"down"},
+			"up":		{"texture":"#main","cullface":"Know2Good"},
+			"north":{"uv":	[0,0,16,12],"texture":"#north","cullface":"north"},
+			"south":{"uv":	[0,0,16,12],"texture":"#south","cullface":"south"},
+			"west":{"uv":	[0,0,16,12],"texture":"#west","cullface":"west"},
+			"east":{"uv":	[0,0,16,12],"texture":"#east","cullface":"east"}
+            }
+        }
+    ]
+}

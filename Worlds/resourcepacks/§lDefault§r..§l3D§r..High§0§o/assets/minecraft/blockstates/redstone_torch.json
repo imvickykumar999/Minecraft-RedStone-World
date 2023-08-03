@@ -1,0 +1,13 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+            "lit=true":[ { "model": "block/wood/torch/redstone/on/floor", "weight": 1 },
+							{ "model": "block/wood/torch/redstone/on/floor", "y": 90, "weight": 1 },
+							{ "model": "block/wood/torch/redstone/on/floor", "y": 180, "weight": 1 },
+							{ "model": "block/wood/torch/redstone/on/floor", "y": 270, "weight": 1 }],
+			"lit=false":[ { "model": "block/wood/torch/redstone/off/floor", "weight": 1 },
+							{ "model": "block/wood/torch/redstone/off/floor", "y": 90, "weight": 1 },
+							{ "model": "block/wood/torch/redstone/off/floor", "y": 180, "weight": 1 },
+							{ "model": "block/wood/torch/redstone/off/floor", "y": 270, "weight": 1 }]
+    }
+}

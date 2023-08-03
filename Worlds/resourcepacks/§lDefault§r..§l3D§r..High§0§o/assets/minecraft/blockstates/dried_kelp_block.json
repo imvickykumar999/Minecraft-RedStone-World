@@ -1,0 +1,22 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/plant/kelp/dried/block/0", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/1", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/2", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/3", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/4", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/5", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/6", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/7", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/8", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/9", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/10", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/11", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/12", "weight": 1 },
+			{ "model": "block/plant/kelp/dried/block/13", "weight": 1 }
+        ]
+    }
+}
+

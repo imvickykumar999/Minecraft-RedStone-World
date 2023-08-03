@@ -1,0 +1,55 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/stone/bricks/slab/bottom/0", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/1", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/2", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/3", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/4", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/5", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/6", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/7", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/8", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/9", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/10", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/11", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/12", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/bottom/13", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/stone/bricks/slab/top/0", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/1", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/2", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/3", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/4", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/5", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/6", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/7", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/8", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/9", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/10", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/11", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/12", "weight": 1 },
+			{ "model": "block/stone/bricks/slab/top/13", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/stone/bricks/block/0", "weight": 1 },
+			{ "model": "block/stone/bricks/block/1", "weight": 1 },
+			{ "model": "block/stone/bricks/block/2", "weight": 1 },
+			{ "model": "block/stone/bricks/block/3", "weight": 1 },
+			{ "model": "block/stone/bricks/block/4", "weight": 1 },
+			{ "model": "block/stone/bricks/block/5", "weight": 1 },
+			{ "model": "block/stone/bricks/block/6", "weight": 1 },
+			{ "model": "block/stone/bricks/block/7", "weight": 1 },
+			{ "model": "block/stone/bricks/block/8", "weight": 1 },
+			{ "model": "block/stone/bricks/block/9", "weight": 1 },
+			{ "model": "block/stone/bricks/block/10", "weight": 1 },
+			{ "model": "block/stone/bricks/block/11", "weight": 1 },
+			{ "model": "block/stone/bricks/block/12", "weight": 1 },
+			{ "model": "block/stone/bricks/block/13", "weight": 1 }
+        ]
+    }
+}

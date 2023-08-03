@@ -1,0 +1,845 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=east,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/birch/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/birch/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/birch/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/birch/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/birch/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/birch/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/birch/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/birch/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/birch/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/birch/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/birch/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/birch/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/birch/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/birch/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/birch/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/birch/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/birch/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/birch/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/birch/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/birch/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/birch/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/birch/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/birch/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/birch/15", "weight": 1 }
+		]
+    }
+}

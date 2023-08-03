@@ -1,0 +1,14 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+            "half=lower":[ { "model": "block/double_syringa_bottom", "weight": 40 },
+								{ "model": "block/double_syringa_bottom", "y": 90, "weight": 40 },
+								{ "model": "block/double_syringa_bottom", "y": 180, "weight": 40 },
+								{ "model": "block/double_syringa_bottom", "y": 270, "weight": 40 }],
+			"half=upper":[ { "model": "block/double_syringa_top", "weight": 40 },
+								{ "model": "block/double_syringa_top", "y": 90, "weight": 40 },
+								{ "model": "block/double_syringa_top", "y": 180, "weight": 40 },
+								{ "model": "block/double_syringa_top", "y": 270, "weight": 40 }]
+    }
+}
+

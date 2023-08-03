@@ -1,0 +1,31 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+		 { "model": "block/melon", "weight": 20 },
+            { "model": "block/melon", "y": 90, "weight": 20 },
+            { "model": "block/melon", "y": 180, "weight": 20 },
+            { "model": "block/melon", "y": 270, "weight": 20 },
+		{ "model": "block/melon_angry", "weight": 2 },
+            { "model": "block/melon_angry", "y": 90, "weight": 2 },
+            { "model": "block/melon_angry", "y": 180, "weight": 2 },
+            { "model": "block/melon_angry", "y": 270, "weight": 2 },
+		{ "model": "block/melon_happy", "weight": 2 },
+            { "model": "block/melon_happy", "y": 90, "weight": 2 },
+            { "model": "block/melon_happy", "y": 180, "weight": 2 },
+            { "model": "block/melon_happy", "y": 270, "weight": 2 },
+		{ "model": "block/melon_silly", "weight": 2 },
+            { "model": "block/melon_silly", "y": 90, "weight": 2 },
+            { "model": "block/melon_silly", "y": 180, "weight": 2 },
+            { "model": "block/melon_silly", "y": 270, "weight": 2 },
+		{ "model": "block/melon_worried", "weight": 2 },
+            { "model": "block/melon_worried", "y": 90, "weight": 2 },
+            { "model": "block/melon_worried", "y": 180, "weight": 2 },
+            { "model": "block/melon_worried", "y": 270, "weight": 2 },
+		{ "model": "block/melon_shocked", "weight": 2 },
+            { "model": "block/melon_shocked", "y": 90, "weight": 2 },
+            { "model": "block/melon_shocked", "y": 180, "weight": 2 },
+            { "model": "block/melon_shocked", "y": 270, "weight": 2 }
+        ]
+    }
+}

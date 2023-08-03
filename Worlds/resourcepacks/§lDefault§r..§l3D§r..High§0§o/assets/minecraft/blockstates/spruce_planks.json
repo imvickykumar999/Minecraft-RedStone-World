@@ -1,0 +1,27 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/wood/planks/block/spruce/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/spruce/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/spruce/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/spruce/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/spruce/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/spruce/15", "weight": 1 }
+        ]
+    }
+}

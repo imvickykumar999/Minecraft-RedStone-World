@@ -1,0 +1,25 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+            "facing=north":[ { "model": "block/jack_o_lantern_angry", "weight": 40 },
+								{ "model": "block/jack_o_lantern_happy", "weight": 40 },
+								{ "model": "block/jack_o_lantern_silly", "weight": 40 },
+								{ "model": "block/jack_o_lantern_worried", "weight": 40 },
+								{ "model": "block/jack_o_lantern_shocked", "weight": 40 }],
+			"facing=east":[ { "model": "block/jack_o_lantern_angry", "y": 90, "weight": 40 },
+								{ "model": "block/jack_o_lantern_happy", "y": 90, "weight": 40 },
+								{ "model": "block/jack_o_lantern_silly", "y": 90, "weight": 40 },
+								{ "model": "block/jack_o_lantern_worried", "y": 90, "weight": 40 },
+								{ "model": "block/jack_o_lantern_shocked", "y": 90, "weight": 40 }],
+			"facing=south":[ { "model": "block/jack_o_lantern_angry", "y": 180, "weight": 40 },
+								{ "model": "block/jack_o_lantern_happy", "y": 180, "weight": 40 },
+								{ "model": "block/jack_o_lantern_silly", "y": 180, "weight": 40 },
+								{ "model": "block/jack_o_lantern_worried", "y": 180, "weight": 40 },
+								{ "model": "block/jack_o_lantern_shocked", "y": 180, "weight": 40 }],
+			"facing=west":[ { "model": "block/jack_o_lantern_angry", "y": 270, "weight": 40 },
+								{ "model": "block/jack_o_lantern_happy", "y": 270, "weight": 40 },
+								{ "model": "block/jack_o_lantern_silly", "y": 270, "weight": 40 },
+								{ "model": "block/jack_o_lantern_worried", "y": 270, "weight": 40 },
+								{ "model": "block/jack_o_lantern_shocked", "y": 270, "weight": 40 }]
+    }
+}

@@ -1,0 +1,845 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=east,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/warped/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/warped/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/warped/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/warped/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/warped/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/warped/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/warped/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/warped/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/warped/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/warped/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/warped/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/warped/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/warped/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/warped/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/warped/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/warped/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/warped/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/warped/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/warped/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/warped/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/warped/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/warped/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/warped/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/warped/15", "weight": 1 }
+		]
+    }
+}

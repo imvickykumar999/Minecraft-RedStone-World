@@ -1,0 +1,1683 @@
+{
+    "variants": {
+        "layers=1":[{ "model": "block/snow/layer/1/0", "weight": 6 },
+							{ "model": "block/snow/layer/1/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/1", "weight": 6 },
+							{ "model": "block/snow/layer/1/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/2", "weight": 6 },
+							{ "model": "block/snow/layer/1/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/3", "weight": 6 },
+							{ "model": "block/snow/layer/1/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/4", "weight": 6 },
+							{ "model": "block/snow/layer/1/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/5", "weight": 6 },
+							{ "model": "block/snow/layer/1/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/6", "weight": 6 },
+							{ "model": "block/snow/layer/1/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/7", "weight": 6 },
+							{ "model": "block/snow/layer/1/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/8", "weight": 6 },
+							{ "model": "block/snow/layer/1/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/9", "weight": 6 },
+							{ "model": "block/snow/layer/1/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/10", "weight": 6 },
+							{ "model": "block/snow/layer/1/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/11", "weight": 6 },
+							{ "model": "block/snow/layer/1/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/12", "weight": 6 },
+							{ "model": "block/snow/layer/1/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/13", "weight": 6 },
+							{ "model": "block/snow/layer/1/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/1/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/1/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/1/14", "weight": 1 },
+							{ "model": "block/snow/layer/1/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/15", "weight": 1 },
+							{ "model": "block/snow/layer/1/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/16", "weight": 1 },
+							{ "model": "block/snow/layer/1/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/17", "weight": 1 },
+							{ "model": "block/snow/layer/1/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/18", "weight": 1 },
+							{ "model": "block/snow/layer/1/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/19", "weight": 1 },
+							{ "model": "block/snow/layer/1/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/20", "weight": 1 },
+							{ "model": "block/snow/layer/1/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/21", "weight": 1 },
+							{ "model": "block/snow/layer/1/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/22", "weight": 1 },
+							{ "model": "block/snow/layer/1/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/23", "weight": 1 },
+							{ "model": "block/snow/layer/1/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/24", "weight": 1 },
+							{ "model": "block/snow/layer/1/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/25", "weight": 1 },
+							{ "model": "block/snow/layer/1/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/26", "weight": 1 },
+							{ "model": "block/snow/layer/1/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/27", "weight": 1 },
+							{ "model": "block/snow/layer/1/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/28", "weight": 1 },
+							{ "model": "block/snow/layer/1/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/29", "weight": 1 },
+							{ "model": "block/snow/layer/1/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/30", "weight": 1 },
+							{ "model": "block/snow/layer/1/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/31", "weight": 1 },
+							{ "model": "block/snow/layer/1/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/32", "weight": 1 },
+							{ "model": "block/snow/layer/1/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/33", "weight": 1 },
+							{ "model": "block/snow/layer/1/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/34", "weight": 1 },
+							{ "model": "block/snow/layer/1/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/35", "weight": 1 },
+							{ "model": "block/snow/layer/1/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/36", "weight": 1 },
+							{ "model": "block/snow/layer/1/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/37", "weight": 1 },
+							{ "model": "block/snow/layer/1/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/38", "weight": 1 },
+							{ "model": "block/snow/layer/1/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/39", "weight": 1 },
+							{ "model": "block/snow/layer/1/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/40", "weight": 1 },
+							{ "model": "block/snow/layer/1/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/1/41", "weight": 1 },
+							{ "model": "block/snow/layer/1/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/1/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/1/41", "y": 270, "weight": 1 }],
+						
+        "layers=2":[{ "model": "block/snow/layer/2/0", "weight": 6 },
+							{ "model": "block/snow/layer/2/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/1", "weight": 6 },
+							{ "model": "block/snow/layer/2/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/2", "weight": 6 },
+							{ "model": "block/snow/layer/2/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/3", "weight": 6 },
+							{ "model": "block/snow/layer/2/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/4", "weight": 6 },
+							{ "model": "block/snow/layer/2/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/5", "weight": 6 },
+							{ "model": "block/snow/layer/2/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/6", "weight": 6 },
+							{ "model": "block/snow/layer/2/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/7", "weight": 6 },
+							{ "model": "block/snow/layer/2/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/8", "weight": 6 },
+							{ "model": "block/snow/layer/2/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/9", "weight": 6 },
+							{ "model": "block/snow/layer/2/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/10", "weight": 6 },
+							{ "model": "block/snow/layer/2/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/11", "weight": 6 },
+							{ "model": "block/snow/layer/2/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/12", "weight": 6 },
+							{ "model": "block/snow/layer/2/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/13", "weight": 6 },
+							{ "model": "block/snow/layer/2/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/2/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/2/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/2/14", "weight": 1 },
+							{ "model": "block/snow/layer/2/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/15", "weight": 1 },
+							{ "model": "block/snow/layer/2/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/16", "weight": 1 },
+							{ "model": "block/snow/layer/2/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/17", "weight": 1 },
+							{ "model": "block/snow/layer/2/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/18", "weight": 1 },
+							{ "model": "block/snow/layer/2/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/19", "weight": 1 },
+							{ "model": "block/snow/layer/2/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/20", "weight": 1 },
+							{ "model": "block/snow/layer/2/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/21", "weight": 1 },
+							{ "model": "block/snow/layer/2/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/22", "weight": 1 },
+							{ "model": "block/snow/layer/2/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/23", "weight": 1 },
+							{ "model": "block/snow/layer/2/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/24", "weight": 1 },
+							{ "model": "block/snow/layer/2/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/25", "weight": 1 },
+							{ "model": "block/snow/layer/2/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/26", "weight": 1 },
+							{ "model": "block/snow/layer/2/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/27", "weight": 1 },
+							{ "model": "block/snow/layer/2/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/28", "weight": 1 },
+							{ "model": "block/snow/layer/2/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/29", "weight": 1 },
+							{ "model": "block/snow/layer/2/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/30", "weight": 1 },
+							{ "model": "block/snow/layer/2/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/31", "weight": 1 },
+							{ "model": "block/snow/layer/2/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/32", "weight": 1 },
+							{ "model": "block/snow/layer/2/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/33", "weight": 1 },
+							{ "model": "block/snow/layer/2/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/34", "weight": 1 },
+							{ "model": "block/snow/layer/2/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/35", "weight": 1 },
+							{ "model": "block/snow/layer/2/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/36", "weight": 1 },
+							{ "model": "block/snow/layer/2/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/37", "weight": 1 },
+							{ "model": "block/snow/layer/2/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/38", "weight": 1 },
+							{ "model": "block/snow/layer/2/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/39", "weight": 1 },
+							{ "model": "block/snow/layer/2/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/40", "weight": 1 },
+							{ "model": "block/snow/layer/2/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/2/41", "weight": 1 },
+							{ "model": "block/snow/layer/2/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/2/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/2/41", "y": 270, "weight": 1 }],
+						
+        "layers=3":[{ "model": "block/snow/layer/3/0", "weight": 6 },
+							{ "model": "block/snow/layer/3/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/1", "weight": 6 },
+							{ "model": "block/snow/layer/3/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/2", "weight": 6 },
+							{ "model": "block/snow/layer/3/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/3", "weight": 6 },
+							{ "model": "block/snow/layer/3/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/4", "weight": 6 },
+							{ "model": "block/snow/layer/3/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/5", "weight": 6 },
+							{ "model": "block/snow/layer/3/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/6", "weight": 6 },
+							{ "model": "block/snow/layer/3/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/7", "weight": 6 },
+							{ "model": "block/snow/layer/3/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/8", "weight": 6 },
+							{ "model": "block/snow/layer/3/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/9", "weight": 6 },
+							{ "model": "block/snow/layer/3/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/10", "weight": 6 },
+							{ "model": "block/snow/layer/3/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/11", "weight": 6 },
+							{ "model": "block/snow/layer/3/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/12", "weight": 6 },
+							{ "model": "block/snow/layer/3/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/13", "weight": 6 },
+							{ "model": "block/snow/layer/3/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/3/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/3/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/3/14", "weight": 1 },
+							{ "model": "block/snow/layer/3/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/15", "weight": 1 },
+							{ "model": "block/snow/layer/3/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/16", "weight": 1 },
+							{ "model": "block/snow/layer/3/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/17", "weight": 1 },
+							{ "model": "block/snow/layer/3/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/18", "weight": 1 },
+							{ "model": "block/snow/layer/3/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/19", "weight": 1 },
+							{ "model": "block/snow/layer/3/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/20", "weight": 1 },
+							{ "model": "block/snow/layer/3/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/21", "weight": 1 },
+							{ "model": "block/snow/layer/3/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/22", "weight": 1 },
+							{ "model": "block/snow/layer/3/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/23", "weight": 1 },
+							{ "model": "block/snow/layer/3/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/24", "weight": 1 },
+							{ "model": "block/snow/layer/3/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/25", "weight": 1 },
+							{ "model": "block/snow/layer/3/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/26", "weight": 1 },
+							{ "model": "block/snow/layer/3/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/27", "weight": 1 },
+							{ "model": "block/snow/layer/3/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/28", "weight": 1 },
+							{ "model": "block/snow/layer/3/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/29", "weight": 1 },
+							{ "model": "block/snow/layer/3/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/30", "weight": 1 },
+							{ "model": "block/snow/layer/3/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/31", "weight": 1 },
+							{ "model": "block/snow/layer/3/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/32", "weight": 1 },
+							{ "model": "block/snow/layer/3/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/33", "weight": 1 },
+							{ "model": "block/snow/layer/3/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/34", "weight": 1 },
+							{ "model": "block/snow/layer/3/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/35", "weight": 1 },
+							{ "model": "block/snow/layer/3/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/36", "weight": 1 },
+							{ "model": "block/snow/layer/3/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/37", "weight": 1 },
+							{ "model": "block/snow/layer/3/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/38", "weight": 1 },
+							{ "model": "block/snow/layer/3/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/39", "weight": 1 },
+							{ "model": "block/snow/layer/3/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/40", "weight": 1 },
+							{ "model": "block/snow/layer/3/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/3/41", "weight": 1 },
+							{ "model": "block/snow/layer/3/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/3/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/3/41", "y": 270, "weight": 1 }],
+						
+        "layers=4":[{ "model": "block/snow/layer/4/0", "weight": 6 },
+							{ "model": "block/snow/layer/4/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/1", "weight": 6 },
+							{ "model": "block/snow/layer/4/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/2", "weight": 6 },
+							{ "model": "block/snow/layer/4/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/3", "weight": 6 },
+							{ "model": "block/snow/layer/4/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/4", "weight": 6 },
+							{ "model": "block/snow/layer/4/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/5", "weight": 6 },
+							{ "model": "block/snow/layer/4/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/6", "weight": 6 },
+							{ "model": "block/snow/layer/4/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/7", "weight": 6 },
+							{ "model": "block/snow/layer/4/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/8", "weight": 6 },
+							{ "model": "block/snow/layer/4/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/9", "weight": 6 },
+							{ "model": "block/snow/layer/4/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/10", "weight": 6 },
+							{ "model": "block/snow/layer/4/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/11", "weight": 6 },
+							{ "model": "block/snow/layer/4/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/12", "weight": 6 },
+							{ "model": "block/snow/layer/4/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/13", "weight": 6 },
+							{ "model": "block/snow/layer/4/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/4/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/4/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/4/14", "weight": 1 },
+							{ "model": "block/snow/layer/4/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/15", "weight": 1 },
+							{ "model": "block/snow/layer/4/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/16", "weight": 1 },
+							{ "model": "block/snow/layer/4/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/17", "weight": 1 },
+							{ "model": "block/snow/layer/4/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/18", "weight": 1 },
+							{ "model": "block/snow/layer/4/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/19", "weight": 1 },
+							{ "model": "block/snow/layer/4/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/20", "weight": 1 },
+							{ "model": "block/snow/layer/4/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/21", "weight": 1 },
+							{ "model": "block/snow/layer/4/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/22", "weight": 1 },
+							{ "model": "block/snow/layer/4/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/23", "weight": 1 },
+							{ "model": "block/snow/layer/4/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/24", "weight": 1 },
+							{ "model": "block/snow/layer/4/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/25", "weight": 1 },
+							{ "model": "block/snow/layer/4/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/26", "weight": 1 },
+							{ "model": "block/snow/layer/4/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/27", "weight": 1 },
+							{ "model": "block/snow/layer/4/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/28", "weight": 1 },
+							{ "model": "block/snow/layer/4/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/29", "weight": 1 },
+							{ "model": "block/snow/layer/4/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/30", "weight": 1 },
+							{ "model": "block/snow/layer/4/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/31", "weight": 1 },
+							{ "model": "block/snow/layer/4/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/32", "weight": 1 },
+							{ "model": "block/snow/layer/4/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/33", "weight": 1 },
+							{ "model": "block/snow/layer/4/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/34", "weight": 1 },
+							{ "model": "block/snow/layer/4/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/35", "weight": 1 },
+							{ "model": "block/snow/layer/4/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/36", "weight": 1 },
+							{ "model": "block/snow/layer/4/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/37", "weight": 1 },
+							{ "model": "block/snow/layer/4/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/38", "weight": 1 },
+							{ "model": "block/snow/layer/4/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/39", "weight": 1 },
+							{ "model": "block/snow/layer/4/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/40", "weight": 1 },
+							{ "model": "block/snow/layer/4/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/4/41", "weight": 1 },
+							{ "model": "block/snow/layer/4/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/4/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/4/41", "y": 270, "weight": 1 }],
+						
+        "layers=5":[{ "model": "block/snow/layer/5/0", "weight": 6 },
+							{ "model": "block/snow/layer/5/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/1", "weight": 6 },
+							{ "model": "block/snow/layer/5/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/2", "weight": 6 },
+							{ "model": "block/snow/layer/5/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/3", "weight": 6 },
+							{ "model": "block/snow/layer/5/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/4", "weight": 6 },
+							{ "model": "block/snow/layer/5/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/5", "weight": 6 },
+							{ "model": "block/snow/layer/5/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/6", "weight": 6 },
+							{ "model": "block/snow/layer/5/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/7", "weight": 6 },
+							{ "model": "block/snow/layer/5/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/8", "weight": 6 },
+							{ "model": "block/snow/layer/5/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/9", "weight": 6 },
+							{ "model": "block/snow/layer/5/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/10", "weight": 6 },
+							{ "model": "block/snow/layer/5/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/11", "weight": 6 },
+							{ "model": "block/snow/layer/5/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/12", "weight": 6 },
+							{ "model": "block/snow/layer/5/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/13", "weight": 6 },
+							{ "model": "block/snow/layer/5/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/5/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/5/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/5/14", "weight": 1 },
+							{ "model": "block/snow/layer/5/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/15", "weight": 1 },
+							{ "model": "block/snow/layer/5/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/16", "weight": 1 },
+							{ "model": "block/snow/layer/5/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/17", "weight": 1 },
+							{ "model": "block/snow/layer/5/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/18", "weight": 1 },
+							{ "model": "block/snow/layer/5/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/19", "weight": 1 },
+							{ "model": "block/snow/layer/5/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/20", "weight": 1 },
+							{ "model": "block/snow/layer/5/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/21", "weight": 1 },
+							{ "model": "block/snow/layer/5/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/22", "weight": 1 },
+							{ "model": "block/snow/layer/5/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/23", "weight": 1 },
+							{ "model": "block/snow/layer/5/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/24", "weight": 1 },
+							{ "model": "block/snow/layer/5/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/25", "weight": 1 },
+							{ "model": "block/snow/layer/5/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/26", "weight": 1 },
+							{ "model": "block/snow/layer/5/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/27", "weight": 1 },
+							{ "model": "block/snow/layer/5/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/28", "weight": 1 },
+							{ "model": "block/snow/layer/5/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/29", "weight": 1 },
+							{ "model": "block/snow/layer/5/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/30", "weight": 1 },
+							{ "model": "block/snow/layer/5/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/31", "weight": 1 },
+							{ "model": "block/snow/layer/5/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/32", "weight": 1 },
+							{ "model": "block/snow/layer/5/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/33", "weight": 1 },
+							{ "model": "block/snow/layer/5/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/34", "weight": 1 },
+							{ "model": "block/snow/layer/5/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/35", "weight": 1 },
+							{ "model": "block/snow/layer/5/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/36", "weight": 1 },
+							{ "model": "block/snow/layer/5/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/37", "weight": 1 },
+							{ "model": "block/snow/layer/5/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/38", "weight": 1 },
+							{ "model": "block/snow/layer/5/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/39", "weight": 1 },
+							{ "model": "block/snow/layer/5/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/40", "weight": 1 },
+							{ "model": "block/snow/layer/5/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/5/41", "weight": 1 },
+							{ "model": "block/snow/layer/5/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/5/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/5/41", "y": 270, "weight": 1 }],
+						
+        "layers=6":[{ "model": "block/snow/layer/6/0", "weight": 6 },
+							{ "model": "block/snow/layer/6/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/1", "weight": 6 },
+							{ "model": "block/snow/layer/6/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/2", "weight": 6 },
+							{ "model": "block/snow/layer/6/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/3", "weight": 6 },
+							{ "model": "block/snow/layer/6/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/4", "weight": 6 },
+							{ "model": "block/snow/layer/6/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/5", "weight": 6 },
+							{ "model": "block/snow/layer/6/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/6", "weight": 6 },
+							{ "model": "block/snow/layer/6/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/7", "weight": 6 },
+							{ "model": "block/snow/layer/6/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/8", "weight": 6 },
+							{ "model": "block/snow/layer/6/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/9", "weight": 6 },
+							{ "model": "block/snow/layer/6/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/10", "weight": 6 },
+							{ "model": "block/snow/layer/6/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/11", "weight": 6 },
+							{ "model": "block/snow/layer/6/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/12", "weight": 6 },
+							{ "model": "block/snow/layer/6/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/13", "weight": 6 },
+							{ "model": "block/snow/layer/6/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/6/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/6/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/6/14", "weight": 1 },
+							{ "model": "block/snow/layer/6/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/15", "weight": 1 },
+							{ "model": "block/snow/layer/6/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/16", "weight": 1 },
+							{ "model": "block/snow/layer/6/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/17", "weight": 1 },
+							{ "model": "block/snow/layer/6/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/18", "weight": 1 },
+							{ "model": "block/snow/layer/6/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/19", "weight": 1 },
+							{ "model": "block/snow/layer/6/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/20", "weight": 1 },
+							{ "model": "block/snow/layer/6/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/21", "weight": 1 },
+							{ "model": "block/snow/layer/6/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/22", "weight": 1 },
+							{ "model": "block/snow/layer/6/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/23", "weight": 1 },
+							{ "model": "block/snow/layer/6/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/24", "weight": 1 },
+							{ "model": "block/snow/layer/6/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/25", "weight": 1 },
+							{ "model": "block/snow/layer/6/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/26", "weight": 1 },
+							{ "model": "block/snow/layer/6/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/27", "weight": 1 },
+							{ "model": "block/snow/layer/6/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/28", "weight": 1 },
+							{ "model": "block/snow/layer/6/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/29", "weight": 1 },
+							{ "model": "block/snow/layer/6/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/30", "weight": 1 },
+							{ "model": "block/snow/layer/6/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/31", "weight": 1 },
+							{ "model": "block/snow/layer/6/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/32", "weight": 1 },
+							{ "model": "block/snow/layer/6/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/33", "weight": 1 },
+							{ "model": "block/snow/layer/6/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/34", "weight": 1 },
+							{ "model": "block/snow/layer/6/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/35", "weight": 1 },
+							{ "model": "block/snow/layer/6/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/36", "weight": 1 },
+							{ "model": "block/snow/layer/6/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/37", "weight": 1 },
+							{ "model": "block/snow/layer/6/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/38", "weight": 1 },
+							{ "model": "block/snow/layer/6/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/39", "weight": 1 },
+							{ "model": "block/snow/layer/6/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/40", "weight": 1 },
+							{ "model": "block/snow/layer/6/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/6/41", "weight": 1 },
+							{ "model": "block/snow/layer/6/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/6/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/6/41", "y": 270, "weight": 1 }],
+						
+        "layers=7":[{ "model": "block/snow/layer/7/0", "weight": 6 },
+							{ "model": "block/snow/layer/7/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/1", "weight": 6 },
+							{ "model": "block/snow/layer/7/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/2", "weight": 6 },
+							{ "model": "block/snow/layer/7/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/3", "weight": 6 },
+							{ "model": "block/snow/layer/7/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/4", "weight": 6 },
+							{ "model": "block/snow/layer/7/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/5", "weight": 6 },
+							{ "model": "block/snow/layer/7/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/6", "weight": 6 },
+							{ "model": "block/snow/layer/7/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/7", "weight": 6 },
+							{ "model": "block/snow/layer/7/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/8", "weight": 6 },
+							{ "model": "block/snow/layer/7/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/9", "weight": 6 },
+							{ "model": "block/snow/layer/7/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/10", "weight": 6 },
+							{ "model": "block/snow/layer/7/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/11", "weight": 6 },
+							{ "model": "block/snow/layer/7/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/12", "weight": 6 },
+							{ "model": "block/snow/layer/7/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/13", "weight": 6 },
+							{ "model": "block/snow/layer/7/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/layer/7/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/layer/7/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/layer/7/14", "weight": 1 },
+							{ "model": "block/snow/layer/7/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/15", "weight": 1 },
+							{ "model": "block/snow/layer/7/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/16", "weight": 1 },
+							{ "model": "block/snow/layer/7/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/17", "weight": 1 },
+							{ "model": "block/snow/layer/7/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/18", "weight": 1 },
+							{ "model": "block/snow/layer/7/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/19", "weight": 1 },
+							{ "model": "block/snow/layer/7/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/20", "weight": 1 },
+							{ "model": "block/snow/layer/7/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/21", "weight": 1 },
+							{ "model": "block/snow/layer/7/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/22", "weight": 1 },
+							{ "model": "block/snow/layer/7/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/23", "weight": 1 },
+							{ "model": "block/snow/layer/7/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/24", "weight": 1 },
+							{ "model": "block/snow/layer/7/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/25", "weight": 1 },
+							{ "model": "block/snow/layer/7/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/26", "weight": 1 },
+							{ "model": "block/snow/layer/7/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/27", "weight": 1 },
+							{ "model": "block/snow/layer/7/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/28", "weight": 1 },
+							{ "model": "block/snow/layer/7/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/29", "weight": 1 },
+							{ "model": "block/snow/layer/7/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/30", "weight": 1 },
+							{ "model": "block/snow/layer/7/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/31", "weight": 1 },
+							{ "model": "block/snow/layer/7/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/32", "weight": 1 },
+							{ "model": "block/snow/layer/7/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/33", "weight": 1 },
+							{ "model": "block/snow/layer/7/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/34", "weight": 1 },
+							{ "model": "block/snow/layer/7/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/35", "weight": 1 },
+							{ "model": "block/snow/layer/7/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/36", "weight": 1 },
+							{ "model": "block/snow/layer/7/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/37", "weight": 1 },
+							{ "model": "block/snow/layer/7/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/38", "weight": 1 },
+							{ "model": "block/snow/layer/7/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/39", "weight": 1 },
+							{ "model": "block/snow/layer/7/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/40", "weight": 1 },
+							{ "model": "block/snow/layer/7/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/layer/7/41", "weight": 1 },
+							{ "model": "block/snow/layer/7/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/layer/7/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/layer/7/41", "y": 270, "weight": 1 }],
+						
+        "layers=8":[{ "model": "block/snow/block/0", "weight": 6 },
+							{ "model": "block/snow/block/0", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/0", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/0", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/1", "weight": 6 },
+							{ "model": "block/snow/block/1", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/1", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/1", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/2", "weight": 6 },
+							{ "model": "block/snow/block/2", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/2", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/2", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/3", "weight": 6 },
+							{ "model": "block/snow/block/3", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/3", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/3", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/4", "weight": 6 },
+							{ "model": "block/snow/block/4", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/4", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/4", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/5", "weight": 6 },
+							{ "model": "block/snow/block/5", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/5", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/5", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/6", "weight": 6 },
+							{ "model": "block/snow/block/6", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/6", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/6", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/7", "weight": 6 },
+							{ "model": "block/snow/block/7", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/7", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/7", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/8", "weight": 6 },
+							{ "model": "block/snow/block/8", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/8", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/8", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/9", "weight": 6 },
+							{ "model": "block/snow/block/9", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/9", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/9", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/10", "weight": 6 },
+							{ "model": "block/snow/block/10", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/10", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/10", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/11", "weight": 6 },
+							{ "model": "block/snow/block/11", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/11", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/11", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/12", "weight": 6 },
+							{ "model": "block/snow/block/12", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/12", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/12", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/13", "weight": 6 },
+							{ "model": "block/snow/block/13", "y": 90, "weight": 6 },
+							{ "model": "block/snow/block/13", "y": 180, "weight": 6 },
+							{ "model": "block/snow/block/13", "y": 270, "weight": 6 },
+							
+							{ "model": "block/snow/block/14", "weight": 1 },
+							{ "model": "block/snow/block/14", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/14", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/14", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/15", "weight": 1 },
+							{ "model": "block/snow/block/15", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/15", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/15", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/16", "weight": 1 },
+							{ "model": "block/snow/block/16", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/16", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/16", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/17", "weight": 1 },
+							{ "model": "block/snow/block/17", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/17", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/17", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/18", "weight": 1 },
+							{ "model": "block/snow/block/18", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/18", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/18", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/19", "weight": 1 },
+							{ "model": "block/snow/block/19", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/19", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/19", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/20", "weight": 1 },
+							{ "model": "block/snow/block/20", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/20", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/20", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/21", "weight": 1 },
+							{ "model": "block/snow/block/21", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/21", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/21", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/22", "weight": 1 },
+							{ "model": "block/snow/block/22", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/22", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/22", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/23", "weight": 1 },
+							{ "model": "block/snow/block/23", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/23", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/23", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/24", "weight": 1 },
+							{ "model": "block/snow/block/24", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/24", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/24", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/25", "weight": 1 },
+							{ "model": "block/snow/block/25", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/25", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/25", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/26", "weight": 1 },
+							{ "model": "block/snow/block/26", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/26", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/26", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/27", "weight": 1 },
+							{ "model": "block/snow/block/27", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/27", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/27", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/28", "weight": 1 },
+							{ "model": "block/snow/block/28", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/28", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/28", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/29", "weight": 1 },
+							{ "model": "block/snow/block/29", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/29", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/29", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/30", "weight": 1 },
+							{ "model": "block/snow/block/30", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/30", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/30", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/31", "weight": 1 },
+							{ "model": "block/snow/block/31", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/31", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/31", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/32", "weight": 1 },
+							{ "model": "block/snow/block/32", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/32", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/32", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/33", "weight": 1 },
+							{ "model": "block/snow/block/33", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/33", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/33", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/34", "weight": 1 },
+							{ "model": "block/snow/block/34", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/34", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/34", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/35", "weight": 1 },
+							{ "model": "block/snow/block/35", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/35", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/35", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/36", "weight": 1 },
+							{ "model": "block/snow/block/36", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/36", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/36", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/37", "weight": 1 },
+							{ "model": "block/snow/block/37", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/37", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/37", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/38", "weight": 1 },
+							{ "model": "block/snow/block/38", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/38", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/38", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/39", "weight": 1 },
+							{ "model": "block/snow/block/39", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/39", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/39", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/40", "weight": 1 },
+							{ "model": "block/snow/block/40", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/40", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/40", "y": 270, "weight": 1 },
+							
+							{ "model": "block/snow/block/41", "weight": 1 },
+							{ "model": "block/snow/block/41", "y": 90, "weight": 1 },
+							{ "model": "block/snow/block/41", "y": 180, "weight": 1 },
+							{ "model": "block/snow/block/41", "y": 270, "weight": 1 }]
+    }
+}

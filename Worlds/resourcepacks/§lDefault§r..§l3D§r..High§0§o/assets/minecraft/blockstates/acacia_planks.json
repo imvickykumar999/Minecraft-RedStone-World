@@ -1,0 +1,27 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+			{ "model": "block/wood/planks/block/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/block/acacia/14", "weight": 1 },
+			
+			{ "model": "block/wood/planks/block/acacia/15", "weight": 1 }
+        ]
+    }
+}

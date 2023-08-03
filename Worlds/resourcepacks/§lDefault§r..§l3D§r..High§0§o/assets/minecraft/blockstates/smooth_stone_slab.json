@@ -1,0 +1,17 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/stone/stone/slab/smooth/bottom/stone", "weight": 40 }
+		],
+        "type=top":[
+			{ "model": "block/stone/stone/slab/smooth/top/stone", "weight": 40 }
+		],
+        "type=double": [
+			{ "model": "block/stone/stone/slab/smooth/double/stone", "weight": 40 }
+        ]
+    }
+}
+

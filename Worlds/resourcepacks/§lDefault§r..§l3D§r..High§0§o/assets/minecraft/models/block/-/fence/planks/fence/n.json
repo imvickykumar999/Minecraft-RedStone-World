@@ -1,0 +1,53 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"elements":[
+	{
+		"__comment":"North bar bottom",
+		"from":[7.5,6,0],
+		"to":[8.5,9,6],
+		"faces": {
+			"down":{"uv":	[0.01,9.01,5.99,9.99],"texture":"#main","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[0.01,7.01,5.99,7.99],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"west":{"uv":	[0.01,7.01,5.99,9.99],"texture":"#main","cullface":"Know2Good"},
+			"east":{"uv":	[5.99,7.01,0.01,9.99],"texture":"#main","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"North bar bottom bottom",
+		"from":[7,6,0],
+		"to":[9,8.002,6],
+		"faces": {
+			"down":{"uv":	[0.01,9.01,5.99,9.99],"texture":"#main","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[0.01,8.01,5.99,8.99],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[0.01,8.01,0.99,9.99],"texture":"#main","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,8.01,5.99,9.99],"texture":"#main","cullface":"Know2Good"},
+			"east":{"uv":	[5.99,8.01,0.01,9.99],"texture":"#main","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"North bar top",
+		"from":[7.5,12,0],
+		"to":[8.5,15,6],
+		"faces": {
+			"down":{"uv":	[0.01,3.01,5.99,3.99],"texture":"#main","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[0.01,1.01,5.99,1.99],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"west":{"uv":	[0.01,1.01,5.99,3.99],"texture":"#main","cullface":"Know2Good"},
+			"east":{"uv":	[5.99,1.01,0.01,3.99],"texture":"#main","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"North bar top top",
+		"from":[7,12.998,0],
+		"to":[9,15,6],
+		"faces": {
+			"down":{"uv":	[0.01,2.01,5.99,2.99],"texture":"#main","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[0.01,1.01,5.99,1.99],"texture":"#main","cullface":"Know2Good","rotation":90},
+			"north":{"uv":	[0.01,1.01,0.99,2.99],"texture":"#main","cullface":"Know2Good"},
+			"west":{"uv":	[0.01,1.01,5.99,2.99],"texture":"#main","cullface":"Know2Good"},
+			"east":{"uv":	[5.99,1.01,0.01,2.99],"texture":"#main","cullface":"Know2Good"}
+			}
+		}
+    ]
+}

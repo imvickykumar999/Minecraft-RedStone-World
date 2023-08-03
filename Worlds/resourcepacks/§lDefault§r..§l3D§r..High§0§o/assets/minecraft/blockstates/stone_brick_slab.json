@@ -1,0 +1,66 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "type=bottom":[
+			{ "model": "block/stone/stone/bricks/slab/bottom/0", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/1", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/2", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/3", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/4", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/5", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/6", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/7", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/8", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/9", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/10", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/11", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/12", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/13", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/14", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/15", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/16", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/bottom/17", "weight": 1 }
+		],
+        "type=top":[
+			{ "model": "block/stone/stone/bricks/slab/top/0", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/1", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/2", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/3", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/4", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/5", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/6", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/7", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/8", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/9", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/10", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/11", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/12", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/13", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/14", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/15", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/16", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/slab/top/17", "weight": 1 }
+		],
+        "type=double": [
+			{ "model": "block/stone/stone/bricks/block/bricks/0", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/1", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/2", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/3", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/4", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/5", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/6", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/7", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/8", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/9", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/10", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/11", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/12", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/13", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/14", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/15", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/16", "weight": 1 },
+			{ "model": "block/stone/stone/bricks/block/bricks/17", "weight": 1 }
+        ]
+    }
+}
+

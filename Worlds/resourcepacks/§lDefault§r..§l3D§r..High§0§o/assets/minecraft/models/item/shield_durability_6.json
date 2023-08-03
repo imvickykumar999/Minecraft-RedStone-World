@@ -1,0 +1,97 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"No UV-bleed, OK coordinate, OK texture, OK cullface",
+
+"textures": {
+	"shield": 	"entity/shield_base_nopattern",
+	"pattern": 	"entity/shield_base",
+	"particle":	"item/shears"
+},
+"elements": [
+	{
+		"__comment":"Grip front",
+		"from": [7,8,8.5],
+		"to": [9,14,9.5],
+		"faces": {
+			"down":{"uv":	[6.502,2.752,6.748,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"up":{"uv":		[6.502,1.502,6.748,1.748],"texture":"#shield","cullface":"Know2Good"},
+			"north":{"uv":	[6.502,1.502,6.748,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"south":{"uv":	[6.502,1.502,6.748,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"west":{"uv":	[6.502,1.502,6.748,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"east":{"uv":	[6.502,1.502,6.748,2.998],"texture":"#shield","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Grip top",
+		"from": [7,13,9.5],
+		"to": [9,14,13.5],
+		"faces": {
+			"down":{"uv":	[6.752,1.502,7.748,1.748],"texture":"#shield","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[6.752,1.502,7.748,1.748],"texture":"#shield","cullface":"Know2Good","rotation":90},
+			"west":{"uv":	[6.752,1.502,7.748,1.748],"texture":"#shield","cullface":"Know2Good"},
+			"east":{"uv":	[6.752,1.502,7.748,1.748],"texture":"#shield","cullface":"Know2Good","rotation":180}
+		}
+	},
+	{
+		"__comment":"Grip back",
+		"from": [7,8,13.5],
+		"to": [9,14,14.5],
+		"faces": {
+			"down":{"uv":	[7.752,2.752,7.998,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"up":{"uv":		[7.752,1.502,7.998,1.748],"texture":"#shield","cullface":"Know2Good"},
+			"north":{"uv":	[7.752,1.502,7.998,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"south":{"uv":	[7.752,1.502,7.998,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"west":{"uv":	[7.752,1.502,7.998,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"east":{"uv":	[7.752,1.502,7.998,2.998],"texture":"#shield","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"Grip bottom",
+		"from": [7,8,9.5],
+		"to": [9,9,13.5],
+		"faces": {
+			"down":{"uv":	[6.752,2.752,7.748,2.998],"texture":"#shield","cullface":"Know2Good","rotation":270},
+			"up":{"uv":		[6.752,2.752,7.748,2.998],"texture":"#shield","cullface":"Know2Good","rotation":90},
+			"west":{"uv":	[6.752,2.752,7.748,2.998],"texture":"#shield","cullface":"Know2Good"},
+			"east":{"uv":	[6.752,2.752,7.748,2.998],"texture":"#shield","cullface":"Know2Good","rotation":180}
+		}
+	}
+],
+   "display": {
+        "gui": {
+            "rotation": 	[ 15, 155, 5 ],
+            "translation": 	[ 0, -1.5, 0 ],
+            "scale": 		[ 0.65, 0.65, 0.65 ]
+        },
+        "ground": {
+            "rotation": 	[ 0, 0, 0 ],
+            "translation": 	[ 0, 2, 0],
+            "scale":		[ 0.275, 0.275, 0.275]
+        },
+        "fixed": {
+            "rotation": 	[ -15, 0, 0 ],
+            "translation": 	[ 0, -2, -2],
+            "scale":		[ 0.75, 0.75, 0.75]
+        },
+        "thirdperson_righthand": {
+            "rotation": 	[ 0, 270, 0 ],
+            "translation": 	[ 3.5, -5, 2 ],
+            "scale": 		[ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": 	[ 0, 270, 0 ],
+            "translation": 	[ 3.5, -5, 2 ],
+            "scale": 		[ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": 	[ 0, 0, -5 ],
+            "translation": 	[ 2.5, -15, -5 ],
+            "scale": 		[ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+             "rotation": 	[ 0, 0, -5 ],
+            "translation": 	[ 2.5, -15, -5 ],
+            "scale": 		[ 1.25, 1.25, 1.25 ]
+        }
+    }
+}

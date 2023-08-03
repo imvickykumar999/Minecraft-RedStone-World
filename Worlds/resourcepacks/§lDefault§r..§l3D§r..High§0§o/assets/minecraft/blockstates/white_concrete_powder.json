@@ -1,0 +1,55 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/white_concrete_powder", "weight": 590 },
+            { "model": "block/white_concrete_powder", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder", "y": 270, "weight": 610 },
+			
+            { "model": "block/white_concrete_powder_alt1", "weight": 590 },
+            { "model": "block/white_concrete_powder_alt1", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder_alt1", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder_alt1", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt1", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt1", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder_alt1", "y": 270, "weight": 610 },
+			
+            { "model": "block/white_concrete_powder_alt2", "weight": 590 },
+            { "model": "block/white_concrete_powder_alt2", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder_alt2", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder_alt2", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt2", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt2", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder_alt2", "y": 270, "weight": 610 },
+			
+            { "model": "block/white_concrete_powder_alt3", "weight": 590 },
+            { "model": "block/white_concrete_powder_alt3", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder_alt3", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder_alt3", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt3", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt3", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder_alt3", "y": 270, "weight": 610 },
+			
+            { "model": "block/white_concrete_powder_alt4", "weight": 590 },
+            { "model": "block/white_concrete_powder_alt4", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder_alt4", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder_alt4", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt4", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt4", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder_alt4", "y": 270, "weight": 610 },
+			
+            { "model": "block/white_concrete_powder_alt5", "weight": 590 },
+            { "model": "block/white_concrete_powder_alt5", "x": 90, "weight": 620 },
+			{ "model": "block/white_concrete_powder_alt5", "y": 90, "weight": 620 },
+            { "model": "block/white_concrete_powder_alt5", "x": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt5", "y": 180, "weight": 600 },
+			{ "model": "block/white_concrete_powder_alt5", "x": 270, "weight": 610 },
+			{ "model": "block/white_concrete_powder_alt5", "y": 270, "weight": 610 }
+        ]
+    }
+}
+

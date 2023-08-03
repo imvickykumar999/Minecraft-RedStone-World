@@ -1,0 +1,30 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D™' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "multipart": [
+        {   "apply": { "model": "block/gui/composter/0" }},
+        {   "when": { "level": "1" },
+            "apply": { "model": "block/gui/composter/1" }
+        },
+        {   "when": { "level": "2" },
+            "apply": { "model": "block/gui/composter/2" }
+        },
+        {   "when": { "level": "3" },
+            "apply": { "model": "block/gui/composter/3" }
+        },
+        {   "when": { "level": "4" },
+            "apply": { "model": "block/gui/composter/4" }
+        },
+        {   "when": { "level": "5" },
+            "apply": { "model": "block/gui/composter/5" }
+        },
+        {   "when": { "level": "6" },
+            "apply": { "model": "block/gui/composter/6" }
+        },
+        {   "when": { "level": "7" },
+            "apply": { "model": "block/gui/composter/7" }
+        },
+        {   "when": { "level": "8" },
+            "apply": { "model": "block/gui/composter/8" }
+        }
+    ]
+}

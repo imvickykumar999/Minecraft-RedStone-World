@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/carpet/black/0", "weight": 8 },
+            { "model": "block/wool/carpet/black/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/black/1", "weight": 8 },
+            { "model": "block/wool/carpet/black/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/black/2", "weight": 8 },
+            { "model": "block/wool/carpet/black/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/black/3", "weight": 8 },
+            { "model": "block/wool/carpet/black/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/black/4", "weight": 8 },
+            { "model": "block/wool/carpet/black/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/carpet/black/5", "weight": 8 },
+            { "model": "block/wool/carpet/black/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/carpet/black/6", "weight": 8 },
+            { "model": "block/wool/carpet/black/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/7", "weight": 8 },
+            { "model": "block/wool/carpet/black/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/8", "weight": 8 },
+            { "model": "block/wool/carpet/black/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/9", "weight": 8 },
+            { "model": "block/wool/carpet/black/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/10", "weight": 8 },
+            { "model": "block/wool/carpet/black/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/11", "weight": 8 },
+            { "model": "block/wool/carpet/black/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/12", "weight": 8 },
+            { "model": "block/wool/carpet/black/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/carpet/black/13", "weight": 8 },
+			{ "model": "block/wool/carpet/black/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

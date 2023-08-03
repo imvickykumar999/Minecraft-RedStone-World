@@ -1,0 +1,32 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "block/stone/cobblestone/wall/post/0" }
+        },
+        {   "when": { "north": "low" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/short/0"}
+        },
+        {   "when": { "east": "low" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/short/0", "y": 90}
+        },
+        {   "when": { "south": "low" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/short/0", "y": 180}
+        },
+        {   "when": { "west": "low" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/short/0", "y": 270}
+        },
+        {   "when": { "north": "tall" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/tall/0"}
+        },
+        {   "when": { "east": "tall" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/tall/0", "y": 90}
+        },
+        {   "when": { "south": "tall" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/tall/0", "y": 180}
+        },
+        {   "when": { "west": "tall" },
+            "apply": { "model": "block/stone/cobblestone/wall/side/tall/0", "y": 270}
+        }
+    ]
+}

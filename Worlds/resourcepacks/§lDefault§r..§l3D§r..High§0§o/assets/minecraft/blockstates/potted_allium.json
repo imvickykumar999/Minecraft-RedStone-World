@@ -1,0 +1,26 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "": [
+            { "model": "block/potted_allium_purple", "weight": 40 },
+            { "model": "block/potted_allium_purple", "y": 90, "weight": 40 },
+            { "model": "block/potted_allium_purple", "y": 180, "weight": 40 },
+            { "model": "block/potted_allium_purple", "y": 270, "weight": 40 },
+			
+			{ "model": "block/potted_allium_white", "weight": 30 },
+            { "model": "block/potted_allium_white", "y": 90, "weight": 30 },
+            { "model": "block/potted_allium_white", "y": 180, "weight": 30 },
+            { "model": "block/potted_allium_white", "y": 270, "weight": 30 },
+			
+			{ "model": "block/potted_allium_blue", "weight": 30 },
+            { "model": "block/potted_allium_blue", "y": 90, "weight": 30 },
+            { "model": "block/potted_allium_blue", "y": 180, "weight": 30 },
+            { "model": "block/potted_allium_blue", "y": 270, "weight": 30 },
+			
+			{ "model": "block/potted_allium_pink", "weight": 40 },
+            { "model": "block/potted_allium_pink", "y": 90, "weight": 40 },
+            { "model": "block/potted_allium_pink", "y": 180, "weight": 40 },
+            { "model": "block/potted_allium_pink", "y": 270, "weight": 40 }
+        ]
+    }
+}

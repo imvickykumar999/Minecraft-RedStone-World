@@ -1,0 +1,55 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "item/-/tool/pickaxe/0",
+
+"textures": {
+	"block": 	"item/netherite_pickaxe",
+	"particle":	"item/netherite_pickaxe"
+    },
+
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "item/netherite_pickaxe"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.50
+            },
+            "model": "item/netherite_pickaxe_durability_1"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.65
+            },
+            "model": "item/netherite_pickaxe_durability_2"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.80
+            },
+            "model": "item/netherite_pickaxe_durability_3"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/netherite_pickaxe_durability_4"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99
+            },
+            "model": "item/netherite_pickaxe_durability_5"
+        }
+    ]
+}

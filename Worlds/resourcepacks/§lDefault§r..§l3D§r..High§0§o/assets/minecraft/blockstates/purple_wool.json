@@ -1,0 +1,56 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ || © Know2Good. All rights reserved. ",
+	"variants": {
+        "": [
+            { "model": "block/wool/block/purple/0", "weight": 8 },
+            { "model": "block/wool/block/purple/0", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/purple/1", "weight": 8 },
+            { "model": "block/wool/block/purple/1", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/purple/2", "weight": 8 },
+            { "model": "block/wool/block/purple/2", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/purple/3", "weight": 8 },
+            { "model": "block/wool/block/purple/3", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/purple/4", "weight": 8 },
+            { "model": "block/wool/block/purple/4", "y": 180, "weight": 11 },
+			
+            { "model": "block/wool/block/purple/5", "weight": 8 },
+            { "model": "block/wool/block/purple/5", "y": 180, "weight": 11 },
+			
+			{ "model": "block/wool/block/purple/6", "weight": 8 },
+            { "model": "block/wool/block/purple/6", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/7", "weight": 8 },
+            { "model": "block/wool/block/purple/7", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/8", "weight": 8 },
+            { "model": "block/wool/block/purple/8", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/9", "weight": 8 },
+            { "model": "block/wool/block/purple/9", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/10", "weight": 8 },
+            { "model": "block/wool/block/purple/10", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/11", "weight": 8 },
+            { "model": "block/wool/block/purple/11", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/12", "weight": 8 },
+            { "model": "block/wool/block/purple/12", "y": 180, "weight": 11 },
+
+			
+			{ "model": "block/wool/block/purple/13", "weight": 8 },
+			{ "model": "block/wool/block/purple/13", "y": 180, "weight": 11 }
+        ]
+    }
+}
+

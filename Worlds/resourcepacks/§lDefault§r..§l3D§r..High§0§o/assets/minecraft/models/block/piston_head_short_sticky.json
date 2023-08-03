@@ -1,0 +1,18 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/piston_head_sticky",
+
+"textures": {
+	"head": 		"know2good/blocks/stone/piston/head_sticky",
+	"head_bottom": 	"know2good/blocks/stone/piston/head_bottom",
+    "north": 		"know2good/blocks/stone/piston/north",
+	"east": 		"know2good/blocks/stone/piston/east",
+	"south": 		"know2good/blocks/stone/piston/south",
+	"west": 		"know2good/blocks/stone/piston/west",
+	"bottom": 		"know2good/blocks/stone/piston/bottom",
+	"detail": 		"know2good/blocks/stone/piston/detail",
+	"particle": 	"know2good/blocks/stone/piston/head"
+    }
+}

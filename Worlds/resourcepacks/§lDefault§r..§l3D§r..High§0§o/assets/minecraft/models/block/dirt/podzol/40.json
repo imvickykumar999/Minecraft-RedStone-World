@@ -1,0 +1,20 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985740/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"parent": "block/-/podzol",
+
+"textures": {
+	"top": 			"know2good/blocks/dirt/podzol/12/main",
+	"north": 		"know2good/blocks/dirt/dirt/40/north",
+	"east": 		"know2good/blocks/dirt/dirt/40/east",
+	"south": 		"know2good/blocks/dirt/dirt/40/south",
+	"west": 		"know2good/blocks/dirt/dirt/40/west",
+	"bottom": 		"know2good/blocks/dirt/dirt/40/main",
+	"north_side": 	"know2good/blocks/dirt/podzol/12/north",
+	"east_side": 	"know2good/blocks/dirt/podzol/12/east",
+	"south_side": 	"know2good/blocks/dirt/podzol/12/south",
+	"west_side": 	"know2good/blocks/dirt/podzol/12/west",
+	"particle": 	"know2good/blocks/dirt/podzol/12/main"
+    }
+}

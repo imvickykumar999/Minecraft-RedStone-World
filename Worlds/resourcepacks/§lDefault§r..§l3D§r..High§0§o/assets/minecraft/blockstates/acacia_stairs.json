@@ -1,0 +1,845 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2981741/ or http://know2good.com/ || © Know2Good. All rights reserved. ",
+    "variants": {
+        "facing=east,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/n/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/e/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/s/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=straight":[
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/straight/w/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/w/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/n/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/e/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/outer/s/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/e/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/s/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/w/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=bottom,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/bottom/inner/n/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/n/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/e/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/s/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=straight":[
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/straight/w/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_right":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/w/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/n/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/e/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=outer_left":[
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/outer/s/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_right":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/15", "weight": 1 }
+		],
+        "facing=east,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/n/acacia/15", "weight": 1 }
+		],
+        "facing=south,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/e/acacia/15", "weight": 1 }
+		],
+        "facing=west,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/s/acacia/15", "weight": 1 }
+		],
+        "facing=north,half=top,shape=inner_left":[
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/0", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/1", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/2", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/3", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/4", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/5", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/6", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/7", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/8", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/9", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/10", "weight": 1 },
+			
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/11", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/12", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/13", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/14", "weight": 1 },
+			{ "model": "block/wood/planks/stairs/top/inner/w/acacia/15", "weight": 1 }
+		]
+    }
+}

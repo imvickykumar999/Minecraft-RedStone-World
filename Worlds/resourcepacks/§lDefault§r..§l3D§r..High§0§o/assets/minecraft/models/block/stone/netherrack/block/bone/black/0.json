@@ -1,0 +1,68 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"main": 	"know2good/blocks/stone/netherrack/block/normal/0/main",
+	"north": 	"know2good/blocks/stone/netherrack/block/normal/0/north",
+	"east": 	"know2good/blocks/stone/netherrack/block/normal/0/east",
+	"south": 	"know2good/blocks/stone/netherrack/block/normal/0/south",
+	"west": 	"know2good/blocks/stone/netherrack/block/normal/0/west",
+	"bone": 	"know2good/blocks/decoration/ground/bone/black",
+	"particle": "know2good/blocks/stone/netherrack/block/normal/0/main"
+},
+"elements": [ 
+	{
+		"__comment": "Block",
+		"from": [0,0,0],
+		"to": [16,16,16],
+		"faces": {
+			"down":		{"texture":"#main","cullface":"down"},
+			"up":		{"texture":"#main","cullface":"up"},
+			"north":	{"texture":"#north","cullface":"north"},
+			"south":	{"texture":"#south","cullface":"south"},
+			"west":		{"texture":"#west","cullface":"west"},
+			"east":		{"texture":"#east","cullface":"east"}
+		}
+	},
+	{
+		"__comment":"Bone middle",
+		"from": [2,16,6],
+		"to": [15,17,8],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 22.5 },
+		"faces": {
+			"up":{"uv":		[0,6,13,8],"texture":"#bone","cullface":"up"},
+			"north":{"uv":	[0,6,13,7],"texture":"#bone","cullface":"up","rotation":180},
+			"south":{"uv":	[0,7,13,8],"texture":"#bone","cullface":"up"},
+			"west":{"uv":	[0,6,1,8],"texture":"#bone","cullface":"up","rotation":270},
+			"east":{"uv":	[12,6,13,8],"texture":"#bone","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Bone left",
+		"from": [3,16,5],
+		"to": [4,16.998,9],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 22.5 },
+		"faces": {
+			"up":{"uv":		[1,5,2,9],"texture":"#bone","cullface":"up"},
+			"north":{"uv":	[1,5,2,6],"texture":"#bone","cullface":"up","rotation":180},
+			"south":{"uv":	[1,8,2,9],"texture":"#bone","cullface":"up"},
+			"west":{"uv":	[1,5,2,9],"texture":"#bone","cullface":"up","rotation":270},
+			"east":{"uv":	[1,5,2,9],"texture":"#bone","cullface":"up","rotation":90}
+		}
+	},
+	{
+		"__comment":"Bone right",
+		"from": [13,16,5],
+		"to": [14,16.998,9],
+		"rotation": {"origin": [ 8, 1, 8 ], "axis": "y", "angle": 22.5 },
+		"faces": {
+			"up":{"uv":		[11,5,12,9],"texture":"#bone","cullface":"up"},
+			"north":{"uv":	[11,5,12,6],"texture":"#bone","cullface":"up","rotation":180},
+			"south":{"uv":	[11,8,12,9],"texture":"#bone","cullface":"up"},
+			"west":{"uv":	[11,5,12,9],"texture":"#bone","cullface":"up","rotation":270},
+			"east":{"uv":	[11,5,12,9],"texture":"#bone","cullface":"up","rotation":90}
+            }
+        }
+    ]
+}
