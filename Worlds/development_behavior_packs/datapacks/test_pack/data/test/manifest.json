@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Function worldedit",
+        "name": "Function worldedit",
+        "uuid": "3958f9a2-96e4-4db0-a907-145d065cd7f0",
+        "version": [1, 11, 3],
+        "min_engine_version": [1, 11, 3]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "bf02b394-79ac-4715-84cc-4048acc3ff06",
+            "version": [1, 11, 3]
+        }
+    ]
+}
