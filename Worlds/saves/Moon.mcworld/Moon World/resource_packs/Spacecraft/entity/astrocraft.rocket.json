@@ -1,0 +1,31 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": 
+      { "identifier": "astrocraft:rocket",
+			"materials": {
+				"default": "armor"
+      },
+      "textures": {
+        "default": "textures/entity/rocket"
+      },
+      "geometry": {
+        "default": "geometry.rocket"
+      },
+      "animations": {
+        "move": "animation.rocket"
+         },
+         "spawn_egg":{
+            "texture":"rocket",
+            "texture_index":0
+         },
+      "scripts": {
+        "animate": [
+          "move"
+        ]
+      },
+      "render_controllers": [ "controller.render.base",
+      "controller.render.base"]
+    }
+  }
+}

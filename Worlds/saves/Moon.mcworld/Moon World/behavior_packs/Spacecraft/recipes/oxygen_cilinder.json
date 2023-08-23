@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "astrocraft:oxygen_cilinder"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XBX",
+      "XCX",
+      "XAX"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_block"
+       },
+          "B": {
+        "item": "minecraft:wool"
+          },
+          "C": {
+        "item": "minecraft:bucket"
+          }
+    },
+    "result": {
+      "item": "astrocraft:oxygen_cilinder"
+    }
+  }
+}

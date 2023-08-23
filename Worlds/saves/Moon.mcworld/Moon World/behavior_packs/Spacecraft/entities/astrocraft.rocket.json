@@ -1,0 +1,99 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "astrocraft:rocket",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false,
+   	  "scripts": {    
+				"animate": [   
+			   "rocket",
+			   "rocket_fall"
+				]
+			},
+			"animations": {
+      "rocket": "controller.animation.rocket",
+      "rocket_fall": "controller.animation.rocket_fall"
+        }
+      },
+    "component_groups": {
+    },
+    "components": {
+     "minecraft:damage_sensor": {
+       "triggers": {
+         "on_damage": {
+     "filters": { "test" : "is_family", "subject" : "other", "value" : "player"},
+            "event": "click_form"
+          },
+          "deals_damage": false
+        }
+      },
+      "minecraft:type_family": {
+        "family": [ "trucks" ]
+      },
+      "minecraft:breathable": {
+        "totalSupply": 15,
+        "suffocateTime": 0
+      },
+      "minecraft:collision_box": {
+        "width": 1.0,
+        "height": 1.0
+        },
+
+      "minecraft:fall_damage": {
+        "value": 0.0
+	  },
+      "minecraft:knockback_resistance": {
+        "value": 1.0
+      },
+         "minecraft:navigation.walk": {
+        "can_path_over_water": true
+        },
+        "minecraft:movement.basic": {
+        },
+      "minecraft:health": {
+        "value": 10,
+        "max": 10
+      },
+      "minecraft:movement": {
+        "value": {
+          "range_min": 0.1, 
+          "range_max": 0.2
+        }
+      },
+     "minecraft:scale": {
+	   "value": 1.2
+      }, 
+     "minecraft:nameable": {
+      },
+	  "minecraft:fire_immune": true,
+	  "minecraft:inventory": {
+        "inventory_size": 0,
+        "container_type": "", 
+        "private": true
+       },
+	  "minecraft:rideable": {
+        "priority": 0,
+        "seat_count": 1,
+        "crouching_skip_interact": true,
+        "family_types": [
+          "player"
+        ],
+        "interact_text": "action.interact.sit",
+        "seats": {
+      "position": [ 0.0, 1.0, 0.0 ]
+        }
+      },
+      "minecraft:input_ground_controlled": {
+      },
+      
+
+      "minecraft:physics": {
+      }
+    },
+
+    "events": {
+    }
+  }
+}

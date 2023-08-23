@@ -1,0 +1,17 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+    "controller.animation.loop": {
+      "states": {
+        "default": {
+          "transitions": [ { "walk": "(1.0)" } ],
+          "on_entry": [ "/function looping" ]
+        },
+        "walk": {
+          "transitions": [ { "default": "(1.0)" } ],
+          "on_entry": [ "/function looping" ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+   "format_version":"1.10.0",
+   "animation_controllers":{
+      "controller.animation.rocket":{
+         "states":{
+            "default":{
+               "transitions":[
+                  {
+            "result":"query.health == 10"
+                  }
+               ]
+            },
+            "result":{
+               "on_entry":[
+       "/execute @a[tag=riding] ~~~ function scoreboard"
+               ],
+               "transitions":[
+                  {
+                     "default":"(1.0)"
+                  }
+               ]
+            }
+         }
+      }
+   }
+}

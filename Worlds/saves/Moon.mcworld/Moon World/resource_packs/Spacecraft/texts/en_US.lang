@@ -1,0 +1,14 @@
+item.astrocraft:rocket_top.name=Top of Basic Rocket
+item.astrocraft:rocket_side.name=Basic Rocket Side
+item.astrocraft:rocket_propellant.name=Rocket Propellant
+item.astrocraft:fuel.name=Rocket Fuel
+item.astrocraft:rocket_spawn.name=Spawn Basic Rocket
+
+item.astrocraft:space_suit_helmet.name=Space-Suit Helmet
+item.astrocraft:space_suit_chestplate.name=Space-Suit Chestplate
+item.astrocraft:space_suit_leggings.name=Space-Suit Leggings
+item.astrocraft:space_suit_boots.name=Space-Suit Boots
+
+item.spawn_egg.entity.astrocraft:rocket.name=Basic Rocket
+entity.astrocraft:rocket.name=Rocket
+action.hint.exit.astrocraft:rocket=Exit

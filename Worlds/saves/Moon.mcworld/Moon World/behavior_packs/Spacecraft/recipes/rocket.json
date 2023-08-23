@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "astrocraft:rocket_spawn"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "AAA",
+      "FCF"
+    ],
+    "key": {
+      "A": {
+        "item": "astrocraft:rocket_side"
+       },
+          "B": {
+        "item": "astrocraft:rocket_top"
+        },
+              "C": {
+        "item": "astrocraft:rocket_propellant"
+              },
+              "F": {
+        "item": "astrocraft:fuel"
+          }
+    },
+    "result": {
+      "item": "astrocraft:rocket_spawn"
+    }
+  }
+}

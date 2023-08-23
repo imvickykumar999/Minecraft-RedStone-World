@@ -1,0 +1,26 @@
+{
+   "format_version":"1.10.0",
+   "animation_controllers":{
+      "controller.animation.gravity":{
+         "states":{
+            "default":{
+               "transitions":[
+                  {
+                     "result":"query.is_on_ground"
+                  }
+               ]
+            },
+            "result":{
+               "on_entry":[
+       "/function gravity"
+               ],
+               "transitions":[
+                  {
+                     "default":"(1.0)"
+                  }
+               ]
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,45 @@
+{
+  "resource_pack_name": "Cosmic-Craft - Item Texture Json",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "rocket_side": {
+      "textures": "textures/items/rocket_side"
+    },
+   "rocket_top": {
+      "textures": "textures/items/rocket_top"
+    },
+    "rocket_propellant": {
+        "textures": "textures/items/rocket_propellant"
+    },
+    "fuel": {
+        "textures": "textures/items/fuel"
+    },
+    "oxygen_cilinder": {
+        "textures": "textures/items/oxygen_cilinder"
+    },
+    "astronaut_helmet": {
+        "textures": "textures/items/astronaut_helmet"
+    },
+    "astronaut_chestplate": {
+        "textures": "textures/items/astronaut_chestplate"
+    },
+    "astronaut_leggings": {
+        "textures": "textures/items/astronaut_leggings"
+    },
+    "astronaut_boots": {
+        "textures": "textures/items/astronaut_boots"
+    },
+    "rocket": {
+        "textures": "textures/items/rocket"
+    },
+    "enlatado2_texture": {
+        "textures": "textures/items/enlatado2"
+    },
+    "enlatado3_texture": {
+        "textures": "textures/items/enlatado3"
+    },
+    "carne1_texture": {
+        "textures": "textures/items/carne1"
+    }
+}
+}

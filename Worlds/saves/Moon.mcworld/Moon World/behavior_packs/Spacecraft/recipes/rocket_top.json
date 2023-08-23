@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "astrocraft:rocket_top"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "XAX",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+          }
+    },
+    "result": {
+      "item": "astrocraft:rocket_top"
+    }
+  }
+}

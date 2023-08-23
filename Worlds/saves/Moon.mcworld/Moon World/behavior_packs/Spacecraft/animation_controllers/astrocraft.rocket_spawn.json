@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+    "controller.animation.rocket_spawn": {
+      "states": {
+        "default": {
+          "transitions": [ { "spawn": "variable.attack_time && query.get_equipped_item_name == 'rocket_spawn'" } ],
+          "on_entry": [ "" ]
+        },
+        "spawn": {
+          "transitions": [ { "default": "!variable.attack_time && query.get_equipped_item_name == 'rocket_spawn'" } ],
+          "on_entry": [ 
+ "/summon astrocraft:rocket ^ ^ ^1", "/clear @s astrocraft:rocket_spawn"]
+        }
+      }
+    }
+  }
+}

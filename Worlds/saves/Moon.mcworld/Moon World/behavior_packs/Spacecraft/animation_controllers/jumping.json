@@ -1,0 +1,26 @@
+{
+   "format_version":"1.10.0",
+   "animation_controllers":{
+      "controller.animation.jumping":{
+         "states":{
+            "default":{
+               "transitions":[
+                  {
+                     "result":"query.is_jumping"
+                  }
+               ]
+            },
+            "result":{
+               "on_entry":[
+       "/function gravity2"
+               ],
+               "transitions":[
+                  {
+                     "default":"(1.0)"
+                  }
+               ]
+            }
+         }
+      }
+   }
+}
