@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/netherite_block" },
+            { "model": "block/netherite_block_mirrored" }
+        ]
+    }
+}

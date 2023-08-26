@@ -1,0 +1,90 @@
+
+==================================================================================================================================================================
+Greenfield v0.5.4
+==================================================================================================================================================================
+Minecraft version: Java 1.17.1
+==================================================================================================================================================================
+
+Welcome to the city of Greenfield. Greenfield is a city like no other. Built to the finest detail, but also on a carefully planned
+large scale. The city is built using a 1:1 Scale (1 block = 1 cubic meter) and is made to feel like you are walking around a real city
+whilst you are exploring it. Greenfield started back in August 2011, and is still being worked on to this day to bring new updates and
+new areas to explore. The things that you can find in Greenfield are the same as any large real life city. There is a Downtown area 
+with huge skyscrapers, nice rich suburbs, poor decaying ghettos, industrial areas, as well as a vast network of roads,highways,railways and subways. 
+The map is also littered with secrets and Easter eggs for you to find if you look hard enough. Follow us on Facebook & twitter for regular updates on the project.
+
+==================================================================================================================================================================
+
+Installing the map:
+you need to unzip the download file, place the 'Greenfield Patron Edition x' folder inside your minecraft saves folder and the map will appear in-game.
+Please watch this video on detailed instructions on how to download/install Greenfield and the texture pack
+
+https://www.youtube.com/watch?v=b3aSSvot3s8
+
+==================================================================================================================================================================
+
+Some useful links:
+
+Downloaded from:
+http://bit.ly/1jrWet4
+
+Join the official building team:
+http://bit.ly/1fM7YXI
+
+Join the Greenfield Discord:
+https://bit.ly/3grwcIU
+
+Support Greenfield on Patreon:
+https://bit.ly/3d3EuVz
+
+
+Follow us on social media to keep up to date with the project!
+
+Facebook:
+https://goo.gl/CVhTEc
+
+Twitter:
+https://goo.gl/Btp1pb
+
+Instagram:
+https://bit.ly/2znbDwU
+
+YouTube:
+https://goo.gl/v9JPM6
+
+==================================================================================================================================================================
+
+USAGE NOTICES AND RULES
+
+A NOTE FOR USERS USING OUR MAP ON A SERVER:
+If you are using Greenfield on a public or private server, please have a visible and readable location for players to see with a link to this PlanetMinecraft page for credit.
+
+A NOTE FOR USERS USING OUR MAP IN VIDEOS/BLOGS:
+If you are using Greenfield for a video, blog, or any other form of social media, please provide a link in the description or within the blog itself.
+
+A NOTE FOR USERS USING OUR MAP IN OTHER PROJECTS:
+If you are using Greenfield for a project, public or private, of any type and wish to distribute that project (with specific builds or sections of Greenfield),
+you MUST email us at contact@greenfieldmc.net and receive a reply granting permission of use. If you do not receive a reply within 30 days, your permission request
+will automatically be denied.
+
+==================================================================================================================================================================
+
+Greenfield Staff: 
+
+THEJESTR11 - Owner & Founder
+56515 - Admin 
+NJDaeger - Admin  
+Bluecolty - Admin
+Staples_ - Admin
+
+Carrot - Supervisor
+Cooth - Supervisor
+Golden - Supervisor
+MrDasky - Supervisor
+Bent - Supervisor
+
+
+==================================================================================================================================================================
+
+Thank you for downloading Greenfield! 
+
+================================================================================================================================================================== 

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pink_candle_base",
+  "textures": {
+    "texture": "minecraft:block/pink_candle_1_on"
+  }
+}
