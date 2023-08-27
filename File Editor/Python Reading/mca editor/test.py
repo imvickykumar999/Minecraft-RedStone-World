@@ -1,13 +1,15 @@
 
 # pip install anvil-parser
 import anvil
+from random import choice
 
-region = anvil.Region.from_file('region/r.0.0.mca')
+# region = anvil.Region.from_file('r.0.0.mca')
+# print(region)
+# <anvil.region.Region object at 0x0000025BD83A2F70>
+
+# region = anvil.Region.from_file('region/r.0.0.mca')
 # region = anvil.Region.from_file('entities/r.0.0.mca')
 # region = anvil.Region.from_file('poi/r.0.0.mca')
-
-print(region)
-# <anvil.region.Region object at 0x0000025BD83A2F70>
 
 # x_z_chunk = region.get_chunk(0,0)
 # print(x_z_chunk)
@@ -117,3 +119,26 @@ class Region(builtins.object)
 
 None
 '''
+
+# Create a new region with the `EmptyRegion` class at 0, 0 (in region coords)
+region = anvil.EmptyRegion(0, 0)
+print(help(region))
+# <anvil.empty_region.EmptyRegion object at 0x00000212F066B580>
+
+# Create `Block` objects that are used to set blocks
+stone = anvil.Block('minecraft', 'stone')
+print(stone)
+# Block(minecraft:stone)
+
+dirt = anvil.Block('minecraft', 'dirt')
+print(dirt)
+# Block(minecraft:dirt)
+
+# # Make a 16x16x16 cube of either stone or dirt blocks
+# for y in range(16):
+#     for z in range(16):
+#         for x in range(16):
+#             region.set_block(choice((stone, dirt)), x, y, z)
+
+# # Save to a file
+# region.save('r.0.0.mca')
