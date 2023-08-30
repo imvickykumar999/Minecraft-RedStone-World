@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "facing=east": [
+            { "model": "block/spooky_decor/halloween_lights", "y": 90, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights1", "y": 90, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights2", "y": 90, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights3", "y": 90, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights4", "y": 90, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights5", "y": 90, "weight": 1 }
+        ],
+        "facing=north": [
+            { "model": "block/spooky_decor/halloween_lights", "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights1", "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights2", "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights3", "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights4", "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights5", "weight": 1 }
+        ],
+        "facing=south": [
+            { "model": "block/spooky_decor/halloween_lights", "y": 180, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights1", "y": 180, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights2", "y": 180, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights3", "y": 180, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights4", "y": 180, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights5", "y": 180, "weight": 1 }
+        ],
+        "facing=west": [
+            { "model": "block/spooky_decor/halloween_lights", "y": 270, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights1", "y": 270, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights2", "y": 270, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights3", "y": 270, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights4", "y": 270, "weight": 1 },
+            { "model": "block/spooky_decor/halloween_lights5", "y": 270, "weight": 1 }
+        ]
+    }
+}

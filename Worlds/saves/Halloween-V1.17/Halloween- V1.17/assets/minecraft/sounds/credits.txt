@@ -1,0 +1,20 @@
+-Music Credits:
+Menu Music:
+
+Menu1 = No Copyright Music - Spook
+Menu2 = No Copyright Music - Spook 2
+Menu3 = No Copyright Music - Spook 3
+
+Nether:
+
+Nether1 = No Copyright Music - Ghost Story
+Nether2 = No Copyright Music - Ghost
+Nether3 = No Copyright Music - Something Wicked
+
+Music Discs:
+
+blocks:
+far: Gooseworx - Song that might play when you fight sans remix
+cat: The Living Tombstone - Spooky scary skeletons remix
+chirp: Bobacupcake - theme of really spooky bird
+stal: Pixel Sketch - Stal (Spooky Version)

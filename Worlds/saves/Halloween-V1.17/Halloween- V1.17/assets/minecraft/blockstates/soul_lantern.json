@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "hanging=false": [
+            { "model": "block/creepy_decor/big_grave", "weight": 1 },
+            { "model": "block/creepy_decor/big_grave", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/big_grave", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/big_grave", "y": 270, "weight": 1 },
+            { "model": "block/creepy_decor/cross_grave", "weight": 1 },
+            { "model": "block/creepy_decor/cross_grave", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/cross_grave", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/cross_grave", "y": 270, "weight": 1 },
+            { "model": "block/creepy_decor/spooky_candles", "weight": 1 },
+            { "model": "block/creepy_decor/spooky_candles", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/spooky_candles", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/spooky_candles", "y": 270, "weight": 1 },
+            { "model": "block/creepy_decor/vine_grave", "weight": 1 },
+            { "model": "block/creepy_decor/vine_grave", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/vine_grave", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/vine_grave", "y": 270, "weight": 1 }
+        ],
+        "hanging=true": [
+            { "model": "block/creepy_decor/pumpkin_lantern", "weight": 1 },
+            { "model": "block/creepy_decor/pumpkin_lantern", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/pumpkin_lantern", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/pumpkin_lantern", "y": 270, "weight": 1 },
+            { "model": "block/creepy_decor/ghost_lantern", "weight": 1 },
+            { "model": "block/creepy_decor/ghost_lantern", "y": 90, "weight": 1 },
+            { "model": "block/creepy_decor/ghost_lantern", "y": 180, "weight": 1 },
+            { "model": "block/creepy_decor/ghost_lantern", "y": 270, "weight": 1 }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crimson_roots/crimson_roots" },
+            { "model": "block/crimson_roots/crimson_roots1" },
+            { "model": "block/crimson_roots/crimson_roots2" }
+        ]
+    }
+}

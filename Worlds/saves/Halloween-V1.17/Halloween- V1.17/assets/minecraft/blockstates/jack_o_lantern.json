@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "facing=east": [
+            { "model": "block/jack_o_lantern/jack_o_lantern", "y": 90, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern1", "y": 90, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern2", "y": 90, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern3", "y": 90, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern4", "y": 90, "weight": 1 },
+            { "model": "block/jack_o_lantern/jack_o_lantern5", "y": 90, "weight": 5 }
+        ],
+        "facing=north": [
+            { "model": "block/jack_o_lantern/jack_o_lantern", "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern1", "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern2", "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern3", "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern4", "weight": 1 },
+            { "model": "block/jack_o_lantern/jack_o_lantern5", "weight": 5 }
+        ],
+        "facing=south": [
+            { "model": "block/jack_o_lantern/jack_o_lantern", "y": 180, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern1", "y": 180, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern2", "y": 180, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern3", "y": 180, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern4", "y": 180, "weight": 1 },
+            { "model": "block/jack_o_lantern/jack_o_lantern5", "y": 180, "weight": 5 }
+        ],
+        "facing=west": [
+            { "model": "block/jack_o_lantern/jack_o_lantern", "y": 270, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern1", "y": 270, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern2", "y": 270, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern3", "y": 270, "weight": 5 },
+            { "model": "block/jack_o_lantern/jack_o_lantern4", "y": 270, "weight": 1 },
+            { "model": "block/jack_o_lantern/jack_o_lantern5", "y": 270, "weight": 5 }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "multipart": [
+        {   "when": { "has_record": "false" },
+            "apply": { "model": "block/jukebox_nodisc", "uvlock": false }
+        },
+        {   "when": { "has_record": "true" },
+            "apply": { "model": "block/jukebox", "uvlock": false }
+        }
+    ]
+}
