@@ -1,0 +1,28 @@
+This map was created by a lot of awesome people.
+Please respect this and give credit where due.
+
+Main project lead & builder:
+- N11cK
+http://youtube.com/theN11cK
+
+Builders:
+- BillyWar
+- FortressWorks
+- KKLuke
+- Lars_2000_
+- k44du2
+- xHaviiHx
+- Sp3d0
+- Imraffi
+- PineappleM
+- SportyWeiz
+- Maeete
+- Builderboy
+- Skyfuller
+- Grimreaperjon
+- Sirlino
+- Blockmaster12000
+- Heytrain
+& Many others
+
+special thanks to Zanax for providing custom plugins for the build server.
